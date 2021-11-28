@@ -1,0 +1,290 @@
+[
+{
+    "Zone": "Anuradhapura",
+    "Division": "Nuwaragam Palatha East",
+    "School": "Anuradhapura Central College,Anuradhapura",
+    "Type": "1AB",
+    "Students": 4837,
+    "Teachers": 168
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Nuwaragam Palatha East",
+    "School": "Swarnapali Balika Maha Vidyalaya,Anuradhapura",
+    "Type": "1AB",
+    "Students": 4372,
+    "Teachers": 164
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Nuwaragam Palatha East",
+    "School": "Zahira Muslim Maha Vidyalaya,Anuradhapura",
+    "Type": "1AB",
+    "Students": 1154,
+    "Teachers": 62
+},
+{
+    "Zone": "Kebithigollewa",
+    "Division": "Medawachchiya",
+    "School": "Maithripala Senanayake Central College,Medawachchiya",
+    "Type": "1AB",
+    "Students": 2940,
+    "Teachers": 128
+},
+{
+    "Zone": "Kekirawa",
+    "Division": "Kekirawa",
+    "School": "Kekirawa Central College,Kekirawa",
+    "Type": "1AB",
+    "Students": 3141,
+    "Teachers": 118
+},
+{
+    "Zone": "Thambuttegama",
+    "Division": "Thalawa",
+    "School": "Sri Siddhartha Central College,Eppawala",
+    "Type": "1AB",
+    "Students": 3137,
+    "Teachers": 141
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Nuwaragam Palatha East",
+    "School": "St Joseph's College, Anuradhapura,Anuradhapura",
+    "Type": "1AB",
+    "Students": 2545,
+    "Teachers": 130
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Nuwaragam Palatha East",
+    "School": "President's (Deepani) College,Anuradhapura",
+    "Type": "1AB",
+    "Students": 784,
+    "Teachers": 85
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Nuwaragam Palatha East",
+    "School": "Walisinghe Harishchandra Maha Vidyalaya,Anuradhapura",
+    "Type": "1AB",
+    "Students": 4728,
+    "Teachers": 205
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Nuwaragam Palatha East",
+    "School": "Niwaththaka Chethiya Maha Vidyalaya,Anuradhapura",
+    "Type": "1AB",
+    "Students": 3369,
+    "Teachers": 141
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Nachchaduwa",
+    "School": "Kaluwila Sena Maha Vidyalaya,Hidogama",
+    "Type": "1AB",
+    "Students": 1166,
+    "Teachers": 53
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Nochchiyagama",
+    "School": "Vidyadarsha Maha Vidyalaya,Nochchiyagama",
+    "Type": "1AB",
+    "Students": 2118,
+    "Teachers": 108
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Rambewa",
+    "School": "Rambewa Maha Vidyalaya,Rambewa",
+    "Type": "1AB",
+    "Students": 1401,
+    "Teachers": 82
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Rambewa",
+    "School": "Al Noor Muslim Maha Vidyalaya,Ikirigollewa",
+    "Type": "1AB",
+    "Students": 1125,
+    "Teachers": 64
+},
+{
+    "Zone": "Anuradhapura",
+    "Division": "Vilachchiya",
+    "School": "Siddhartha Maha Vidyalaya,Pemaduwa",
+    "Type": "1AB",
+    "Students": 615,
+    "Teachers": 49
+},
+{
+    "Zone": "Kekirawa",
+    "Division": "Kekirawa",
+    "School": "Sri Rewatha Maha Vidyalaya,Madatugama",
+    "Type": "1AB",
+    "Students": 764,
+    "Teachers": 54
+},
+{
+    "Zone": "Kekirawa",
+    "Division": "Kekirawa",
+    "School": "Kadadagama Jaya Muslim Maha Vidyalaya,Pubbogama",
+    "Type": "1AB",
+    "Students": 714,
+    "Teachers": 41
+},
+{
+    "Zone": "Kekirawa",
+    "Division": "Kekirawa",
+    "School": "Kalawewa Muslim Maha Vidyalaya,Kalawewa",
+    "Type": "1AB",
+    "Students": 917,
+    "Teachers": 56
+},
+{
+    "Zone": "Kekirawa",
+    "Division": "Ipalogama",
+    "School": "Ganthiriyagama Mahinda Maha Vidyalaya,Ganthiriyagama",
+    "Type": "1AB",
+    "Students": 1867,
+    "Teachers": 82
+},
+{
+    "Zone": "Kekirawa",
+    "Division": "Palagala",
+    "School": "Galkiriyagama Maha Vidyalaya,Galkiriyagama",
+    "Type": "1AB",
+    "Students": 608,
+    "Teachers": 45
+},
+{
+    "Zone": "Kekirawa",
+    "Division": "Palugaswewa",
+    "School": "Habarana Maha Vidyalaya,Habarana",
+    "Type": "1AB",
+    "Students": 892,
+    "Teachers": 48
+},
+{
+    "Zone": "Kekirawa",
+    "Division": "Thirappane",
+    "School": "Thirappane Mahanama Maha Vidyalaya,Thirappane",
+    "Type": "1AB",
+    "Students": 761,
+    "Teachers": 48
+},
+{
+    "Zone": "Thambuththegama",
+    "Division": "Thambuththegama",
+    "School": "Thambuththegama Madya Maha Vidyalaya,Thambuththegama",
+    "Type": "1AB",
+    "Students": 3541,
+    "Teachers": 127
+},
+{
+    "Zone": "Thambuththegama",
+    "Division": "Thambuththegama",
+    "School": "Makulewa Maha Vidyalaya,Hurigaswewa",
+    "Type": "1AB",
+    "Students": 756,
+    "Teachers": 41
+},
+{
+    "Zone": "Thambuththegama",
+    "Division": "Galnewa",
+    "School": "Galnewa Madya Maha Vidyalaya,Galnewa",
+    "Type": "1AB",
+    "Students": 2388,
+    "Teachers": 87
+},
+{
+    "Zone": "Thambuththegama",
+    "Division": "Rajanganaya",
+    "School": "Yaya 13/14 Mahasen Maha Vidyalaya,Rajanganaya",
+    "Type": "1AB",
+    "Students": 2363,
+    "Teachers": 98
+},
+{
+    "Zone": "Thambuththegama",
+    "Division": "Thalawa",
+    "School": "Thalawa Maha Vidyalaya,Thalawa",
+    "Type": "1AB",
+    "Students": 1605,
+    "Teachers": 80
+},
+{
+    "Zone": "Kebithigollewa",
+    "Division": "Kebithigollewa",
+    "School": "Kebithigollewa Madya Maha Vidyalaya,Kebithigollewa",
+    "Type": "1AB",
+    "Students": 1879,
+    "Teachers": 77
+},
+{
+    "Zone": "Kebithigollewa",
+    "Division": "Horowpathana",
+    "School": "Ruwanweli Maha Vidyalaya,Horowpathana",
+    "Type": "1AB",
+    "Students": 1766,
+    "Teachers": 90
+},
+{
+    "Zone": "Kebithigollewa",
+    "Division": "Medawachchiya",
+    "School": "Isipathana Maha Vidyalaya,Poonewa",
+    "Type": "1AB",
+    "Students": 881,
+    "Teachers": 48
+},
+{
+    "Zone": "Kebithigollewa",
+    "Division": "Padaviya",
+    "School": "Padavi Mahasen Maha Vidyalaya,Padaviya",
+    "Type": "1AB",
+    "Students": 890,
+    "Teachers": 39
+},
+{
+    "Zone": "Kebithigollewa",
+    "Division": "Padaviya",
+    "School": "Buddangala Maha Vidyalaya,Padaviya",
+    "Type": "1AB",
+    "Students": 640,
+    "Teachers": 46
+},
+{
+    "Zone": "Galenbindunuwewa",
+    "Division": "Galenbindunuwewa",
+    "School": "Galenbindunuwawa Madya Maha Vidyalaya,Galenbindunuwewa",
+    "Type": "1AB",
+    "Students": 1426,
+    "Teachers": 74
+},
+{
+    "Zone": "Galenbindunuwewa",
+    "Division": "Kahatagasdigiliya",
+    "School": "Kahatagasdigiliya Madya Maha Vidyalaya,Kahatagasdigiliya",
+    "Type": "1AB",
+    "Students": 1693,
+    "Teachers": 109
+},
+{
+    "Zone": "Galenbindunuwewa",
+    "Division": "Kahatagsdigiliya",
+    "School": "Kahatagasdigiliya Muslim Maha Vidyalaya,Kahatagasdigiliya",
+    "Type": "1AB",
+    "Students": 659,
+    "Teachers": 31
+},
+{
+    "Zone": "Galenbindunuwewa",
+    "Division": "Mihinthale",
+    "School": "Mihinthale Maha Vidyalaya,Mihinthale",
+    "Type": "1AB",
+    "Students": 1494,
+    "Teachers": 91
+}
+   ]

@@ -1,0 +1,205 @@
+[
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "Trincomalee Sinhala Central College, Trincomalee",
+    "Type": "1AB",
+    "Students": 1254
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "Rajakeeya Vidyaloka Maha Vidyalaya, Trincomalee",
+    "Type": "1AB",
+    "Students": 578
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "St. Mary's College, Trincomalee",
+    "Type": "1AB",
+    "Students": 1636
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "St. Joseph's College, Trincomalee",
+    "Type": "1AB",
+    "Students": 860
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "Sri Shanmuga Hindu Ladies College, Trincomalee",
+    "Type": "1AB",
+    "Students": 2324
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "R. K. M. Sri Koneswara Hindu College, Trincomalee",
+    "Type": "1AB",
+    "Students": 2221
+},
+{
+    "Zone": "Kantalai",
+    "Division": "Kantalai",
+    "School": "Agrabodhi National School, Kantalai",
+    "Type": "1AB",
+    "Students": 2289
+},
+{
+    "Zone": "Kinniya",
+    "Division": "Kinniya",
+    "School": "Kinniya Central College, Kinniya",
+    "Type": "1AB",
+    "Students": 2296
+},
+{
+    "Zone": "Kinniya",
+    "Division": "Kinniya",
+    "School": "Al-Aqza National College, Kinniya",
+    "Type": "1AB",
+    "Students": 1026
+},
+{
+    "Zone": "Kinniya",
+    "Division": "Kinniya",
+    "School": "Kinniya Muslim Girls College, Kinniya",
+    "Type": "1AB",
+    "Students": 2348
+},
+{
+    "Zone": "Mutur",
+    "Division": "Mutur",
+    "School": "Mutur Central College, Mutur",
+    "Type": "1AB",
+    "Students": 1167
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "Orr's Hill Vivekananda College, Trincomalee",
+    "Type": "1AB",
+    "Students": 1511
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "Abhayapura Maha Vidyalaya, Abhayapura",
+    "Type": "1AB",
+    "Students": 466
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "Methodist Girls' College, Trincomalee",
+    "Type": "1AB",
+    "Students": 368
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "Zahira College, Trincomalee",
+    "Type": "1AB",
+    "Students": 821
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Trincomalee Town",
+    "School": "Vipulananda College, Trincomalee",
+    "Type": "1AB",
+    "Students": 1086
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Kuchchaveli",
+    "School": "Pulmudai Muslim Maha Vidyalaya, Pulmudai",
+    "Type": "1AB",
+    "Students": 932
+},
+{
+    "Zone": "Trincomalee",
+    "Division": "Kuchchaveli",
+    "School": "Kaileshwara Central College, Nilaweli",
+    "Type": "1AB",
+    "Students": 476
+},
+{
+    "Zone": "Trincomalee North",
+    "Division": "Gomarankadawala",
+    "School": "Gomarankadawala Maha Vidyalaya, Gomarankadawala",
+    "Type": "1AB",
+    "Students": 355
+},
+{
+    "Zone": "Trincomalee North",
+    "Division": "Mahawewa",
+    "School": "Mahadiulwewa Maha Vidyalaya, Mahadiulwewa",
+    "Type": "1AB",
+    "Students": 452
+},
+{
+    "Zone": "Trincomalee North",
+    "Division": "Padavi Siripura",
+    "School": "Padavi Palugahawanguwa Maha Vidyalaya, Padavi Siripura",
+    "Type": "1AB",
+    "Students": 480
+},
+{
+    "Zone": "Kantalai",
+    "Division": "Kantalai",
+    "School": "Gantalawa Maha Vidyalaya, Mullipothana",
+    "Type": "1AB",
+    "Students": 791
+},
+{
+    "Zone": "Kantalai",
+    "Division": "Kantalai",
+    "School": "Agbopura Maha Vidyalaya, Agbopura",
+    "Type": "1AB",
+    "Students": 579
+},
+{
+    "Zone": "Kinniya",
+    "Division": "Mullipothana",
+    "School": "Al Hijra Central College, Mullipothana",
+    "Type": "1AB",
+    "Students": 726
+},
+{
+    "Zone": "Mutur",
+    "Division": "Mutur",
+    "School": "Chenaiyoor Central College, Muttur",
+    "Type": "1AB",
+    "Students": 410
+},
+{
+    "Zone": "Mutur",
+    "Division": "Mutur",
+    "School": "Al Hilal Central College, Muttur",
+    "Type": "1AB",
+    "Students": 705
+},
+{
+    "School": "Bond International School, Trincomalee"
+},
+{
+    "School": "Cambridge International School, Trincomalee"
+},
+{
+    "School": "Goodwill International School, Trincomalee"
+},
+{
+    "School": "Greenwich International School, Trincomalee"
+},
+{
+    "School": "KEA International School, Kantalai"
+},
+{
+    "School": "KEA International School, Mutur"
+},
+{
+    "School": "Liverpool International School, Trincomalee"
+}
+   ]

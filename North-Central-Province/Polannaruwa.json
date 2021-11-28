@@ -1,0 +1,2018 @@
+[
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Royal Central College, Polonnaruwa",
+    "Type": "1AB",
+    "Students": 3472,
+    "Teachers": 156
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Maithripala Sirisena (Thopawewa) National School,Polonnaruwa",
+    "Type": "1AB",
+    "Students": 2180,
+    "Teachers": 84
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Muslim Central College,Kanduruwela",
+    "Type": "1AB",
+    "Students": 1234,
+    "Teachers": 55
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Minneriya National School,Minneriya",
+    "Type": "1AB",
+    "Students": 704,
+    "Teachers": 64
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Ananda Balika National School,Hingurakgoda",
+    "Type": "1AB",
+    "Students": 1226,
+    "Teachers": 106
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Medirigiriya National School,Medirigiriya",
+    "Type": "1AB",
+    "Students": 2585,
+    "Teachers": 111
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Divulankadawala National School,Divuankadawala",
+    "Type": "1AB",
+    "Students": 2154,
+    "Teachers": 96
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Mahasen National School,Bakamoona",
+    "Type": "1AB",
+    "Students": 1476,
+    "Teachers": 69
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Vilayaya Central College,Aralaganwila",
+    "Type": "1AB",
+    "Students": 1401,
+    "Teachers": 71
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Sewamuktha Kandavura Maha Vidyalaya,Palugasdamana",
+    "Type": "1AB",
+    "Students": 1753,
+    "Teachers": 90
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Palugasdamana Maha Vidyalaya,Palugasdamana",
+    "Type": "1AB",
+    "Students": 830,
+    "Teachers": 55
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Bendiwewa Maha Vidyalaya,Jayanthipura",
+    "Type": "1AB",
+    "Students": 605,
+    "Teachers": 56
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Galamuna Maha Vidyalaya,Galamuna",
+    "Type": "1AB",
+    "Students": 428,
+    "Teachers": 35
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Vijitha Central College,Pulasthigama",
+    "Type": "1AB",
+    "Students": 844,
+    "Teachers": 43
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Al-Hilal Maha Vidyalaya,Thambala",
+    "Type": "1AB",
+    "Students": 742,
+    "Teachers": 44
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Girithalegama Maha Vidyalaya,Girithale",
+    "Type": "1AB",
+    "Students": 1969,
+    "Teachers": 88
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Rajarata Maha Vidyalaya,Hingurakgoda",
+    "Type": "1AB",
+    "Students": 1713,
+    "Teachers": 92
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Kawuduluwewa Mahinda Maha Vidyalya,Kawudulla",
+    "Type": "1AB",
+    "Students": 774,
+    "Teachers": 41
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Aththanakadawala Maha vidyalaya,Aththanakadawala",
+    "Type": "1AB",
+    "Students": 854,
+    "Teachers": 49
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Siripura Central College,Siripura",
+    "Type": "1AB",
+    "Students": 1349,
+    "Teachers": 58
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Manampitiya Sinhala Maha Vidyalaya,Manampitiya",
+    "Type": "1AB",
+    "Students": 351,
+    "Teachers": 32
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Veharagala Maha Vidyalaya,Aralaganwila",
+    "Type": "1AB",
+    "Students": 765,
+    "Teachers": 37
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Sewanapitiya Maha Vidyalaya,Sewanapitiya",
+    "Type": "1AB",
+    "Students": 579,
+    "Teachers": 40
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Welikanda Central College,Welikanda",
+    "Type": "1AB",
+    "Students": 1183,
+    "Teachers": 49
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Senapura Al-Amin Muslim Maha Vidyalaya,Welikanda",
+    "Type": "1AB",
+    "Students": 409,
+    "Teachers": 29
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Parakrama Samudraya Maha Vidyalaya,Polonnaruwa",
+    "Type": "1C",
+    "Students": 420,
+    "Teachers": 30
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Vijayaraja Maha Vidyalaya,Kalinga Ela",
+    "Type": "1C",
+    "Students": 875,
+    "Teachers": 41
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Shanthi Maha Vidyalaya,Unagalawehera",
+    "Type": "1C",
+    "Students": 253,
+    "Teachers": 16
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Al-Ashar Muslim Maha Vidyalaya,Gallella",
+    "Type": "1C",
+    "Students": 760,
+    "Teachers": 36
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Al-Aksha Muslim Maha Vidyalaya,Kalinga ela",
+    "Type": "1C",
+    "Students": 289,
+    "Teachers": 18
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Hingurakdamana Maha Vidyalaya,Hingurakdamana",
+    "Type": "1C",
+    "Students": 276,
+    "Teachers": 28
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Lankapura Maha Vidyalaya,Lankapura",
+    "Type": "1C",
+    "Students": 385,
+    "Teachers": 25
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Sungawila Muslim Maha Vidyalaya,Sungawila",
+    "Type": "1C",
+    "Students": 1001,
+    "Teachers": 42
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Al-Rifai Muslim Maha Vidyalaya,Thambala",
+    "Type": "1C",
+    "Students": 810,
+    "Teachers": 35
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Nagalakanda Maha Vidyalaya,Minneriya",
+    "Type": "1C",
+    "Students": 476,
+    "Teachers": 37
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Yoda Ela Maha Vidyalaya,Hingurakgoda",
+    "Type": "1C",
+    "Students": 417,
+    "Teachers": 31
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Kawudulla Maha Vidyalaya,Kawudulla",
+    "Type": "1C",
+    "Students": 895,
+    "Teachers": 51
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Ambagaswewa Maha Vidyalaya,Ambagaswewa",
+    "Type": "1C",
+    "Students": 1085,
+    "Teachers": 50
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Wijayapura Maha Vidyalaya,Diyasenpura",
+    "Type": "1C",
+    "Students": 719,
+    "Teachers": 49
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Mandalagiriya Maha Vidyalaya,Medirigiriya",
+    "Type": "1C",
+    "Students": 1106,
+    "Teachers": 43
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Diyasenpura Maha Vidyalaya,Diyasenpura",
+    "Type": "1C",
+    "Students": 668,
+    "Teachers": 28
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Palliyagodalla Annoor Muslim Maha Vidyalaya,Medirigiriya",
+    "Type": "1C",
+    "Students": 213,
+    "Teachers": 15
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Atharagallewa Maha Vidyalaya,Atharagallewa",
+    "Type": "1C",
+    "Students": 597,
+    "Teachers": 34
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Irahandaketuwewa Maha Vidyalaya,Diyabeduma",
+    "Type": "1C",
+    "Students": 722,
+    "Teachers": 38
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Nuwaragala Maha Vidyalaya,Nuwaragala",
+    "Type": "1C",
+    "Students": 564,
+    "Teachers": 3
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Maguldamana Maha Vidyalaya,Palatiyawa",
+    "Type": "1C",
+    "Students": 578,
+    "Teachers": 33
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Kashyapa Maha Vidyalaya,Dimbulagala",
+    "Type": "1C",
+    "Students": 400,
+    "Teachers": 20
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Allewewa Maha Vidyalaya,Allewewa",
+    "Type": "1C",
+    "Students": 433,
+    "Teachers": 25
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Bogaswewa Maha Vidyalaya,Bogaswewa",
+    "Type": "1C",
+    "Students": 501,
+    "Teachers": 25
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Manampitiya Tamil Maha Vidyalaya,Manampitiya",
+    "Type": "1C",
+    "Students": 303,
+    "Teachers": 30
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Nikawathlanda Maha Vidyalaya,Dehiaththakandiya",
+    "Type": "1C",
+    "Students": 724,
+    "Teachers": 34
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Alawakumbura Maha Vidyalaya,Pimburaththewa",
+    "Type": "1C",
+    "Students": 745,
+    "Teachers": 32
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Maduruoya Maha Vidyalaya,Maduruoya",
+    "Type": "1C",
+    "Students": 410,
+    "Teachers": 22
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Lilarathne Wijesinghe Maha Vidyalaya,Aralaganwila",
+    "Type": "1C",
+    "Students": 541,
+    "Teachers": 38
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Damminna Maha Vidyalaya,Damminna",
+    "Type": "1C",
+    "Students": 414,
+    "Teachers": 29
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Madagama Maha Vidyalaya,Madagama",
+    "Type": "1C",
+    "Students": 735,
+    "Teachers": 35
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Nelumwewa Maha Vidyalaya,Nelumwewa",
+    "Type": "1C",
+    "Students": 354,
+    "Teachers": 29
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Nawaginidamana Maha Vidyalaya,Nelumwewa",
+    "Type": "1C",
+    "Students": 259,
+    "Teachers": 20
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Aselapura Maha Vidyalaya,Welikanda",
+    "Type": "1C",
+    "Students": 561,
+    "Teachers": 33
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Hawanpitiya Tamil Maha Vidyalaya,Welikanda",
+    "Type": "1C",
+    "Students": 318,
+    "Teachers": 37
+},
+
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Aluthwewa Maha Vidyalaya,Aluthwewa",
+    "Type": 2,
+    "Students": 238,
+    "Teachers": 21
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Nagara Maha Vidyalaya,Kanduruwela",
+    "Type": 2,
+    "Students": 645,
+    "Teachers": 40
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Kadawalawewa Maha Vidyalaya,Jayanthipura",
+    "Type": 2,
+    "Students": 571,
+    "Teachers": 21
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Lakshauyana Kanishta Vidyalaya,Lakshauyana",
+    "Type": 2,
+    "Students": 246,
+    "Teachers": 21
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Sinharajapura Kanishta Vidyalaya,Onegama",
+    "Type": 2,
+    "Students": 153,
+    "Teachers": 20
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Seewali kanishta Vidyalaya,Kanduruwela",
+    "Type": 2,
+    "Students": 1160,
+    "Teachers": 51
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Al-Mina Muslim Kanishta Vidyalaya,Kanduruwela",
+    "Type": 2,
+    "Students": 480,
+    "Teachers": 20
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Abhayapura Maha Vidyalaya,Pulasthigama",
+    "Type": 2,
+    "Students": 324,
+    "Teachers": 20
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Kegalugama kanishta Vidyalaya,Pulasthigama",
+    "Type": 2,
+    "Students": 264,
+    "Teachers": 19
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Jayanthi Kanishta Vidyalaya,Thalpotha",
+    "Type": 2,
+    "Students": 300,
+    "Teachers": 19
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Kirimatiya Kanishta Vidyalaya,Galamuna",
+    "Type": 2,
+    "Students": 369,
+    "Teachers": 19
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Rathanasara Kanishta Vidyalaya,Thalpotha",
+    "Type": 2,
+    "Students": 329,
+    "Teachers": 19
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Weerapura Kanishta Vidyalaya,Thambala",
+    "Type": 2,
+    "Students": 225,
+    "Teachers": 19
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Unagalawehera Kanishta Vidyalaya,Unagalawehera",
+    "Type": 2,
+    "Students": 283,
+    "Teachers": 23
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Jayanthipura Kanishta Vidyalaya,Jayanthipura",
+    "Type": 2,
+    "Students": 549,
+    "Teachers": 27
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Nagapokuna Kanishta Vidyalaya,Jayanthipura",
+    "Type": 2,
+    "Students": 322,
+    "Teachers": 23
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Sinhala Rotawewa Kanishta Vidyalaya,Galoya Junction",
+    "Type": 2,
+    "Students": 300,
+    "Teachers": 18
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Galoya Handiya Kanishta Vidyalaya,Galoya Junction",
+    "Type": 2,
+    "Students": 78,
+    "Teachers": 14
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Ilukwewa Kanishta Vidyalaya,Sigiriya",
+    "Type": 2,
+    "Students": 91,
+    "Teachers": 15
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Aluthoya kanishta Vidyalaya,Hingurakgoda",
+    "Type": 2,
+    "Students": 132,
+    "Teachers": 18
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Hathareskotuwa Kanishta Vidyalaya,Galoya Junction",
+    "Type": 2,
+    "Students": 160,
+    "Teachers": 17
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Moragaswewa Kanishta Vidyalaya,Habarana",
+    "Type": 2,
+    "Students": 295,
+    "Teachers": 21
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Nugagahadamana Muslim Kanishta Vidyalaya,Girithale",
+    "Type": 2,
+    "Students": 115,
+    "Teachers": 14
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Bisobandara Kanishta Vidyalaya,Medirigiriya",
+    "Type": 2,
+    "Students": 410,
+    "Teachers": 23
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Meegaswewa Kanishta Vidyalaya,Meegaswewa",
+    "Type": 2,
+    "Students": 385,
+    "Teachers": 21
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Sri Rahula Kanishta Vidyalaya,Ambagaswewa",
+    "Type": 2,
+    "Students": 188,
+    "Teachers": 18
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Mayurapada Kanishta Vidyalaya,Medirigiriya",
+    "Type": 2,
+    "Students": 267,
+    "Teachers": 16
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Kohombadamana Kanishta Vidyalaya,Medirigiriya",
+    "Type": 2,
+    "Students": 324,
+    "Teachers": 19
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Hagala Kanishta Vidyalaya,Kottapitoya",
+    "Type": 2,
+    "Students": 426,
+    "Teachers": 20
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Elahera Kanishta Vidyalaya,Elahera",
+    "Type": 2,
+    "Students": 350,
+    "Teachers": 21
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Kottapitiya Kanishta Vidyalaya,Kottapitiya",
+    "Type": 2,
+    "Students": 248,
+    "Teachers": 19
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Nikapitiya Kanishta Vidyalaya,Kottapitiya",
+    "Type": 2,
+    "Students": 315,
+    "Teachers": 15
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Jasiripura Kanishta Vidyalaya,Bakamoona",
+    "Type": 2,
+    "Students": 165,
+    "Teachers": 16
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Radavigeoya Kanishta Vidyalaya,Elahera",
+    "Type": 2,
+    "Students": 300,
+    "Teachers": 22
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Siyambalawa Kanishta Vidyalaya,Elahera",
+    "Type": 2,
+    "Students": 415,
+    "Teachers": 23
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Galmulla Kanishta Vidyalaya,Bakamoona",
+    "Type": 2,
+    "Students": 243,
+    "Teachers": 15
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Sarubima Kanishta Vidyalaya,Jayasiripura",
+    "Type": 2,
+    "Students": 154,
+    "Teachers": 14
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Kahatagahapitiya Kanishta Vidyalaya,Aththanakadawala",
+    "Type": 2,
+    "Students": 382,
+    "Teachers": 20
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Nawapallegama Kanishta Vidyalaya,Siripura",
+    "Type": 2,
+    "Students": 153,
+    "Teachers": 16
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Pihitiwewa Maha Vidyalaya,Pihitiwewa",
+    "Type": 2,
+    "Students": 301,
+    "Teachers": 20
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Ihala Yakkure kanishta Vidyalaya,Nuwaragala",
+    "Type": 2,
+    "Students": 139,
+    "Teachers": 13
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Kalukalawagama Vijaya Parakrama Kanishta Vidyalaya,Dimbulagala",
+    "Type": 2,
+    "Students": 478,
+    "Teachers": 26
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Bandanagala Kanishta Vidyalaya,Kalukale",
+    "Type": 2,
+    "Students": 179,
+    "Teachers": 17
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Ihala Allewewa Kanishta Vidyalaya,Allewewa",
+    "Type": 2,
+    "Students": 179,
+    "Teachers": 12
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Palatiyawa Kanishta Vidyalaya,Palatiyawa",
+    "Type": 2,
+    "Students": 327,
+    "Teachers": 19
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Pahala Yakkure Kanishta Vidyalaya,Nuwaragala",
+    "Type": 2,
+    "Students": 116,
+    "Teachers": 17
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Kandegama Kanishta Vidyalaya,Aralaganwila",
+    "Type": 2,
+    "Students": 239,
+    "Teachers": 19
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Kadawathmaduwa Dharmapala Kanishta Vidyalaya,Welikanda",
+    "Type": 2,
+    "Students": 210,
+    "Teachers": 18
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Muthugala Tamil Kanishta Vidyalaya,Welikanda",
+    "Type": 2,
+    "Students": 146,
+    "Teachers": 21
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Katuwanwila Muslim kanishta Vidyalaya,Welikanda",
+    "Type": 2,
+    "Students": 534,
+    "Teachers": 19
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Trikonamaduwa Muslim Kanishta Vidyalaya,Welikanda",
+    "Type": 2,
+    "Students": 143,
+    "Teachers": 15
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Kalingawila Kanishta Vidyalaya,Welikanda",
+    "Type": 2,
+    "Students": 261,
+    "Teachers": 15
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Singhepura Kanishta Vidyalaya,Welikanda",
+    "Type": 2,
+    "Students": 168,
+    "Teachers": 18
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Royal Primary School,Polonnaruwa",
+    "Type": 3,
+    "Students": "1583",
+    "Teachers": "46"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Zahira Primary School,Kanduruwela",
+    "Type": 3,
+    "Students": "1199",
+    "Teachers": "24"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "President Primary School ,Palugasdamana",
+    "Type": 3,
+    "Students": "405",
+    "Teachers": "15"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Ambanganga Dakunu Ela Prathamika Vidyalaya,Ambanganga",
+    "Type": 3,
+    "Students": "75",
+    "Teachers": "7"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Kandavura Prathamika Vidyalaya,Kalinga Ela",
+    "Type": 3,
+    "Students": "40",
+    "Teachers": "8"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Kalahagala Prathamika Vidyalaya,Kalahagala",
+    "Type": 3,
+    "Students": "102",
+    "Teachers": "9"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Galthambarawa Prathamika Vidyalaya,Polonnaruwa",
+    "Type": 3,
+    "Students": "71",
+    "Teachers": "6"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Nikawewa Gamini Prathamika Vidyalaya,Jayanthipura",
+    "Type": 3,
+    "Students": "144",
+    "Teachers": "6"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Wawethenna Thakshila Prathamika Vidyalaya,Palugasdamana",
+    "Type": 3,
+    "Students": "34",
+    "Teachers": "6"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Wijayabahupura Prathamika Vidyalaya,Wijayabahupura",
+    "Type": 3,
+    "Students": "71",
+    "Teachers": "7"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Singhepura Prathamika Vidyalaya,Wijayabahupura",
+    "Type": 3,
+    "Students": "143",
+    "Teachers": "8"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Ethumalpitiya Prathamika Vidyalaya,Ethumalpitiya",
+    "Type": 3,
+    "Students": "384",
+    "Teachers": "15"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Palugasdamana Prathamika Vidyalaya,Palugasdamana",
+    "Type": 3,
+    "Students": "154",
+    "Teachers": "9"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Podoor Muslim Prathamika Vidyalaya,Onegama",
+    "Type": 3,
+    "Students": "121",
+    "Teachers": "14"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Thamankaduwa",
+    "School": "Sri Indrarathna Prathamika Vidyalaya,Onegama",
+    "Type": 3,
+    "Students": "38",
+    "Teachers": "4"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Vijitha Prathamika Vidyalaya,Pulasthigama",
+    "Type": 3,
+    "Students": "446",
+    "Teachers": "17"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Gamunupura Prathamika Vidyalaya,Thalpotha",
+    "Type": 3,
+    "Students": "203",
+    "Teachers": "11"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Patunugama Prathamika Vidyalaya,Pulasthigama",
+    "Type": 3,
+    "Students": "94",
+    "Teachers": "7"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Somavathi Prathamika Vidyalaya,Sungavila",
+    "Type": 3,
+    "Students": "52",
+    "Teachers": "6"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Onegama Muslim Prathamika Vidyalaya,Onegama",
+    "Type": 3,
+    "Students": "28",
+    "Teachers": "5"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Iqrah Muslim Prathamika Vidyalaya,Sungavila",
+    "Type": 3,
+    "Students": "149",
+    "Teachers": "7"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Al-Madeena Muslim Prathamika Vidyalaya,Thambala",
+    "Type": 3,
+    "Students": "349",
+    "Teachers": "10"
+},
+{
+    "Zone": "Polonnaruwa",
+    "Division": "Lankapura",
+    "School": "Somadevi Prathamika Vidyalaya,Lankapura",
+    "Type": 3,
+    "Students": "232",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Minneriya Prathamika Vidyalaya,Minneriya",
+    "Type": 3,
+    "Students": "820",
+    "Teachers": "31"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Vidyaloka Prathamika Vidyalaya,Hingurakgoda",
+    "Type": 3,
+    "Students": "729",
+    "Teachers": "30"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Yatiyalpothana Prathamika Vidyalaya,Hingurakgoda",
+    "Type": 3,
+    "Students": "63",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Kumaragama Anura Prathamika Vidyalaya,Hingurakgoda",
+    "Type": 3,
+    "Students": "99",
+    "Teachers": "7"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Siriketha Prathamika Vidyalaya,Hingurakgoda",
+    "Type": 3,
+    "Students": "72",
+    "Teachers": "7"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Hingurakgoda Prathamika Vidyalaya,Hingurakgoda",
+    "Type": 3,
+    "Students": "317",
+    "Teachers": "12"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Hinguraka Prathamika Vidyalaya,Hingurakgoda",
+    "Type": 3,
+    "Students": "144",
+    "Teachers": "7"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Hathamuna Prathamika Vidyalaya,Hingurakgoda",
+    "Type": 3,
+    "Students": "283",
+    "Teachers": "13"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Girithale Janapada Prathamika Vidyalaya,Girithale",
+    "Type": 3,
+    "Students": "288",
+    "Teachers": "15"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Jayanthi Gurukula Prathamika Vidyalaya,Girithale",
+    "Type": 3,
+    "Students": "333",
+    "Teachers": "13"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Chandanapokuna Prathamika Vidyalaya,Unagalawehera",
+    "Type": 3,
+    "Students": "117",
+    "Teachers": "7"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Thimbirigaswewa Prathamika Vidyalay,Habarana",
+    "Type": 3,
+    "Students": "71",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Gunawardhanapura Prathamika Vidyalaya,Singhaudagama",
+    "Type": 3,
+    "Students": "35",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "C.P Pura Prathamika Vidyalaya,Minneriya",
+    "Type": 3,
+    "Students": "316",
+    "Teachers": "15"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "Sooriyagama Prathamika Vidyalaya,Habarana",
+    "Type": 3,
+    "Students": "43",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Hingurakgoda",
+    "School": "C.W.W Kannangara Prathamika Vidyalaya,Minneriya",
+    "Type": 3,
+    "Students": "320",
+    "Teachers": "10"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Babyawewa Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "51",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Kahambiliyawa Prathamika Vidyalaya,Divulankadawala",
+    "Type": 3,
+    "Students": "119",
+    "Teachers": "10"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Kusumpokuna Prathamika Vidyalaya,Divulankadawala",
+    "Type": 3,
+    "Students": "498",
+    "Teachers": "22"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Yudaganawa Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "333",
+    "Teachers": "16"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Parakumpura Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "149",
+    "Teachers": "7"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Sansungama Prathamika Vidyalaya,Kawudulla",
+    "Type": 3,
+    "Students": "163",
+    "Teachers": "10"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Wadigawewa Prathamika Vidyalaya,Meegaswewa",
+    "Type": 3,
+    "Students": "83",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Thalakolawewa Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "85",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Gurugodalla Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "57",
+    "Teachers": "7"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Bisobandaragama Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "87",
+    "Teachers": "9"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Damsopura Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "115",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Siyambalagashandiya Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "212",
+    "Teachers": "8"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Pangurana Muslim Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "25",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Viharagama Prathamika Vidyalaya,Diwulankadawala",
+    "Type": 3,
+    "Students": "188",
+    "Teachers": "13"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Udaragama Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "344",
+    "Teachers": "14"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Diggalpura Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "240",
+    "Teachers": "12"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Mirishena Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "39",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Kumudupura Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "152",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Medirigiriya",
+    "School": "Sirimavo Bandaranaike Prathamika Vidyalaya,Medirigiriya",
+    "Type": 3,
+    "Students": "68",
+    "Teachers": "5"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Mahasen Prathamika Vidyalaya,Bakamoona",
+    "Type": 3,
+    "Students": "625",
+    "Teachers": "21"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Ihakuluwewa Prathamika Vidyalaya,Diyabeduma",
+    "Type": 3,
+    "Students": "104",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Kumaraella Prathamika Vidyalaya,Orubandisiyambalawa",
+    "Type": 3,
+    "Students": "67",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Konduruwawa Prathamika Vidyalaya,Diyabeduma",
+    "Type": 3,
+    "Students": "112",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Gangeyaya Prathamika Vidyalaya,Bakamoona",
+    "Type": 3,
+    "Students": "93",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Sinhala Katukeliyawa prathamika Vidyalaya,Diyabeduma",
+    "Type": 3,
+    "Students": "163",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Namalwewa Prathamika Vidyalaya,Diyabeduma",
+    "Type": 3,
+    "Students": "403",
+    "Teachers": "11"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Mahasen Track-26 Prathamika Vidyalaya,Aththanakadawala",
+    "Type": 3,
+    "Students": "163",
+    "Teachers": "8"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "C.P de Silva Prathamika Vidyalaya,Bakamoona",
+    "Type": 3,
+    "Students": "93",
+    "Teachers": "8"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Pokunugala Prathamika Vidyalaya,Aththanakadawala",
+    "Type": 3,
+    "Students": "138",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Batuhena Prathamika Vidyalaya,Kottapitiya",
+    "Type": 3,
+    "Students": "59",
+    "Teachers": "6"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Madudamana Prathamika Vidyalaya,Aththanakadawala",
+    "Type": 3,
+    "Students": "352",
+    "Teachers": "11"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Sirikanduyaya Prathamika Vidyalaya,Kottapitiya",
+    "Type": 3,
+    "Students": "72",
+    "Teachers": "7"
+},
+{
+    "Zone": "Hingurakgoda",
+    "Division": "Elahara",
+    "School": "Kirioyagama Prathamika Vidyalaya,Atharagallewa",
+    "Type": 3,
+    "Students": "58",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Rankethgama Prathamika Vidyalaya,Siripura",
+    "Type": 3,
+    "Students": "47",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Madagampitiya Prathamika Vidyalaya,Siripura",
+    "Type": 3,
+    "Students": "129",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Meewathpura Prathamika Vidyalaya,Siripura",
+    "Type": 3,
+    "Students": "85",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Mudunkadawala Prathamika Vidyalaya,Siripura",
+    "Type": 3,
+    "Students": "47",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Rathmalkandiya Prathamika Vidyalaya,Siripura",
+    "Type": 3,
+    "Students": "62",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Seelalankara Prathamika Vidyalaya,Ellewewa",
+    "Type": 3,
+    "Students": "152",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Dalukana Prathamika Vidyalaya,Dimbulagala",
+    "Type": 3,
+    "Students": "52",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Nishshankamallapura Prathamika Vidyalaya,Manampitiya",
+    "Type": 3,
+    "Students": "209",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Soriwila Rohana Prathamika Vidyalaya,Dimbulagala",
+    "Type": 3,
+    "Students": "7",
+    "Teachers": "3"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Mahaulpatha Prathamika Vidyalaya,Dimbulagala",
+    "Type": 3,
+    "Students": "63",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Millana Prathamika Vidyalaya,Dimbulagala",
+    "Type": 3,
+    "Students": "71",
+    "Teachers": "8"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Pahala Ellewewa Prathamika Vidyalaya,Ellewewa",
+    "Type": 3,
+    "Students": "97",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Soriwila Tamil Prathamika Vidyalaya,Dimbulagala",
+    "Type": 3,
+    "Students": "79",
+    "Teachers": "12"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Siripura Prathamika Vidyalaya,Siripura",
+    "Type": 3,
+    "Students": "321",
+    "Teachers": "9"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Methmahinda Prathamika Vidyalaya,Siripura",
+    "Type": 3,
+    "Students": "107",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Dimbulagala",
+    "School": "Sugaladevi Prathamika Vidyalaya,Siripura",
+    "Type": 3,
+    "Students": "92",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Kajuwaththa Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "58",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Ulpathwewa Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "103",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Kakulawela Prathamiaka Vidyalaya,Dehiaththakandiya",
+    "Type": 3,
+    "Students": "243",
+    "Teachers": "16"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Galeliya Prathamika Vidyalaya,Weheragala",
+    "Type": 3,
+    "Students": "178",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Sandagalthenna Prathamika Vidyalaya,Dehiaththakandiya",
+    "Type": 3,
+    "Students": "60",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Weeralanda Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "131",
+    "Teachers": "10"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Kanichchigama Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "80",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Maldeniya Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "94",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Selasumgama Prathamika Vidyalaya,Dehiaththakandiya",
+    "Type": 3,
+    "Students": "42",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Nidanwela Prathamika Vidyalaya,Damminna",
+    "Type": 3,
+    "Students": "49",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Ihalawewa Prathamika Vidyalaya,Damminna",
+    "Type": 3,
+    "Students": "80",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Mahadamana Prathamika Vidyalaya,Ellewawa",
+    "Type": 3,
+    "Students": "120",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Damminna Prathamika Vidyalaya,Damminna",
+    "Type": 3,
+    "Students": "58",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Kudawewa Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "81",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Weheragama Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "76",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Bimpokuna Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "83",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Galthalawa Prathamika Vidyalaya,Aralaganwilla",
+    "Type": 3,
+    "Students": "90",
+    "Teachers": "8"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Aluthoya Prathamika Vidyalaya,Pimburaththewa",
+    "Type": 3,
+    "Students": "186",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Weera Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "62",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Dewagama Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "336",
+    "Teachers": "12"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Bamunukotuwa Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "76",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Aralaganwila",
+    "School": "Vilayaya Prathamika Vidyalaya,Aralaganwila",
+    "Type": 3,
+    "Students": "534",
+    "Teachers": "17"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Monarathanna Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "35",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Madurangala Prathamika Vidyalaya,Sevanapitiya",
+    "Type": 3,
+    "Students": "45",
+    "Teachers": "4"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Sandunpitiya Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "45",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Malinda Prathamika Vidyalaya,Sevanapitiya",
+    "Type": 3,
+    "Students": "42",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Aluthwewa Prathamika Vidyalaya,Nelumwewa",
+    "Type": 3,
+    "Students": "66",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Ginidamana Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "50",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Kandakadu Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "32",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Mahawewa Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "58",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Manikwela Prathamika Vidyalaya,Sewanapitiya",
+    "Type": 3,
+    "Students": "70",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Susirigama Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "107",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Ruhunuketha Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "66",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Magulpokuna Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "82",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Malwila Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "35",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Alinchipotha Muslim Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "150",
+    "Teachers": "10"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Saraswathi tamil Prathamika Vidyalaya,Sewanapitiya",
+    "Type": 3,
+    "Students": "24",
+    "Teachers": "8"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Rotawewa Tamil Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "58",
+    "Teachers": "10"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Muthuwella Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "63",
+    "Teachers": "7"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Namalgama Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "37",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Maithrigama Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "110",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Dimbulana Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "163",
+    "Teachers": "10"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Sooriyawewa Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "85",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Mahasenpuura Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "151",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Nagasthenna Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "47",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Kurulubadda Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "50",
+    "Teachers": "5"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Sewanapitiya Prathamika Vidyalaya,Sewanapitiya",
+    "Type": 3,
+    "Students": "359",
+    "Teachers": "13"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Noorraniya Muslim Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "220",
+    "Teachers": "9"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Lumbini Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "167",
+    "Teachers": "6"
+},
+{
+    "Zone": "Dimbulagala",
+    "Division": "Welikanda",
+    "School": "Mahawelithanna Prathamika Vidyalaya,Welikanda",
+    "Type": 3,
+    "Students": "-",
+    "Teachers": "-"
+},
+{
+    "School": "JMC International School,Polonnaruwa"
+},
+{
+    "School": "Brighten International College,Polonnaruwa"
+}
+   
+]

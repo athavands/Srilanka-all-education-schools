@@ -1,0 +1,1853 @@
+[
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Maliyadeva College, Kurunegala",
+    "Type": "1AB",
+    "Students": 5194
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Maliyadeva Girls' College,Kurunegala",
+    "Type": "1AB",
+    "Students": 4488
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Vishvoda National School,Boyagane",
+    "Type": "1C",
+    "Students": 548
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Mawatagama Central College,Mawathagama",
+    "Type": "1AB",
+    "Students": 2463
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Sri Nishshanka Central College,Mallawapitiya",
+    "Type": "1C",
+    "Students": 430
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Paragahadeniya National School,Mawathagama",
+    "Type": "1AB",
+    "Students": 1866
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "Parakramabahu Central College,Polgahawela",
+    "Type": "1AB",
+    "Students": 1807
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Kuliyapitiya Central College,Kuliyapitiya",
+    "Type": "1AB",
+    "Students": 3632
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Saranath College,Kuliyapitiya",
+    "Type": "1AB",
+    "Students": 3014
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "S.W.R.D.Bandaranayke Central College,Panduwasnuwara",
+    "Type": "1AB",
+    "Students": 2017
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Udubaddawa",
+    "School": "J.R.Jayawardhana Central college,Dummalasuriya",
+    "Type": "1AB",
+    "Students": 689
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Sri Saranankara National School,Bingiriya",
+    "Type": "1AB",
+    "Students": 1585
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Ibbagamuwa Central College,Ibbagamuwa",
+    "Type": "1AB",
+    "Students": 3331
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ganewatta",
+    "School": "S.B.Herath National College,Nikadalupotha",
+    "Type": "1AB",
+    "Students": 1391
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Mayurapada Central College,Narammala",
+    "Type": "1AB",
+    "Students": 2876
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Sri Rahula Central College,Alawwa",
+    "Type": "1AB",
+    "Students": 2224
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Sandalankawa Central College,Sandalankawa",
+    "Type": "1AB",
+    "Students": 1760
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Wickramashila Central College,Giriulla",
+    "Type": "1AB",
+    "Students": 2950
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Pannala National School,Pannala",
+    "Type": "1AB",
+    "Students": 2723
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Kuliyapitiya East",
+    "School": "Nakkawatte Central College,Nakkawatta",
+    "Type": "1AB",
+    "Students": 1870
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Kuliyapitiya East",
+    "School": "Kekunagolla National School,Kekunagolla",
+    "Type": "1AB",
+    "Students": 2520
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Kuliyapitiya East",
+    "School": "Madeena National School,Siyambalagaskotuwa",
+    "Type": "1AB",
+    "Students": 2095
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Vijayaba National College,Maho",
+    "Type": "1AB",
+    "Students": 1845
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "U.B Wanninayaka National School,Galgamuwa",
+    "Type": "1AB",
+    "Students": 2602
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "Mahaweli National School,Meegalawa",
+    "Type": "1AB",
+    "Students": 1211
+},
+{
+    "Zone": "Maho",
+    "Division": "Giribawa",
+    "School": "Parakumpura National School,Solepura",
+    "Type": "1AB",
+    "Students": 623
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpitigama",
+    "School": "Polpithigama National School,Polpitigama",
+    "Type": "1AB",
+    "Students": 1116
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Mahasen National School,Nikaweratiya",
+    "Type": "1AB",
+    "Students": 2936
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kobeigane",
+    "School": "Sri Parakrama National School,Kobeigane",
+    "Type": "1AB",
+    "Students": 993
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Sri Sumangala Central College,Wariyapola",
+    "Type": "1AB",
+    "Students": 3438
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "St. Anne's College, Kurunegala",
+    "Type": "1AB",
+    "Students": 2555
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Royal College Wayamba, Kurunegala",
+    "Type": "1AB",
+    "Students": 4397
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Maliyadeva Adarsha Maha Vidyalaya",
+    "Type": "1AB",
+    "Students": 3761
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Sir John Kothalawala College,Kurunegala",
+    "Type": "1AB",
+    "Students": 4267
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Holy Family Convent, Kurunegala",
+    "Type": "1AB",
+    "Students": 2904
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Wellawa Central College,Kurunegala",
+    "Type": "1AB",
+    "Students": 2861
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Sudarshana Maha Vidyalaya,Udabadalawa",
+    "Type": "1AB",
+    "Students": 932
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Pimburuwellegama Madhya Maha Vidyalaya,Gonagama",
+    "Type": "1AB",
+    "Students": 669
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "D.B Welagedara Madhya Maha Vidyalaya,Malkaduwa",
+    "Type": "1AB",
+    "Students": 1258
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Lakdasa de Mel College,Kurunegala",
+    "Type": "1AB",
+    "Students": 1649
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Sri Nishshanka Maha Vidyalaya,Kurunegala",
+    "Type": "1AB",
+    "Students": 1456
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "President's Girls College,Kurunegala",
+    "Type": "1AB",
+    "Students": 1520
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "S.W.R.D Bandaranayaka College,Kurunegala",
+    "Type": "1AB",
+    "Students": 1705
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Hizbullah Central College,Kurunegala",
+    "Type": "1AB",
+    "Students": 1014
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "C.W.W Kannangara Maha Vidyalaya,Mallawapitiya",
+    "Type": "1AB",
+    "Students": 706
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "Dutugemunu Central College,Pothuhera",
+    "Type": "1AB",
+    "Students": 615
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "D.S Senanayaka Maha Vidyalaya,Uhumeeya",
+    "Type": "1AB",
+    "Students": 1634
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "Kalugamuwa Maha Vidyalaya,Kalugamuwa",
+    "Type": "1AB",
+    "Students": 324
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "Rathmalgoda Maha Vidyalaya,Rathmalgoda",
+    "Type": "1AB",
+    "Students": 681
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Sri Sarananda Madhya Maha Vidyalaya,Kuliyapitiya",
+    "Type": "1AB",
+    "Students": 456
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Dharmaraja Maha Vidyalaya,Kandulla",
+    "Type": "1AB",
+    "Students": 927
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Holy Anjel's Girls College,Kuliyapitiya",
+    "Type": "1AB",
+    "Students": 1940
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Vishaka Vidyalaya,Kuliyapitiya",
+    "Type": "1AB",
+    "Students": 1193
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Wellarawa Maha Vidyalaya,Wellarawa",
+    "Type": "1AB",
+    "Students": 901
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Dahanakgedara",
+    "School": "Nagollagoda Madhya Maha Vidyalaya,Nagollagoda",
+    "Type": "1AB",
+    "Students": 414
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Mahindodaya Maha Vidyalaya,Hettipola",
+    "Type": "1AB",
+    "Students": 1388
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Sir William Gopallawa Madhya Maha Vidyalaya,Gokarella",
+    "Type": "1AB",
+    "Students": 1558
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Medamulla de Mel Maha Vidyalaya,Melsiripura",
+    "Type": "1AB",
+    "Students": 1664
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Ibbagamuwa Model School,Ibbagamuwa",
+    "Type": "1AB",
+    "Students": 2164
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ganewatta",
+    "School": "Kumbukgate Madhya Maha Vidyalaya,Kumbukgate",
+    "Type": "1AB",
+    "Students": 1591
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Rambadagalla Madhya Maha Vidyalaya,Rambadagalla",
+    "Type": "1AB",
+    "Students": 1698
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Sri Gamini Madhya Maha Vidyalaya,Morthiha",
+    "Type": "1AB",
+    "Students": 1018
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Gonigoda Madhya Maha Vidyalaya,Pihimbuwa",
+    "Type": "1AB",
+    "Students": 790
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Sir John Kothalawala Madhya Maha Vidyalaya,Dodamgaslanda",
+    "Type": "1AB",
+    "Students": 1318
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "U.B Wanninayaka Maha Vidyalaya,Balalla",
+    "Type": "1AB",
+    "Students": 1274
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "Bandaranayaka Maha Vidyalaya,Ehatuwewa",
+    "Type": "1AB",
+    "Students": 1502
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Dewanampiyathissa Maha Vidyalaya,Moragollagama",
+    "Type": "1AB",
+    "Students": 534
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Dambadeniya Madhya Maha Vidyalaya,Dambadeniya",
+    "Type": "1AB",
+    "Students": 1889
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "R.G Senanayaka Maha Vidyalaya,Narammala",
+    "Type": "1AB",
+    "Students": 1523
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Gamunu Madhya Maha Vidyalaya,Ingradaula",
+    "Type": "1AB",
+    "Students": 1148
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Kuliyapitiya East",
+    "School": "Ruwangiri Madhya Maha Vidyalaya,Bogamulla",
+    "Type": "1AB",
+    "Students": 508
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Jayanthi Navodya Central College,Nikaweratiya",
+    "Type": "1AB",
+    "Students": 2410
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kobeigane",
+    "School": "Bamunugama Maha Vidyalaya,Mihanegama",
+    "Type": "1AB",
+    "Students": 392
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kobeigane",
+    "School": "Welpothuwewa Muslim Maha Vidyalaya,Boraluwewa",
+    "Type": "1AB",
+    "Students": 628
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Thissa Maha Vidyalaya,Katupotha",
+    "Type": "1AB",
+    "Students": 804
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Isipathana Madhya Maha Vidyalaya,Bamunukotuwa",
+    "Type": "1AB",
+    "Students": 1025
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Sri Gnanodaya Madhya Maha Vidyalaya,Wariyapola",
+    "Type": "1AB",
+    "Students": 2336
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Sanghabodhi Madhya Maha Vidyalaya,Awelegama",
+    "Type": "1AB",
+    "Students": 1270
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Sri Saranankara Maha Vidyalaya,Kudagalagamuwa",
+    "Type": "1C",
+    "Students": 338
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Mahinda College,Kurunegala",
+    "Type": "1C",
+    "Students": 917
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Maspota Maha Vidyalaya,Maspota",
+    "Type": "1C",
+    "Students": 881
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Boyagane Maha Vidyalaya,Boyagane",
+    "Type": "1C",
+    "Students": 579
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Zahira Model Maha Vidyalaya,Kurunegala",
+    "Type": "1C",
+    "Students": 534
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Kurunegala",
+    "School": "Hindu Tamil Maha Vidyalaya,Kurunegala",
+    "Type": "1C",
+    "Students": 169
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Thiragama Maha Vidyalaya,Kohilagedara",
+    "Type": "1C",
+    "Students": 672
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Digampitiya Sri Piyarathana Maha Vidyalaya,Hindagalla",
+    "Type": "1C",
+    "Students": 776
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Pothubowa Maha Vidyalaya,Pothubowa",
+    "Type": "1C",
+    "Students": 614
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Bogamuwa Maha Vidyalaya,Bogamuwa",
+    "Type": "1C",
+    "Students": 305
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Meethanwala Maha Vidyalaya,Meethanwala",
+    "Type": "1C",
+    "Students": 313
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Watareka Maha Vidyalaya,Inguruwatta",
+    "Type": "1C",
+    "Students": 479
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Athugalpura Prince College,Hewapola",
+    "Type": "1C",
+    "Students": 975
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Royal Central College,Weuda",
+    "Type": "1C",
+    "Students": 598
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Saraswathi Tamil Maha Vidyalaya,Muwankada",
+    "Type": "1C",
+    "Students": 215
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "Al Tharique Muslim Maha Vidyalaya,Thorayaya",
+    "Type": "1C",
+    "Students": 260
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Mawathagama",
+    "School": "D.P Wickramasinghe Vidyalaya,Mawathagama",
+    "Type": "1C",
+    "Students": 1049
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "Wimalasurendra Vidyalaya,Wadakada",
+    "Type": "1C",
+    "Students": 359
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "St. Bernadette's Maha Vidyalaya,Pologahawela",
+    "Type": "1C",
+    "Students": 1363
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "St. Bernadette's Model School,Polgahawela",
+    "Type": "1C",
+    "Students": 2592
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "Al Ifran Maha Vidyalaya,Polgahawela",
+    "Type": "1C",
+    "Students": 694
+},
+{
+    "Zone": "Kurunegala",
+    "Division": "Polgahawela",
+    "School": "Al Aqsa Maha Vidyalaya,Oruliyadda",
+    "Type": "1C",
+    "Students": 426
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Kirindawa Maha Vidyalaya,Kirindawa",
+    "Type": "1C",
+    "Students": 443
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Anukkane Maha Vidyalaya,Anukkane",
+    "Type": "1C",
+    "Students": 156
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Poogalla Maha Vidyalaya,Kithalawa",
+    "Type": "1C",
+    "Students": 884
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Rewatha Maha Vidyalaya,Deegalla",
+    "Type": "1C",
+    "Students": 618
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Yakarawatta Maha Vidyalaya,Kithalawa",
+    "Type": "1C",
+    "Students": 128
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "Gunananda Maha Vidyalaya,Ilukhena",
+    "Type": "1C",
+    "Students": 410
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Kuliyapitiya West",
+    "School": "St. Joshep's College,Kuliyapitiya",
+    "Type": "1C",
+    "Students": 1619
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Siddhartha Maha Vidyalaya,Halmillewa",
+    "Type": "1C",
+    "Students": 423
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Vijitha Maha Vidyalaya,Weerapokuna",
+    "Type": "1C",
+    "Students": 1124
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Rewatha Maha Vidyalaya,Udawela",
+    "Type": "1C",
+    "Students": 771
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "L.B Jayasena Maha Vidyalaya,Hiruwalpola",
+    "Type": "1C",
+    "Students": 303
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Ihala Kadigamuwa Maha Vidyalaya,Ihala Kadigamuwa",
+    "Type": "1C",
+    "Students": 822
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Sarananda Model School,Manalembuwa",
+    "Type": "1C",
+    "Students": 443
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Sripali Maha Vidyalaya,Tisogama",
+    "Type": "1C",
+    "Students": 361
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Gamini Maha Vidyalaya,Koswatta",
+    "Type": "1C",
+    "Students": 533
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Anagarika Dharmapala Maha Vidyalaya,Baragedara",
+    "Type": "1C",
+    "Students": 582
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Bingiriya",
+    "School": "Ihala Kiniyagama Muslim Maha Vidyalaya,Weerapokuna",
+    "Type": "1C",
+    "Students": 303
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Dahanakgedara",
+    "School": "Sri Sumansara Maha Vidyalaya,Kirimetiyana",
+    "Type": "1C",
+    "Students": 612
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Dahanakgedara",
+    "School": "Jayasena Rajakaruna Maha Vidyalaya,Dahanakgedara",
+    "Type": "1C",
+    "Students": 589
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Dahanakgedara",
+    "School": "Magulagama Maha Vidyalaya,Magulagama",
+    "Type": "1C",
+    "Students": 188
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Dahanakgedara",
+    "School": "Moragane Maha Vidyaalaya,Moragane",
+    "Type": "1C",
+    "Students": 574
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Dahanakgedara",
+    "School": "Ehattumulla Muslim Maha Vidyalaya,Ehattumulla",
+    "Type": "1C",
+    "Students": 307
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Bandarakoswatta Maha Vidyalaya,Bandarakoswatta",
+    "Type": "1C",
+    "Students": 270
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Sri Ariyawansha Maha Vidyalaya,Rathmalla",
+    "Type": "1C",
+    "Students": 356
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Kadawalagedara Maha Vidyalaya,Thuththiripitigama",
+    "Type": "1C",
+    "Students": 300
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Kolambagama Wimalaseela Maha Vidyalaya,Kanattewewa",
+    "Type": "1C",
+    "Students": 375
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Kosdeniya Maha Vidyalaya,Kosdeniya",
+    "Type": "1C",
+    "Students": 242
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Hunnelumbuwa Maha Vidyalaya,Sunandapura",
+    "Type": "1C",
+    "Students": 363
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Dematawa Maha Vidyalaya,Moragane",
+    "Type": "1C",
+    "Students": 265
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Kottambapitiya Muslim Maha Vidyalaya,Hettipola",
+    "Type": "1C",
+    "Students": 276
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Bandarakoswatta Muslim Maha Vidyalaya,Bandarakoswatta",
+    "Type": "1C",
+    "Students": 349
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Madige Anukkana Muslim Maha Vidyalaya,Sunandapura",
+    "Type": "1C",
+    "Students": 270
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Panduwasnuwara",
+    "School": "Madige Midiyala maha Vidyalaya,Bandarakoswatta",
+    "Type": "1C",
+    "Students": 488
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Udubaddawa",
+    "School": "Bibiladeniya Sri Gunananda Maha Vidyalaya,Welipannagahamulla",
+    "Type": "1C",
+    "Students": 1110
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Udubaddawa",
+    "School": "Mahanama Maha Vidyalaya,Horathepola",
+    "Type": "1C",
+    "Students": 471
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Udubaddawa",
+    "School": "Kattimahana Maha Vidyalaya,kattimahana",
+    "Type": "1C",
+    "Students": 271
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Udubaddawa",
+    "School": "Sri Bodhi Maha Vidyalaya,Kumbukgahamulla",
+    "Type": "1C",
+    "Students": 1186
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Udubaddawa",
+    "School": "Sri Dhammananda Maha Vidyalaya,Udubaddawa",
+    "Type": "1C",
+    "Students": 413
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Udubaddawa",
+    "School": "Thawalla Dhammaloka Maha Vidyalaya,Yogamwela",
+    "Type": "1C",
+    "Students": 389
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Udubaddawa",
+    "School": "Weerakodiyana Maha vidyalaya,Weerakodiyana",
+    "Type": "1C",
+    "Students": 210
+},
+{
+    "Zone": "Kuliyapitiya",
+    "Division": "Udubaddawa",
+    "School": "Ethumgahakotuwa Muslim Maha Vidyalaya,Ethumgahakotuwa",
+    "Type": "1C",
+    "Students": 626
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Kumbukwewa Maha Vidyalaya,Kumbukwewa",
+    "Type": "1C",
+    "Students": 898
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Thakshala Maha Vidyalaya,Mahamukalanyaya",
+    "Type": "1C",
+    "Students": 379
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Omaragolla Maha Vidyalaya,Panliyadda",
+    "Type": "1C",
+    "Students": 507
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Namalanga Maha Vidyalaya,Melsiripura",
+    "Type": "1C",
+    "Students": 941
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Hameediya Muslim Maha Vidyalaya,Ibbagamuwa",
+    "Type": "1C",
+    "Students": 500
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ibbagamuwa",
+    "School": "Madige Muslim Maha Vidyalaya,Ibbagamuwa",
+    "Type": "1C",
+    "Students": 610
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ganewatta",
+    "School": "Pothuwagonna Maha Vidyalaya,Pothuwagonna",
+    "Type": "1C",
+    "Students": 320
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ganewatta",
+    "School": "Hunupola Maha Vidyalaya,Hunupola",
+    "Type": "1C",
+    "Students": 291
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Ganewatta",
+    "School": "Al Hikma Muslim Maha Vidyalaya,Thittawalyala",
+    "Type": "1C",
+    "Students": 283
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Sri Vidyaraja Maha Vidyalaya,Dodamgaslanda",
+    "Type": "1C",
+    "Students": 629
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Prathirajadewa Maha Vidyalaya,Pussela",
+    "Type": "1C",
+    "Students": 249
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Buluwala Maha Vidyalaya,Buluwala",
+    "Type": "1C",
+    "Students": 631
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Weerawalagamba Maha Vidyalaya,Maduragoda",
+    "Type": "1C",
+    "Students": 445
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Delvita Maha Vidyalaya,Delvita",
+    "Type": "1C",
+    "Students": 324
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Rideevihara Maha Vidyalaya,Rideegama",
+    "Type": "1C",
+    "Students": 675
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Udanvita Maha Vidyalaya,Melsiripura",
+    "Type": "1C",
+    "Students": 548
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Royal Central College,Dodamgaslanda",
+    "Type": "1C",
+    "Students": 750
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Annoor Muslim Maha Vidyalaya,Panagamuwa",
+    "Type": "1C",
+    "Students": 1529
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Al Huda Muslim Maha Vidyalaya,Rambukkandana",
+    "Type": "1C",
+    "Students": 406
+},
+{
+    "Zone": "Ibbagamuwa",
+    "Division": "Rideegama",
+    "School": "Thelambugolla Muslim Maha Vidyalaya,Thelambugolla",
+    "Type": "1C",
+    "Students": 373
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Ambanpola Maha Vidyalaya,Ambanpola",
+    "Type": "1C",
+    "Students": 1153
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Nagallagama Maha Vidyalaya,Nagallagama",
+    "Type": "1C",
+    "Students": 426
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Yapahuwa Maha Vidyalaya,Yapahuwa",
+    "Type": "1C",
+    "Students": 953
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Pahalagama Maha Vidyalaya,Koonawa",
+    "Type": "1C",
+    "Students": 392
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Walaliya Maha Vidyalaya,Walaliya",
+    "Type": "1C",
+    "Students": 391
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Karambe Maha Vidyalaya,Karambe",
+    "Type": "1C",
+    "Students": 545
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Thumbullegama Maha Vidyalaya,Mediyawa",
+    "Type": "1C",
+    "Students": 314
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Thammitagama Maha Vidyalaya,Thammitagama",
+    "Type": "1C",
+    "Students": 243
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Royal Central College,Nagallagama",
+    "Type": "1C",
+    "Students": 391
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Gajaneegama Maha Vidyalaya,Ridibendiela",
+    "Type": "1C",
+    "Students": 738
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Koonwewa Maha Vidyalaya,Koonwewa",
+    "Type": "1C",
+    "Students": 365
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Udadivulwewa Maha Vidyalaya,Ambanpola",
+    "Type": "1C",
+    "Students": 257
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Embalegoda Maha Vidyalaya,Nagallegama",
+    "Type": "1C",
+    "Students": 368
+},
+{
+    "Zone": "Maho",
+    "Division": "Maho",
+    "School": "Al Madeena Muslim Maha Vidyalaya,Maho",
+    "Type": "1C",
+    "Students": 471
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "Sri Siddhartha Maha Vidyalaya,Kudakanthoruwa",
+    "Type": "1C",
+    "Students": 353
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "Tissa Maha Vidyalaya,Usgala",
+    "Type": "1C",
+    "Students": 442
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "Buduruwakanda Maha Vidyalaya,Buduruwakanda",
+    "Type": "1C",
+    "Students": 792
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "Gemunu Maha Vidyalaya,Usgala",
+    "Type": "1C",
+    "Students": 581
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "Mahananeriya Maha Vidyalaya,Mahananeriya",
+    "Type": "1C",
+    "Students": 456
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "Walagamba Maha Vidyalaya,Dewagirigama",
+    "Type": "1C",
+    "Students": 306
+},
+{
+    "Zone": "Maho",
+    "Division": "Galgamuwa",
+    "School": "Galgamuwa Model Muslim Maha Vidyalaya,Galgamuwa",
+    "Type": "1C",
+    "Students": 600
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Mahinda Maha Vidyalaya,Madahapola",
+    "Type": "1C",
+    "Students": 896
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Makulpotha Maha Vidyalaya,Makulpotha",
+    "Type": "1C",
+    "Students": 365
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Maeliya Maha Vidyalaya,Maeliya",
+    "Type": "1C",
+    "Students": 806
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Ambagaswewa Maha Vidyalaya,Hiripitiya",
+    "Type": "1C",
+    "Students": 620
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "T.B Wijesooriya Maha Vidyalaya,Maeliya",
+    "Type": "1C",
+    "Students": 334
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Pansiyagama Maha Vidyalaya,Pansiyagama",
+    "Type": "1C",
+    "Students": 606
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Mahanama Maha Vidyalaya,Koruwawa",
+    "Type": "1C",
+    "Students": 603
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Ponnilawa Maha Vidyalaya,Maeliya",
+    "Type": "1C",
+    "Students": 432
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Thalakolawewa Maha Vidyalaya,Popithigama",
+    "Type": "1C",
+    "Students": 436
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Sri Perakum Maha Vidyalaya,Pothuwila",
+    "Type": "1C",
+    "Students": 399
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Borawewa Maha Vidyalaya,Moragallagama",
+    "Type": "1C",
+    "Students": 205
+},
+{
+    "Zone": "Maho",
+    "Division": "Polpithigama",
+    "School": "Mapegamuwa Maha Vidyalaya,Mapegamuwa",
+    "Type": "1C",
+    "Students": 260
+},
+{
+    "Zone": "Maho",
+    "Division": "Giribawa",
+    "School": "Pahala Giribawa Maha Vidyalaya,Giribawa",
+    "Type": "1C",
+    "Students": 532
+},
+{
+    "Zone": "Maho",
+    "Division": "Giribawa",
+    "School": "Sole Maha Vidyalaya,Solepura",
+    "Type": "1C",
+    "Students": 406
+},
+{
+    "Zone": "Maho",
+    "Division": "Giribawa",
+    "School": "Mailewa Maha Vidyalaya,mailewa",
+    "Type": "1C",
+    "Students": 282
+},
+{
+    "Zone": "Maho",
+    "Division": "Giribawa",
+    "School": "Siri Sanghabo Maha Vidyalaya,Wannikudawewa",
+    "Type": "1C",
+    "Students": 711
+},
+{
+    "Zone": "Maho",
+    "Division": "Giribawa",
+    "School": "Warawewa Maha Vidyalaya,Warawewa",
+    "Type": "1C",
+    "Students": 565
+},
+{
+    "Zone": "Maho",
+    "Division": "Giribawa",
+    "School": "Saliya Asoka Navodya Maha Vidyalaya,Saliya Asokapura",
+    "Type": "1C",
+    "Students": 901
+},
+{
+    "Zone": "Maho",
+    "Division": "Giribawa",
+    "School": "Aliyawetunuwewa Muslim Maha Vidyalaya,Thambutta",
+    "Type": "1C",
+    "Students": 337
+},
+{
+    "Zone": "Maho",
+    "Division": "Giribawa",
+    "School": "Walpaluwa Muslim Maha Vidyalaya,Walpaluwa",
+    "Type": "1C",
+    "Students": 372
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Paranagama Maha Vidyalaya,Paranagama",
+    "Type": "1C",
+    "Students": 282
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Kadahapola Maha Vidyalaya,Kadahapola",
+    "Type": "1C",
+    "Students": 468
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Galgamuwa Maha Vidyalaya,Mahaarachchimulla",
+    "Type": "1C",
+    "Students": 702
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Damsen Maha Vidyalaya,Yatigaloluwa",
+    "Type": "1C",
+    "Students": 573
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Poramadala Maha Vidyalaya,Yatigaloluwa",
+    "Type": "1C",
+    "Students": 77
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Boyawalana Maha Vidyalaya,Keppetiyawalana",
+    "Type": "1C",
+    "Students": 582
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Wewala Maha Vidyalaya,Nawathalwatta",
+    "Type": "1C",
+    "Students": 143
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Wijayaba Maha Vidyalaya,Wennoruwa",
+    "Type": "1C",
+    "Students": 508
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Rathanalankara Maha Vidyalaya,Alawwa",
+    "Type": "1C",
+    "Students": 2049
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Alawwa",
+    "School": "Polgahayaya Muslim Maha Vidyalaya,Narammala",
+    "Type": "1C",
+    "Students": 428
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "I.M.R.A Iriyagolla Maha Vidyalaya,Yakwila",
+    "Type": "1C",
+    "Students": 538
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Kandegedara Dharmapala Maha Vidyalaya,Wedamunnegedara",
+    "Type": "1C",
+    "Students": 423
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Daraluwa Maha Vidyalaya,Daraluwa",
+    "Type": "1C",
+    "Students": 221
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Sri Rathanapala Maha Vidyalaya,Hendiyagala",
+    "Type": "1C",
+    "Students": 721
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Welpalla Maha Vidyalaya,Welpalla",
+    "Type": "1C",
+    "Students": 427
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Rahula Maha Vidyalaya,Nedalagamuwa",
+    "Type": "1C",
+    "Students": 404
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Gallehamulla Maha Vidyalaya,Welipennagahamulla",
+    "Type": "1C",
+    "Students": 100
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Labbala Maha Vidyalaya,Labbala",
+    "Type": "1C",
+    "Students": 403
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Hamangala Maha Vidyalaya,Hamangala",
+    "Type": "1C",
+    "Students": 247
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Bopitiya Maha Vidyalaya,Bopitiya",
+    "Type": "1C",
+    "Students": 402
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Al Qamar Muslim Maha Vidyalaya,Bammana",
+    "Type": "1C",
+    "Students": 702
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Pannala",
+    "School": "Al Ameen Muslim Maha Vidyalaya,Alabadagama",
+    "Type": "1C",
+    "Students": 978
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Kuliyapitiya East",
+    "School": "Mayurawathi Maha Vidyalaya,Galgamulla",
+    "Type": "1C",
+    "Students": 639
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Kuliyapitiya East",
+    "School": "Horambawa Maha Vidyalaya,Horambawa",
+    "Type": "1C",
+    "Students": 378
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Kuliyapitiya East",
+    "School": "Arakyala Maha Vidyalaya,Arakyala",
+    "Type": "1C",
+    "Students": 581
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Kuliyapitiya East",
+    "School": "Middeketiya Maha Vidyalaya,Middeketiya",
+    "Type": "1C",
+    "Students": 707
+},
+{
+    "Zone": "Giriulla",
+    "Division": "Kuliyapitiya East",
+    "School": "Sulaimaniya Muslim Maha Vidyalaya,Kureekotuwa",
+    "Type": "1C",
+    "Students": 310
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Thumbulla Maha Vidyalaya,Thumbulla",
+    "Type": "1C",
+    "Students": 375
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Divullegoda Maha Vidyalaya,Divullegoda",
+    "Type": "1C",
+    "Students": 306
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Heelogama Maha Vidyalaya,Heelogama",
+    "Type": "1C",
+    "Students": 598
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Kavisena Herath Maha Vidyalaya,Hulugalla",
+    "Type": "1C",
+    "Students": 370
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Hulogedara Maha Vidyalaya,Hulogedara",
+    "Type": "1C",
+    "Students": 308
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Rajabima Maha Vidyalaya,Magallegama",
+    "Type": "1C",
+    "Students": 613
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Nikaweratiya Muslim Maha Vidyalaya,Nikaweratiya",
+    "Type": "1C",
+    "Students": 390
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Nikaweratiya",
+    "School": "Nammuwawa Muslim Maha Vidyalaya,Heelogama",
+    "Type": "1C",
+    "Students": 476
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kobeigane",
+    "School": "I.M.R.A Iriyagolla Maha Vidyalaya,Boraluwewa",
+    "Type": "1C",
+    "Students": 448
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kobeigane",
+    "School": "Sri Sumanasiri Maha Vidyalaya,Siyambalagaswetiya",
+    "Type": "1C",
+    "Students": 500
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kobeigane",
+    "School": "Vithileuliya Maha Vidyalaya,Vithileuliya",
+    "Type": "1C",
+    "Students": 746
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kobeigane",
+    "School": "Alahenegama Maha Vidyalaya,Alahanegama",
+    "Type": "1C",
+    "Students": 401
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kobeigane",
+    "School": "Thelahena Maha Vidyalaya,Thelahena",
+    "Type": "1C",
+    "Students": 213
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kobeigane",
+    "School": "Pannawa Muslim Central College,Kobeigane",
+    "Type": "1C",
+    "Students": 635
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Ithanwatta Maha Vidyalaya,Ithanwatta",
+    "Type": "1C",
+    "Students": 204
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Ganthiriyawa Maha Vidyalaya,Bamunukotuwa",
+    "Type": "1C",
+    "Students": 201
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Demataluwa Maha Vidyalaya,Demataluwa",
+    "Type": "1C",
+    "Students": 541
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Mahakeliya Maha Vidyalaya,Mahakeliya",
+    "Type": "1C",
+    "Students": 312
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Minuwangate Maha Vidyalaya,Minuwangate",
+    "Type": "1C",
+    "Students": 443
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Wariyapola",
+    "School": "Sri Sunanda Maha Vidyalaya,Padeniya",
+    "Type": "1C",
+    "Students": 692
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kotawehera",
+    "School": "Kadigawa Maha Vidyalaya,Kadigawa",
+    "Type": "1C",
+    "Students": 334
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kotawehera",
+    "School": "Girilla Maha Vidyalaya,Maha Girilla",
+    "Type": "1C",
+    "Students": 291
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kotawehera",
+    "School": "Sri Dewamiththa Maha Vidyalaya,Digannewa",
+    "Type": "1C",
+    "Students": 266
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kotawehera",
+    "School": "H.M Rasnayaka Maha Vidyalaya,Rasnayakapura",
+    "Type": "1C",
+    "Students": 383
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kotawehera",
+    "School": "Monnekkulama Maha Vidyalaya,Monnekkulama",
+    "Type": "1C",
+    "Students": 307
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kotawehera",
+    "School": "Helambagala Maha Vidyalaya,Sirisethagama",
+    "Type": "1C",
+    "Students": 351
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kotawehera",
+    "School": "Palugolla Yaya 10 Maha Vidyalaya,Palugolla",
+    "Type": "1C",
+    "Students": 277
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kotawehera",
+    "School": "U.B Wanninayaka Maha Vidyalaya,Kotawehera",
+    "Type": "1C",
+    "Students": 125
+},
+{
+    "Zone": "Nikaweratiya",
+    "Division": "Kotawehera",
+    "School": "Abukkagama Muslim Maha Vidyalaya,Abukkagama",
+    "Type": "1C",
+    "Students": 605
+},
+{
+    "School": "Sussex College,Kurunegala"
+},
+{
+    "School": "Sussex College,Kuliyapitiya"
+},
+{
+    "School": "Vidusanda College, Kuliyaptiya"
+},
+{
+    "School": "Vidura College,Kurunegala"
+},
+{
+    "School": "St.Anne's English Medium School,Dummalasooriya"
+},
+{
+    "School": "Amana International School,Mallawapitiya"
+},
+{
+    "School": "Amana International School,Paragahadeniya"
+},
+{
+    "School": "J.M.C College International,Kurunegala"
+},
+{
+    "School": "Lyceum International School,Kurunegala"
+},
+{
+    "School": "Lexicon International School,Kurunegala"
+},
+{
+    "School": "Leadway International School,Kurunegala"
+},
+{
+    "School": "Prince International School,Kuliyapitiya"
+},
+{
+    "School": "Royal International School,Kurunegala"
+},
+{
+    "School": "Wayaba International College Kurunegala"
+},
+{
+    "School": "Sandagala Special School,Uhumeeya"
+}
+   ]

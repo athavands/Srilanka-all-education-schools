@@ -1,0 +1,889 @@
+[
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Gamini National School,Nuwara Eliya",
+    "Type": "1AB",
+    "Students": 1376
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Jayahela National School,Pundaluoya",
+    "Type": "1AB",
+    "Students": 587
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Gamini Dissanayake National School,Kotmale",
+    "Type": "1AB",
+    "Students": 1096
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Al Minhaj National School,Hapugasthalawa",
+    "Type": "1AB",
+    "Students": 668
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewahata",
+    "School": "Poramadulla Central College,Rikillagaskada",
+    "Type": "1AB",
+    "Students": 3401
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewahata",
+    "School": "Victoria National School,Adhikarigama",
+    "Type": "1AB",
+    "Students": 687
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Sri Sumangala National School, Nildandahinna",
+    "Type": "1AB",
+    "Students": 1437
+},
+
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Sumana Secondary School,Talawakale",
+    "Type": "1AB",
+    "Students": 553
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Good Shepherd's Balika Maha Vidyalaya,Nuwara Eliya",
+    "Type": "1AB",
+    "Students": 1629
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-1",
+    "School": "St. Xavier's College, Nuwara Eliya",
+    "Type": "1AB",
+    "Students": 715
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-1",
+    "School": "Holy Trinity College,Nuwara Eliya",
+    "Type": "1AB",
+    "Students": 1084
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-2",
+    "School": "Talawakelle Tamil Maha Vidyalayam,Talawakale",
+    "Type": "1AB",
+    "Students": 2123
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-2",
+    "School": "Kotagala Tamil Maha Vidyalayam,Kotagala",
+    "Type": "1AB",
+    "Students": 2530
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-2",
+    "School": "Cambridge College,Kotagala",
+    "Type": "1AB",
+    "Students": 782
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Ginigathena Central College,Ginigathena",
+    "Type": "1AB",
+    "Students": 1617
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Sri Pada Central College,Hatton",
+    "Type": "1AB",
+    "Students": 783
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "St. Gabriel's Girls College,Hatton",
+    "Type": "1AB",
+    "Students": 1571
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Sri Nissankamalla Maha Vidyalaya,Hatton",
+    "Type": "1AB",
+    "Students": 225
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Laxapana Central College,Laxapana",
+    "Type": "1AB",
+    "Students": 482
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Ambagamuwa Central College,Ambagamuwa",
+    "Type": "1AB",
+    "Students": 706
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Highlands College,Hatton",
+    "Type": "1AB",
+    "Students": 2114
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "St. John Bosco's College,Hatton",
+    "Type": "1AB",
+    "Students": 1655
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-3",
+    "School": "St. Joseph's College,Maskeliya",
+    "Type": "1AB",
+    "Students": 1090
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Hedunuwewa Central College,Hatton",
+    "Type": "1AB",
+    "Students": 425
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Harangala Central College,Nawalapitiya",
+    "Type": "1AB",
+    "Students": 742
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Delta Gemunupura College,Pussellawa",
+    "Type": "1AB",
+    "Students": 1315
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Weerasekara Secondary School,Katukithula",
+    "Type": "1AB",
+    "Students": 419
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Pundaluoya Tamil Maha Vidyalayam,Pundaluoya",
+    "Type": "1AB",
+    "Students": 1654
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewahata",
+    "School": "Pallebowewa Maha Vidyalaya,Pallebowewa",
+    "Type": "1AB",
+    "Students": 870
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewahata",
+    "School": "Diyathilaka Central College,Hanguranketha",
+    "Type": "1AB",
+    "Students": 1431
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewahata",
+    "School": "Sirimavo Bandaranayaka Girls College,Hanguranketha",
+    "Type": "1AB",
+    "Students": 749
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewahata",
+    "School": "Denike Secondary School,Rikillagaskada",
+    "Type": "1AB",
+    "Students": 1797
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Pussadewa Central College,Batagolla",
+    "Type": "1AB",
+    "Students": 633
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "T.B.M Herath Secondary School,Halgranoya",
+    "Type": "1AB",
+    "Students": 1201
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Ragala Tamil Maha Vidyalayam,Ragala",
+    "Type": "1AB",
+    "Students": 1232
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Lindula Sinhala Maha Vidyalaya,Lindula",
+    "Type": "1C",
+    "Students": 195
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Sri Vajiragana Maha Vidyalaya,Hawaeliya",
+    "Type": "1C",
+    "Students": 349
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Agarapatana Sinhala Maha Vidyalaya,Agarapatana",
+    "Type": "1C",
+    "Students": 320
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Paynter Memorial School,Nuwara Eliya",
+    "Type": "1C",
+    "Students": 412
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Mahinda Maha Vidyalaya,Kandapola",
+    "Type": "1C",
+    "Students": 225
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Sri Senananda Maha Vidyalaya,Meepilimana",
+    "Type": "1C",
+    "Students": 588
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Girls High School,Nuwara Eliya",
+    "Type": "1C",
+    "Students": 653
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya",
+    "School": "Kikiliyamana Maha Vidyalaya,Labukele",
+    "Type": "1C",
+    "Students": 362
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-1",
+    "School": "St. Coom's Maha Vidyalayam,Thalawakele",
+    "Type": "1C",
+    "Students": 847
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-1",
+    "School": "Good Rest Balika Maha Vidyalayam,Nuwaraeliya",
+    "Type": "1C",
+    "Students": 761
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-1",
+    "School": "Methodist College,Kandhapola",
+    "Type": "1C",
+    "Students": 1028
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-1",
+    "School": "Dess Ford Tamil Maha Vidyalayam,Nanuoya",
+    "Type": "1C",
+    "Students": 501
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-1",
+    "School": "Nawlar Tamil Maha Vidyalayam,Nanuoya",
+    "Type": "1C",
+    "Students": 776
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-2",
+    "School": "Saraswati Tamil Maha Vidyalayam,Lindula",
+    "Type": "1C",
+    "Students": 825
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-2",
+    "School": "Watagoda Tamil Maha Vidyalayam,Watagoda",
+    "Type": "1C",
+    "Students": 854
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-2",
+    "School": "Dimbula Tamil Maha Vidyalayam,Patana",
+    "Type": "1C",
+    "Students": 525
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-2",
+    "School": "St. Clair Tamil Maha vidyalayam,Thalawakele",
+    "Type": "1C",
+    "Students": 542
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-2",
+    "School": "Ythanside Tamil Maha Vidyalayam,Kotagala",
+    "Type": "1C",
+    "Students": 492
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-2",
+    "School": "Barathi Tamil Maha Vidyalayam,Thalawakele",
+    "Type": "1C",
+    "Students": 683
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-3",
+    "School": "Holbrook Tamil Maha Vidyalayam,Agarapatana",
+    "Type": "1C",
+    "Students": 1077
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-3",
+    "School": "Agarapatana Tamil Maha Vidyalayam,Agarapatana",
+    "Type": "1C",
+    "Students": 743
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-3",
+    "School": "Dayagama West Tamil Maha Vidyalayam,Dayagama",
+    "Type": "1C",
+    "Students": 766
+},
+{
+    "Zone": "Nuwara Eliya",
+    "Division": "Nuwara Eliya Tamil-3",
+    "School": "Maria Tamil Maha Vidyalayam,Lindula",
+    "Type": "1C",
+    "Students": 1099
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Noorwood Sinhala Maha Vidyalaya,Noorwood",
+    "Type": "1C",
+    "Students": 170
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Samaneliya Maha Vidyalaya,Maskeliya",
+    "Type": "1C",
+    "Students": 379
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Vidulipura Maha Vidyalaya,Vidulipura",
+    "Type": "1C",
+    "Students": 376
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Kalugala Maha Vidyalaya,Pitawala",
+    "Type": "1C",
+    "Students": 684
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Kalaweldeniya Maha Vidyalaya,Ginigathena",
+    "Type": "1C",
+    "Students": 143
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Madeniya Maha Vidyalaya,Hitigegama",
+    "Type": "1C",
+    "Students": 230
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Morahenagama Maha Vidyalaya,Morahenagama",
+    "Type": "1C",
+    "Students": 253
+},
+{
+    "Zone": "Hatton",
+    "Division": "Ambagamuwa",
+    "School": "Dharmakeerthi Maha Vidyalaya,Bogawanthalawa",
+    "Type": "1C",
+    "Students": 211
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Abbotsliegh Tamil Maha Vidyalayam,Hatton",
+    "Type": "1C",
+    "Students": 544
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Shannon Tamil Maha Vidyalayam,Hatton",
+    "Type": "1C",
+    "Students": 828
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Watawala Tamil Maha Vidyalyam,Watawala",
+    "Type": "1C",
+    "Students": 715
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Vigneshwara Tamil Maha Vidyalayam,Kandawala",
+    "Type": "1C",
+    "Students": 566
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Pulliyawatta Tamil Maha Vidyalayam,Dickoya",
+    "Type": "1C",
+    "Students": 990
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Dickoya Tamil Maha Vidyalayam,Dickoya",
+    "Type": "1C",
+    "Students": 502
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Carfax Tamil Maha Vidyalayam,Hatton",
+    "Type": "1C",
+    "Students": 432
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Annfield Tamil Maha Vidyalayam,Dickoya",
+    "Type": "1C",
+    "Students": 695
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-1",
+    "School": "Kuilwatta Tamil Maha Vidyalayam,Rosella",
+    "Type": "1C",
+    "Students": 372
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-2",
+    "School": "St. Mary's Central College,Bogawanthalawa",
+    "Type": "1C",
+    "Students": 1665
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-2",
+    "School": "Holy Rosary Maha Vidyalayam,Bogawanthalawa",
+    "Type": "1C",
+    "Students": 835
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-2",
+    "School": "Noorwood Tamil Maha Vidyalayam,Noorwood",
+    "Type": "1C",
+    "Students": 1311
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-2",
+    "School": "Tientsin Tamil Maha Vidyalayam,Bogawanthalawa",
+    "Type": "1C",
+    "Students": 542
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-2",
+    "School": "Campion Tamil Maha Vidyalayam,Bogawanthalawa",
+    "Type": "1C",
+    "Students": 557
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-3",
+    "School": "Ganapathi Tamil Maha Vidyalayam,Norton Bridge",
+    "Type": "1C",
+    "Students": 414
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-3",
+    "School": "Nallathaneer Tamil Maha Vidyalayam,Maskeliya",
+    "Type": "1C",
+    "Students": 591
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-3",
+    "School": "Luccombe Tamil Maha Vidyalayam,Maskeliya",
+    "Type": "1C",
+    "Students": 516
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-3",
+    "School": "Bloomfield Tamil Maha Vidyalayam,Maskeliya",
+    "Type": "1C",
+    "Students": 1058
+},
+{
+    "Zone": "Hatton",
+    "Division": "Hatton Tamil-3",
+    "School": "Gouravilla Tamil Maha Vidyalayam,Upcot",
+    "Type": "1C",
+    "Students": 937
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Gamunu Maha Vidyalaya,Maswela",
+    "Type": "1C",
+    "Students": 203
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Maldeniya Maha Vidyalaya,Maldeniya",
+    "Type": "1C",
+    "Students": 314
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Sri Parakrama Maha Vidyalaya,Madakumbura",
+    "Type": "1C",
+    "Students": 219
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Sirigama Maha Vidyalaya,Gorakaoya",
+    "Type": "1C",
+    "Students": 496
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Nayapana Maha Vidyalaya,Nayapana Janapadaya",
+    "Type": "1C",
+    "Students": 604
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Rojarsangama Maha Vidyalaya,Rojarsangama",
+    "Type": "1C",
+    "Students": 528
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Sri Buddharaja Maha Vidyalaya,Nawa Thispane",
+    "Type": "1C",
+    "Students": 615
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Ananda Dassanayaka Maha Vidyalaya,Hunugaloya",
+    "Type": "1C",
+    "Students": 293
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Kahira Muslim Maha Vidyalaya,Ahaswewa",
+    "Type": "1C",
+    "Students": 215
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Hindu Vidyalayam,Ramboda",
+    "Type": "1C",
+    "Students": 434
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Viveganantha Tamil Maha Vidyalayam,Pundaluoya",
+    "Type": "1C",
+    "Students": 597
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Kataboola Tamil Maha Vidyalayam,Kataboola",
+    "Type": "1C",
+    "Students": 481
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Vigneswara Tamil Maha Vidyalayam,Helboda",
+    "Type": "1C",
+    "Students": 488
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Labukella Tamil Maha Vidyalayam,Labukella",
+    "Type": "1C",
+    "Students": 55
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Dunsinane Tamil Maha Vidyalayam,Pundaluoya",
+    "Type": "1C",
+    "Students": 607
+},
+{
+    "Zone": "Kotmale",
+    "Division": "Kotmale",
+    "School": "Eyrie Tamil Maha Vidyalayam,Ramboda",
+    "Type": "1C",
+    "Students": 482
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewaheta",
+    "School": "Gangapalatha Maha Vidyalaya,Gonagathenna",
+    "Type": "1C",
+    "Students": 221
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewaheta",
+    "School": "Vidyakara Maha Vidyalaya,Poramadulla",
+    "Type": "1C",
+    "Students": 1507
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewaheta",
+    "School": "Padiyapelalla Secondary School,Padiyapelalla",
+    "Type": "1C",
+    "Students": 484
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewaheta",
+    "School": "Mathurata Maha Vidyalaya,Mathurata",
+    "Type": "1C",
+    "Students": 779
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewaheta",
+    "School": "Denike Secondary School,Denike",
+    "Type": "1C",
+    "Students": 386
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewaheta",
+    "School": "Deegalahinna Maha Vidyalaya,Elamulla",
+    "Type": "1C",
+    "Students": 468
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewaheta",
+    "School": "Princess Tamil Maha Vidyalayam,Gonapitiya",
+    "Type": "1C",
+    "Students": 323
+},
+{
+    "Zone": "Hanguranketha",
+    "Division": "Udahewaheta",
+    "School": "Vigneswara Tamil Maha Vidyalayam,Rahathungoda",
+    "Type": "1C",
+    "Students": 263
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Kiribathbandara Maha Vidyalaya,Kumbalgamuwa",
+    "Type": "1C",
+    "Students": 633
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Kalagawatta Maha Vidyalaya,Kalagawatta",
+    "Type": "1C",
+    "Students": 652
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Sri Dharmapala Secondory School,Munwatta",
+    "Type": "1C",
+    "Students": 164
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Pannala Maha Vidyalaya,Kumbalgamuwa",
+    "Type": "1C",
+    "Students": 413
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Liyanwala Sri Sudharma Maha Vidyalaya,Munwatta",
+    "Type": "1C",
+    "Students": 509
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Siduhath Maha Vidyalaya,Theripehe",
+    "Type": "1C",
+    "Students": 456
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Senarath Navodya Maha Vidyalaya,Kurupanwela",
+    "Type": "1C",
+    "Students": 390
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Sri Saddhananda Maha Vidyalaya,Rupaha",
+    "Type": "1C",
+    "Students": 436
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Harasbedda Sinhala Maha Vidyalaya,Harasbedda",
+    "Type": "1C",
+    "Students": 478
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Kotabe Maha Vidyalaya,Rupaha",
+    "Type": "1C",
+    "Students": 260
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Madulla Secondary School,Madulla",
+    "Type": "1C",
+    "Students": 552
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Sri Vidyapradeepa Secondary School,Udamedura",
+    "Type": "1C",
+    "Students": 366
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "St. Leonard's Tamil Maha Vidyalayam,Halgranoya",
+    "Type": "1C",
+    "Students": 782
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Tulloes Tamil Maha Vidyalayam,Udupussellawa",
+    "Type": "1C",
+    "Students": 645
+},
+{
+    "Zone": "Walapane",
+    "Division": "Walapane",
+    "School": "Rilamulla Tamil Maha Vidyalayam,Kandapola",
+    "Type": "1C",
+    "Students": 491
+},
+{
+    "School": "Life Spring Christian College, Dickoya"
+},
+{
+    "School": "St. Patrick's College, Talawakelle"
+},
+{
+    "School": "Sussex College Nuwara Eliya"
+},
+{
+    "School": "High Level International School, Hatton"
+},
+{
+    "School": "JMC International College,Kotmale"
+},
+{
+    "School": "Lyceum International,School,Nuwara Eliya"
+}
+]

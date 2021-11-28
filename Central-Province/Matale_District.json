@@ -1,0 +1,624 @@
+[
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Vijaya College, Matale",
+    "Type": "1AB",
+    "Students": 2280
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "St. Thomas' College, Matale",
+    "Type": "1AB",
+    "Students": 2067
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Christ Church College, Matale",
+    "Type": "1AB",
+    "Students": 2170
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Sri Sangamitta Balika National School, Matale",
+    "Type": "1AB",
+    "Students": 3061
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Zahira College, Matale",
+    "Type": "1AB",
+    "Students": 2088
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Amina Girl's National School,Matale",
+    "Type": "1AB",
+    "Students": 2087
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Pakkiyam National School,Matale",
+    "Type": "1AB",
+    "Students": 1649
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Matale Hindu College,Matale",
+    "Type": "1AB",
+    "Students": 1429
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Ajmeer National School, Elakaduwa",
+    "Type": "1AB",
+    "Students": 1000
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "Rangiri Dambulu National School,Dambulla",
+    "Type": "1AB",
+    "Students": 2555
+},
+{
+    "Zone": "Galewela",
+    "Division": "Pallepola",
+    "School": "Weera Keppetipola Central College, Akuramboda",
+    "Type": "1AB",
+    "Students": 1408
+},
+{
+    "Zone": "Naula",
+    "Division": "Naula",
+    "School": "Sri Naga National School,Naula",
+    "Type": "1AB",
+    "Students": 1562
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Government Science College, Matale",
+    "Type": "1AB",
+    "Students": 857
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Vijayapala Maha Vidyalaya,Matale",
+    "Type": "1AB",
+    "Students": 2122
+},
+{
+    "Zone": "Matale",
+    "Division": "Yatawatta",
+    "School": "Weeraparakrama Secondary College,Yatawatta",
+    "Type": "1AB",
+    "Students": 1069
+},
+{
+    "Zone": "Matale",
+    "Division": "Rattota",
+    "School": "Kaikawala Central College,Kaikawla",
+    "Type": "1AB",
+    "Students": 1272
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Galewela Central College,Galewela",
+    "Type": "1AB",
+    "Students": 2108
+},
+{
+    "Zone": "Galewela",
+    "Division": "Pallepola",
+    "School": "Mahabodhi Secondary College,Pallepola",
+    "Type": "1AB",
+    "Students": 763
+},
+{
+    "Zone": "Wilgamuwa",
+    "Division": "Wilgamuwa",
+    "School": "Naminioya Central College,Naminioya",
+    "Type": "1AB",
+    "Students": 1701
+},
+{
+    "Zone": "Wilgamuwa",
+    "Division": "Laggala",
+    "School": "Haththotaamuna Maha Vidyalaya,Haththotaamuna",
+    "Type": "1AB",
+    "Students": 355
+},
+
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Buddhagosha Maha Vidyalaya,Palapatwela",
+    "Type": "1C",
+    "Students": 820
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Madavala Ulpatha Secondary School,Madawala Ulapatha",
+    "Type": "1C",
+    "Students": 786
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Aluvihare Maha Vidyalaya,Aluvihare",
+    "Type": "1C",
+    "Students": 319
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Sujatha Balika Maha Vidyalaya,Kumbiyangoda",
+    "Type": "1C",
+    "Students": 827
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Sirimavo Bandaranayaka Model School,Matale",
+    "Type": "1C",
+    "Students": 1722
+},
+{
+    "Zone": "Matale",
+    "Division": "Matale",
+    "School": "Kalaimahal Maha Vidyalaya,Kawudupalella",
+    "Type": "1C",
+    "Students": 352
+},
+{
+    "Zone": "Matale",
+    "Division": "Rattota",
+    "School": "Bandarapola Maha Vidyalaya,Kiula",
+    "Type": "1C",
+    "Students": 639
+},
+{
+    "Zone": "Matale",
+    "Division": "Rattota",
+    "School": "Sri Parakrama Maha Vidyalaya,Rattota",
+    "Type": "1C",
+    "Students": 760
+},
+{
+    "Zone": "Matale",
+    "Division": "Rattota",
+    "School": "Sri Seevali Maha Vidyalaya,Weragama",
+    "Type": "1C",
+    "Students": 459
+},
+{
+    "Zone": "Matale",
+    "Division": "Rattota",
+    "School": "Dankanda Maha Vidyalaya,Dankanda",
+    "Type": "1C",
+    "Students": 334
+},
+{
+    "Zone": "Matale",
+    "Division": "Rattota",
+    "School": "Neluwakanda Buddhist School,Muwandeniya",
+    "Type": "1C",
+    "Students": 168
+},
+{
+    "Zone": "Matale",
+    "Division": "Rattota",
+    "School": "Rattota Hindu Maha Vidyalayam,Rattota",
+    "Type": "1C",
+    "Students": 717
+},
+{
+    "Zone": "Matale",
+    "Division": "Rattota",
+    "School": "Kandenuwara Tamil Maha Vidyalaya,Kandenuwara",
+    "Type": "1C",
+    "Students": 292
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Ovilkanda Maha Vidyalaya,Ovilkanda",
+    "Type": "1C",
+    "Students": 300
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Siddhartha Maha Vidyalaya,Nagolla",
+    "Type": "1C",
+    "Students": 337
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Mahinda Rajapaksha Maha Vidyalaya,Ukuwela",
+    "Type": "1C",
+    "Students": 1042
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Leliambe Maha Vidyalaya,Leliambe",
+    "Type": "1C",
+    "Students": 235
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Thenna Maha Vidyalaya,Thenna",
+    "Type": "1C",
+    "Students": 247
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Sri Saranankara Maha Vidyalaya,Udupihilla",
+    "Type": "1C",
+    "Students": 287
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Annor Muslim Maha Vidyalaya,Warakamura",
+    "Type": "1C",
+    "Students": 683
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Hameediya Muslim College,Kureewela",
+    "Type": "1C",
+    "Students": 1019
+},
+{
+    "Zone": "Matale",
+    "Division": "Ukuwela",
+    "School": "Elakaduwa Tamil Maha Vidyalayam,Elakaduwa",
+    "Type": "1C",
+    "Students": 422
+},
+{
+    "Zone": "Matale",
+    "Division": "Yatawatta",
+    "School": "Dullewa Maha Vidyalaya,Dullewa",
+    "Type": "1C",
+    "Students": 183
+},
+{
+    "Zone": "Matale",
+    "Division": "Yatawatta",
+    "School": "D.M Gunarathna Maha Vidyalaya,Mahawewa",
+    "Type": "1C",
+    "Students": 153
+},
+{
+    "Zone": "Matale",
+    "Division": "Yatawatta",
+    "School": "Anagarika Dharmapala Maha Vidyalaya,Udasgiriya",
+    "Type": "1C",
+    "Students": 349
+},
+{
+    "Zone": "Matale",
+    "Division": "Yatawatta",
+    "School": "Maliyadewa Maha Vidyalaya,Deevilla",
+    "Type": "1C",
+    "Students": 366
+},
+{
+    "Zone": "Matale",
+    "Division": "Yatawatta",
+    "School": "Minhaj Muslim Maha Vidyalaya,Nikagolla",
+    "Type": "1C",
+    "Students": 504
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Madipola Maha Vidyalaya,Madipola",
+    "Type": "1C",
+    "Students": 403
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Medabedda Maha Vidyalaya,Wahakotte",
+    "Type": "1C",
+    "Students": 692
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Mukulgaswewa Maha Vidyalaya,Dewahuwa",
+    "Type": "1C",
+    "Students": 401
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "St. Anthoni's College,Wahakotte",
+    "Type": "1C",
+    "Students": 337
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Hombawa Maha Vidyalaya,Bambaragaswewa",
+    "Type": "1C",
+    "Students": 255
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Silwathgala Maha Vidyalaya,Beliyakanda",
+    "Type": "1C",
+    "Students": 358
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Moragolla Maha Vidyalaya,Bambaragaswewa",
+    "Type": "1C",
+    "Students": 286
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Tholambugolla Maha Vidyalaya,Tholambugolla",
+    "Type": "1C",
+    "Students": 810
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Al Furkhan Muslim Maha Vidyalaya,Namadagahawatta",
+    "Type": "1C",
+    "Students": 579
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Dewahuwa Muslim Maha Vidyalaya,Dewahuwa",
+    "Type": "1C",
+    "Students": 441
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Elamalpotha Muslim Maha Vidyalaya,Wahakotte",
+    "Type": "1C",
+    "Students": 262
+},
+{
+    "Zone": "Galewela",
+    "Division": "Galewela",
+    "School": "Keppetiya Muslim Maha Vidyalaya,Galewela",
+    "Type": "1C",
+    "Students": 375
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "Weera Mohan Jayamaha Maha Vidyalaya,Dambulla",
+    "Type": "1C",
+    "Students": 1625
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "D.S Senanayaka Maha Vidyalaya,Dambulla",
+    "Type": "1C",
+    "Students": 596
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "Thennakoon Maha Vidyalaya,Kandalama",
+    "Type": "1C",
+    "Students": 259
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "Sigiriya Maha Vidyalaya,Sigiriya",
+    "Type": "1C",
+    "Students": 822
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "Weera Wijaya Wimalarathna Maha Vidyalaya,Inamaluwa",
+    "Type": "1C",
+    "Students": 468
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "Thalakiriyagama Maha Vidyalaya,Thalakiriyagama",
+    "Type": "1C",
+    "Students": 600
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "Pannampitiya Maha Vidyalaya,Lenadora",
+    "Type": "1C",
+    "Students": 419
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "Wewalawewa Maha Vidyalaya,Wewalawewa",
+    "Type": "1C",
+    "Students": 399
+},
+{
+    "Zone": "Galewela",
+    "Division": "Dambulla",
+    "School": "Nikawatana Muslim Maha Vidyalaya,Nikawatana",
+    "Type": "1C",
+    "Students": 362
+},
+{
+    "Zone": "Galewela",
+    "Division": "Pallepola",
+    "School": "Maningamuwa Maha Vidyalaya,Maningamuwa",
+    "Type": "1C",
+    "Students": 238
+},
+{
+    "Zone": "Galewela",
+    "Division": "Pallepola",
+    "School": "Millawana Maha Vidyalaya,Millawana",
+    "Type": "1C",
+    "Students": 346
+},
+{
+    "Zone": "Galewela",
+    "Division": "Pallepola",
+    "School": "Arafa Muslim Maha Vidyalaya,Madipola",
+    "Type": "1C",
+    "Students": 473
+},
+{
+    "Zone": "Naula",
+    "Division": "Naula",
+    "School": "Montigopallawa Maha Vidyalaya,Koongahawela",
+    "Type": "1C",
+    "Students": 239
+},
+{
+    "Zone": "Naula",
+    "Division": "Naula",
+    "School": "Koongahawela Maha Vidyalaya,Koongahawela",
+    "Type": "1C",
+    "Students": 422
+},
+{
+    "Zone": "Naula",
+    "Division": "Naula",
+    "School": "Nalanda Maha Vidyalaya,Nalanda",
+    "Type": "1C",
+    "Students": 542
+},
+{
+    "Zone": "Naula",
+    "Division": "Naula",
+    "School": "Melpitiya Maha Vidyalaya,Melpitiya",
+    "Type": "1C",
+    "Students": 220
+},
+{
+    "Zone": "Naula",
+    "Division": "Naula",
+    "School": "Andawala Maha Vidyalaya,Madawala Ulpotha",
+    "Type": "1C",
+    "Students": 315
+},
+{
+    "Zone": "Naula",
+    "Division": "Naula",
+    "School": "Elagamuwa Maha Vidyalaya,Thalagoda Junction",
+    "Type": "1C",
+    "Students": 183
+},
+{
+    "Zone": "Naula",
+    "Division": "Ambanganga Korale",
+    "School": "Pussella Maha Vidyalya,Gammaduwa",
+    "Type": "1C",
+    "Students": 311
+},
+{
+    "Zone": "Naula",
+    "Division": "Ambanganga Korale",
+    "School": "Mahinda Secondary School,Matihakka",
+    "Type": "1C",
+    "Students": 230
+},
+{
+    "Zone": "Naula",
+    "Division": "Ambanganga Korale",
+    "School": "Gammaduwa Tamil Maha Vidyalayam,Gammaduwa",
+    "Type": "1C",
+    "Students": 280
+},
+{
+    "Zone": "Wilgamuwa",
+    "Division": "Wilgamuwa",
+    "School": "Maraka Maha Vidyalaya,Maraka",
+    "Type": "1C",
+    "Students": 662
+},
+{
+    "Zone": "Wilgamuwa",
+    "Division": "Wilgamuwa",
+    "School": "Handungamuwa Maha Vidyalaya,Handungamuwa",
+    "Type": "1C",
+    "Students": 389
+},
+{
+    "Zone": "Wilgamuwa",
+    "Division": "Wilgamuwa",
+    "School": "Nugagolla Maha Vidyalaya,Nugagolla",
+    "Type": "1C",
+    "Students": 537
+},
+{
+    "Zone": "Wilgamuwa",
+    "Division": "Laggala",
+    "School": "Minipura Wijaya Maha Vidyalaya,Haththotaamuna",
+    "Type": "1C",
+    "Students": 291
+},
+{
+    "Zone": "Wilgamuwa",
+    "Division": "Laggala",
+    "School": "Pallegama Maha Vidyalaya,Pallegama",
+    "Type": "1C",
+    "Students": 273
+},
+{
+    "Zone": "Wilgamuwa",
+    "Division": "Laggala",
+    "School": "Sri Sumana Maha Vidyalaya,Ilukkumbura",
+    "Type": "1C",
+    "Students": 155
+},
+{
+    "School": "Royal English School,Matale"
+},
+{
+    "School": "Focus International School,Matale"
+},
+{
+    "School": "Hilburn International School,Dambulla"
+},
+{
+    "School": "Lion Gate International School,Dambulla"
+},
+{
+    "School": "Matale International School,Matale"
+},
+{
+    "School": "Koswana Sahana Special School,Kaikawala"
+}
+   
+]

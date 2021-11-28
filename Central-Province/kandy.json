@@ -1,0 +1,632 @@
+[
+{
+"Zone": "Kandy",
+"Division": "Gangawata Korale",
+"School": "Dharmaraja College,Kandy",
+"Type": "1AB",
+"Students": 4741
+},
+{
+"Zone": "Kandy",
+"Division": "Gangawata Korale",
+"School": "Kingswood College, Kandy",
+"Type": "1AB",
+"Students": 3744
+},
+{
+"Zone": "Kandy",
+"Division": "Gangawata Korale",
+"School": "Sri Rahula College, Kandy",
+"Type": "1AB",
+"Students": 2362
+},
+{
+"Zone": "Kandy",
+"Division": "Gangawata Korale",
+"School": "Girls' High School, Kandy",
+"Type": "1AB",
+"Students": 5299
+},
+{
+"Zone": "Kandy",
+"Division": "Gangawata Korale",
+"School": "Mahamaya Girls' College, Kandy",
+"Type": "1AB",
+"Students": 4569
+},
+{
+"Zone": "Kandy",
+"Division": "Gangawata Korale",
+"School": "Pushpadana Girls' College, Kandy",
+"Type": "1AB",
+"Students": 2650
+},
+{
+"Zone": "Kandy",
+"Division": "Gangawata Korale",
+"School": "Badi Uddin Mahmud Girl's College,Kandy",
+"Type": "1AB",
+"Students": 1839
+},
+{
+"Zone": "Kandy",
+"Division": "Patha Hewahata",
+"School": "Bopitiya Rajasinghe National School,Marassana",
+"Type": "1C",
+"Students": 671
+},
+{
+"Zone": "Kandy",
+"Division": "Patha Hewahata",
+"School": "Marassana National School,Marassana",
+"Type": "1C",
+"Students": 608
+},
+{
+"Zone": "Denuwara",
+"Division": "Yatinuwara",
+"School": "Kadugannawa National School,Kadugannawa",
+"Type": "1AB",
+"Students": 1038
+},
+{
+"Zone": "Denuwara",
+"Division": "Yatinuwara",
+"School": "Swarnajothi National School,Kiribathkumbura",
+"Type": "1AB",
+"Students": 874
+},
+{
+"Zone": "Denuwara",
+"Division": "Udunuwara",
+"School": "D.B Wijethunga National School,Muruthagahamulla",
+"Type": "1AB",
+"Students": 730
+},
+{
+"Zone": "Denuwara",
+"Division": "Udunuwara",
+"School": "Al Manar National School,Handessa",
+"Type": "1AB",
+"Students": 1174
+},
+{
+"Zone": "Gampola",
+"Division": "Udapalatha",
+"School": "Wickramabahu Central College,Gampola",
+"Type": "1AB",
+"Students": 1582
+},
+{
+"Zone": "Gampola",
+"Division": "Udapalatha",
+"School": "Wimaladharma National School,Gampola",
+"Type": "1C",
+"Students": 750
+},
+{
+"Zone": "Gampola",
+"Division": "Udapalatha",
+"School": "Hindu National College,Pussellawa",
+"Type": "1C",
+"Students": 1054
+},
+{
+"Zone": "Gampola",
+"Division": "Udapalatha",
+"School": "Zahira College, Gampola",
+"Type": "1AB",
+"Students": 2830
+},
+{
+"Zone": "Gampola",
+"Division": "Ganga Ihala Korale",
+"School": "Senadhikari Nationaal School,Udahenthenna",
+"Type": "1AB",
+"Students": 1065
+},
+{
+"Zone": "Gampola",
+"Division": "Pasbage Korale",
+"School": "Anuruddha Kumara National School,Nawalapitiya",
+"Type": "1AB",
+"Students": 907
+},
+{
+"Zone": "Katugastota",
+"Division": "Thumpane",
+"School": "Galagedara Central College,Galagedara",
+"Type": "1AB",
+"Students": 939
+},
+{
+"Zone": "Katugastota",
+"Division": "Thumpane",
+"School": "Sujatha Balika National School,Galagedara",
+"Type": "1C",
+"Students": 891
+},
+{
+"Zone": "Katugastota",
+"Division": "Harispattuwa",
+"School": "Nugawela Central College,Nugawela",
+"Type": "1AB",
+"Students": 4165
+},
+{
+"Zone": "Katugastota",
+"Division": "Hatharaliyadda",
+"School": "Hatharaliyadda Central College,Hatharaliyadda",
+"Type": "1AB",
+"Students": 1098
+},
+{
+"Zone": "Katugastota",
+"Division": "Pujapitiya",
+"School": "Pujapitiya Central College,Pujapitiya",
+"Type": "1AB",
+"Students": 1056
+},
+{
+"Zone": "Katugastota",
+"Division": "Pujapitiya",
+"School": "Parakrama National School,Ankumbura",
+"Type": "1C",
+"Students": 664
+},
+{
+"Zone": "Katugastota",
+"Division": "Pujapitiya",
+"School": "Al Manar Central College, Galhinna",
+"Type": "1C",
+"Students": 742
+},
+{
+"Zone": "Katugastota",
+"Division": "Akurana",
+"School": "Alawathugoda Central College,Alawathugoda",
+"Type": "1AB",
+"Students": 950
+},
+{
+"Zone": "Katugastota",
+"Division": "Akurana",
+"School": "Azhar College,Akurana",
+"Type": "1AB",
+"Students": 1720
+},
+{
+"Zone": "Katugastota",
+"Division": "Akurana",
+"School": "Zahira Central College,Akurana",
+"Type": "1C",
+"Students": 1201
+},
+{
+"Zone": "Teldeniya",
+"Division": "Medadumbara",
+"School": "Teldeniya National School,Teldeniya",
+"Type": "1AB",
+"Students": 1817
+},
+{
+"Zone": "Teldeniya",
+"Division": "Medadumbara",
+"School": "Amupitiya Central College,Udispattuwa",
+"Type": "1C",
+"Students": 659
+},
+{
+"Zone": "Teldeniya",
+"Division": "Minipe",
+"School": "Ranasinghe Premadasa National School,Hasalaka",
+"Type": "1AB",
+"Students": 1054
+},
+{
+"Zone": "Wattegama",
+"Division": "Kundasale",
+"School": "S.W.R.D Bandaranayaka National School,Kundasale",
+"Type": "1C",
+"Students": 730
+},
+{
+"Zone": "Wattegama",
+"Division": "Kundasale",
+"School": "Rajawella National School,Digana",
+"Type": "1AB",
+"Students": 1237
+},
+{
+"Zone": "Wattegama",
+"Division": "Pathadumbara",
+"School": "Madina Central College,Medawela Bazaar",
+"Type": "1AB",
+"Students": 1909
+},
+
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Vidyartha College,Kandy",
+    "Type": "1AB",
+    "Students": 3482
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "St. Sylvester's College,Kandy",
+    "Type": "1AB",
+    "Students": 3619
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "St. Anthony's College, Kandy",
+    "Type": "1AB",
+    "Students": 2603
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Wariyapola Sri Sumangala College,Kandy",
+    "Type": "1AB",
+    "Students": 2701
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Ranabima Royal College,Peradeniya",
+    "Type": "1AB",
+    "Students": 1345
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Berrewerts College,Ampitiya",
+    "Type": "1AB",
+    "Students": 1076
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "St. Anthony's Girls College,Kandy",
+    "Type": "1AB",
+    "Students": 3770
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Hemamali Girl's College,Kandy",
+    "Type": "1AB",
+    "Students": 2354
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Swarnamali Girl's College,Kandy",
+    "Type": "1AB",
+    "Students": 3409
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Seethadevi Girls College,Kandy",
+    "Type": "1AB",
+    "Students": 2446
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Viharamahadevi Girl's College,Kandy",
+    "Type": "1AB",
+    "Students": 2613
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Peradeniya Central College,Peradeniya",
+    "Type": "1AB",
+    "Students": 1442
+},
+{
+    "Zone": "Kandy",
+    "Division": "Gangawata Korale",
+    "School": "Peradeniya Hindu College,Peradeniya",
+    "Type": "1AB",
+    "Students": 228
+},
+{
+    "Zone": "Kandy",
+    "Division": "Patha Hewahata",
+    "School": "Hewahata Central College,Thalathuoya",
+    "Type": "1AB",
+    "Students": 1485
+},
+{
+    "Zone": "Kandy",
+    "Division": "Patha Hewahata",
+    "School": "Enasgolla Central College,Deltota",
+    "Type": "1AB",
+    "Students": 564
+},
+{
+    "Zone": "Kandy",
+    "Division": "Patha Hewahata",
+    "School": "Sri Ramakrishna Central College,Galaha",
+    "Type": "1AB",
+    "Students": 1232
+},
+{
+    "Zone": "Denuwara",
+    "Division": "Yatinuwara",
+    "School": "Menikdiwela Central College,Menikdiwela",
+    "Type": "1AB",
+    "Students": 493
+},
+{
+    "Zone": "Denuwara",
+    "Division": "Yatinuwara",
+    "School": "Pilimathalawa Central College,Pilimathalawa",
+    "Type": "1AB",
+    "Students": 1113
+},
+{
+    "Zone": "Denuwara",
+    "Division": "Yatinuwara",
+    "School": "Sri Dheerananda Maha Vidyalaya,Pilimathalawa",
+    "Type": "1AB",
+    "Students": 2466
+},
+{
+    "Zone": "Denuwara",
+    "Division": "Udunuwara",
+    "School": "Sri Pragngnananda Central College,Gelioya",
+    "Type": "1AB",
+    "Students": 1222
+},
+{
+    "Zone": "Gampola",
+    "Division": "Udapalatha",
+    "School": "Jinaraja Boy's College,Gampola",
+    "Type": "1AB",
+    "Students": 1221
+},
+{
+    "Zone": "Gampola",
+    "Division": "Udapalatha",
+    "School": "St. Joseph's Balika Maha Vidyalaya,Gampola",
+    "Type": "1AB",
+    "Students": 2762
+},
+{
+    "Zone": "Gampola",
+    "Division": "Udapalatha",
+    "School": "Saraswthi Central College,Pussellawa",
+    "Type": "1AB",
+    "Students": 950
+},
+{
+    "Zone": "Gampola",
+    "Division": "Pasbage Korale",
+    "School": "St Andrew's Girls College, Nawalapitiya",
+    "Type": "1AB",
+    "Students": 1168
+},
+{
+    "Zone": "Gampola",
+    "Division": "Pasbage Korale",
+    "School": "Kathiresan Central College,Nawalapitiya",
+    "Type": "1AB",
+    "Students": 980
+},
+{
+    "Zone": "Gampola",
+    "Division": "Ganga Ihala Korale",
+    "School": "Kurunduwatta Royal College,Kurunduwatta Bazaar",
+    "Type": "1AB",
+    "Students": 1139
+},
+{
+    "Zone": "Katugastota",
+    "Division": "Thumpane",
+    "School": "Jabbar Muslim Maha Vidyalaya,Galagedara",
+    "Type": "1AB",
+    "Students": 578
+},
+{
+    "Zone": "Katugastota",
+    "Division": "Akurana",
+    "School": "Akurana Muslim Balika Maha Vidyalaya,Akurana",
+    "Type": "1AB",
+    "Students": 1736
+},
+{
+    "Zone": "Teldeniya",
+    "Division": "Medadumbara",
+    "School": "Dunhinna Secondary School,Dunhinna",
+    "Type": "1AB",
+    "Students": 448
+},
+{
+    "Zone": "Teldeniya",
+    "Division": "Ududumbara",
+    "School": "Ududumbara Secondary School,Ududumbara",
+    "Type": "1AB",
+    "Students": 573
+},
+{
+    "Zone": "Wattegama",
+    "Division": "Kundasale",
+    "School": "Walala A. Ratnayaka Central College,Menikhinna",
+    "Type": "1AB",
+    "Students": 1741
+},
+{
+    "Zone": "Wattegama",
+    "Division": "Pathadumbara",
+    "School": "Wattegama Central College,Wattegama",
+    "Type": "1AB",
+    "Students": 1504
+},
+{
+    "Zone": "Wattegama",
+    "Division": "Pathadumbara",
+    "School": "Wattegama Balika Maha Vidyalaya,Wattegama",
+    "Type": "1AB",
+    "Students": 2150
+},
+{
+    "Zone": "Wattegama",
+    "Division": "Pujapitiya",
+    "School": "Nalanda Central College,Pujapitiya",
+    "Type": "1AB",
+    "Students": 745
+},
+{
+    "Zone": "Wattegama",
+    "Division": "Panvila",
+    "School": "Rajasingha Central College,Panvila",
+    "Type": "1AB",
+    "Students": 434
+},
+{
+    "School": "Asoka College, Kandy"
+},
+{
+    "School": "Dhaarul Uloom Al Meezaniyyah Arabic College,Kandy"
+},
+{
+    "School": "Dhurhan College,Galhinna"
+},
+{
+    "School": "Gateway College,Kandy"
+},
+{
+    "School": "Good Shepherd Convent, Kandy"
+},
+{
+    "School": "Hillwood College, Kandy"
+},
+{
+    "School": "Loyal Ladies College,Peradeniya"
+},
+{
+    "School": "Mowbray College, Kandy"
+},
+{
+    "School": "Niswan Model School,Ambatenna"
+},
+{
+    "School": "Oxford College,Nawalapitiya"
+},
+{
+    "School": "Savihx College,Nawalapitiya"
+},
+{
+    "School": "Sherwood Girls College,Ambatenna"
+},
+{
+    "School": "Sri Chandananda Buddhist College, Kandy"
+},
+{
+    "School": "St. Benedict's College Kandy"
+},
+{
+    "School": "Stamford College,Kandy"
+},
+{
+    "School": "Sussex College, Kandy"
+},
+{
+    "School": "Trinity College, Kandy"
+},
+{
+    "School": "Wingham College,Nawalapitiya"
+},
+{
+    "School": "Yaqeen Model School,Ambatenna"
+},
+{
+    "School": "AQL International Girls School,Akurana"
+},
+{
+    "School": "Colombo International School, Kandy"
+},
+{
+    "School": "Digana International School, Digana"
+},
+{
+    "School": "École internationale, Kandy"
+},
+{
+    "School": "Ecole International School,Digana"
+},
+{
+    "School": "Evergreen International School,Gelioya"
+},
+{
+    "School": "Gampola International School, Gampola"
+},
+{
+    "School": "Greenhill International School,Kandy"
+},
+{
+    "School": "Harvard Medha International School, Haragama"
+},
+{
+    "School": "Hill Country International School, Kandy"
+},
+{
+    "School": "Irish International School,Kandy"
+},
+{
+    "School": "JMC International School,Ampitiya"
+},
+{
+    "School": "JMC International School, Kandy"
+},
+{
+    "School": "JMC International School,Peradeniya"
+},
+{
+    "School": "JMC International School,Gampola"
+},
+{
+    "School": "Kandy Grammar School, Kandy"
+},
+{
+    "School": "KEA International School,Kandy"
+},
+{
+    "School": "Kingston English School, Kandy"
+},
+{
+    "School": "Leeds International School Nawalapitiya"
+},
+{
+    "School": "Lexicon International School, Kandy"
+},
+{
+    "School": "Netherfield International School, Kandy"
+},
+{
+    "School": "Rightway International School,Akurana"
+},
+{
+    "School": "Springfield International School, Kandy"
+},
+{
+    "School": "Vision International School,Kandy"
+},
+{
+    "School": "Wesswood International Boys' College, Katugastota"
+},
+{
+    "School": "Senkadagala Deaf And Blind School,Kandy"
+},
+{
+    "School": "Blue Rose Special School,Kandy"
+}
+   
+]

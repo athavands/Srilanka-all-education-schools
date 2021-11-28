@@ -1,0 +1,260 @@
+[
+ {
+   "Zone": "Ampara",
+   "Division": "Ampara",
+   "School": "D.S Senanayaka National College, Ampara",
+   "Type": "1AB",
+   "Students": 2194
+ },
+ {
+   "Zone": "Ampara",
+   "Division": "Ampara",
+   "School": "Bandaranayake Balika Maha Vidyalaya, Ampara",
+   "Type": "1AB",
+   "Students": 1795
+ },
+ {
+   "Zone": "Ampara",
+   "Division": "Uhana",
+   "School": "Uhana Maha Vidyalaya, Uhana",
+   "Type": "1AB",
+   "Students": 1240
+ },
+ {
+   "Zone": "Akkaraipattu",
+   "Division": "Akkaraipattu",
+   "School": "Akkaraipattu Muslim Central College, Akkaraipattu",
+   "Type": "1AB",
+   "Students": 1346
+ },
+ {
+   "Zone": "Akkaraipattu",
+   "Division": "Addalaichenai",
+   "School": "Addalaichenai Madhya Maha Vidyalayam, Addalaichenai",
+   "Type": "1AB",
+   "Students": 1807
+ },
+ {
+   "Zone": "Akkaraipattu",
+   "Division": "Potuvil I",
+   "School": "Potuvil Central College, Potuvil",
+   "Type": "1AB",
+   "Students": 925
+ },
+ {
+   "Zone": "Dehiattakandiya",
+   "Division": "Dehiattakandiya",
+   "School": "Dehiattakandiya Central College, Dehiattakandiya",
+   "Type": "1AB",
+   "Students": 3156
+ },
+ {
+   "Zone": "Kalmunai",
+   "Division": "Kalmunai Tamil",
+   "School": "Carmel Fatima College, Kalmunai",
+   "Type": "1AB",
+   "Students": 3144
+ },
+ {
+   "Zone": "Kalmunai",
+   "Division": "Ninatavur",
+   "School": "Al Ashraq National School, Nintavur",
+   "Type": "1AB",
+   "Students": 1623
+ },
+ {
+   "Zone": "Kalmunai",
+   "Division": "Sainthamaruthu",
+   "School": "Zahira College, Kalmunai",
+   "Type": "1AB",
+   "Students": 2637
+ },
+ {
+   "Zone": "Mahaoya",
+   "Division": "Padiyatalawa",
+   "School": "Padiyathalawa National School, Padiyatalawa",
+   "Type": "1AB",
+   "Students": 989
+ },
+ {
+   "Zone": "Sammanthurai",
+   "Division": "Sammanthurai",
+   "School": "Sammanturai Muslim Madya Maha Vidyalaya, Sammanthurai [2]",
+   "Type": "1AB",
+   "Students": 3218
+ },
+ {
+   "Zone": "Sammanthurai",
+   "Division": "Sammanthurai",
+   "School": "Al Marjan Muslim Ladies College, Sammanthurai",
+   "Type": "1AB",
+   "Students": 1016
+ },
+ {
+   "Zone": "Sammanthurai",
+   "Division": "Irakkamam",
+   "School": "Al Ashraff Central College, Irakkamam",
+   "Type": "1AB",
+   "Students": 939
+ },
+ {
+   "Zone": "Tirukkovil",
+   "Division": "Tirukkovil",
+   "School": "Thambiluvil Central College, Thambiluvil [3][4]",
+   "Type": "1AB",
+   "Students": 1092
+ },
+ {
+   "Zone": "Tirukkovil",
+   "Division": "Alayadivembu",
+   "School": "Sri Ramakrishna College, Akkaraipattu",
+   "Type": "1AB",
+   "Students": 1170
+ },
+{
+    "Zone": "Ampara",
+    "Division": "Ampara",
+    "School": "Saddhatissa Maha Vidyalaya, Ampara",
+    "Type": "1AB",
+    "Students": 2180
+},
+{
+    "Zone": "Akkaraipattu",
+    "Division": "Akkaraipattu",
+    "School": "As Siraj Maha Vidyalayam, Chlambaikkeni",
+    "Type": "1AB",
+    "Students": 1462
+},
+{
+    "Zone": "Akkaraipattu",
+    "Division": "Akkaraipattu",
+    "School": "Ayesha Muslim Ladies College, Akkaraipattu",
+    "Type": "1AB",
+    "Students": 1337
+},
+{
+    "Zone": "Akkarapattu",
+    "Division": "Addalachchenai",
+    "School": "Al Hamra Maha Vidyalayam, Oluvil",
+    "Type": "1AB",
+    "Students": 1013
+},
+{
+    "Zone": "Akkarapattu",
+    "Division": "Addalachchenai",
+    "School": "Al Muneera Girls High School, Addalachchenai",
+    "Type": "1AB",
+    "Students": 904
+},
+{
+    "Zone": "Akkaraipattu",
+    "Division": "Pottuvil I",
+    "School": "Al Irfan Ladies College, Pottuvil",
+    "Type": "1AB",
+    "Students": 942
+},
+{
+    "Zone": "Dehiattakandiya",
+    "Division": "Dehiattakandiya",
+    "School": "Medagama Scondary School, Dehiattakandiya",
+    "Type": "1AB",
+    "Students": 956
+},
+{
+    "Zone": "Kalmunai",
+    "Division": "Kalmunai",
+    "School": "Al Manar Central College, Maruthamunai",
+    "Type": "1AB",
+    "Students": 1958
+},
+{
+    "Zone": "Kalmunai",
+    "Division": "Kalmunai",
+    "School": "Shams Central College, Maruthamunai",
+    "Type": "1AB",
+    "Students": 1136
+},
+{
+    "Zone": "Kalmunai",
+    "Division": "Kalmunai",
+    "School": "Mahmood Ladies College, Kalmunai",
+    "Type": "1AB",
+    "Students": 2716
+},
+{
+    "Zone": "Kalmunai",
+    "Division": "Kalmunai Tamil",
+    "School": "Wesley High School, Kalmunai",
+    "Type": "1AB",
+    "Students": 1854
+},
+{
+    "Zone": "Kalmunai",
+    "Division": "Karaitivu",
+    "School": "Vipulananda Central College, Karaitivu",
+    "Type": "1AB",
+    "Students": 871
+},
+{
+    "Zone": "Mahaoya",
+    "Division": "Mahaoya",
+    "School": "Kepitipola Secondary School, Mahaoya",
+    "Type": "1AB",
+    "Students": 1014
+},
+{
+    "Zone": "Sammanthurai",
+    "Division": "Navitanveli",
+    "School": "Annamalai Maha Vidyalayam, Navitanveli",
+    "Type": "1AB",
+    "Students": 507
+},
+{
+    "Zone": "Sammanthurai",
+    "Division": "Navitanveli",
+    "School": "Ranmadu Hindu Maha Vidyalayam, Navitanveli",
+    "Type": "1AB",
+    "Students": 455
+},
+{
+    "Zone": "Tirukkovil",
+    "Division": "Tirukkovil",
+    "School": "Vinayagapuram Maha Vidyalayam, Vinayagapuram",
+    "Type": "1C",
+    "Students": 784
+},
+{
+    "Zone": "Tirukkovil",
+    "Division": "Tirukkovil",
+    "School": "Methodist Mission Tamil Maha Vidyalayam, Tirukkovil",
+    "Type": "1AB",
+    "Students": 754
+},
+{
+    "Zone": "Tirukkovil",
+    "Division": "Alayadivembu",
+    "School": "Ramakrishna Mission Maha Vidyalayam, Akkarapattu",
+    "Type": "1AB",
+    "Students": 817
+},
+{
+    "Zone": "Tirukkovil",
+    "Division": "Pottuvil II",
+    "School": "Methodist Tamil Maha Vidyalayam, Pottuvil",
+    "Type": "1AB",
+    "Students": 754
+},
+{
+    "School": "Sussex college, Ampara"
+},
+{
+    "School": "AIMS International School, Akkaraipattu"
+},
+{
+    "School": "Global Life International School, Ampara"
+},
+{
+    "School": "Pebbles Academy, Akkaraipattu"
+}
+
+]

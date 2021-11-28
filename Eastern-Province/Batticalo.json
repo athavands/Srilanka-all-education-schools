@@ -1,0 +1,255 @@
+[
+{
+    "Zone": "Batticaloa",
+    "Division": "Manmunal North",
+    "School": "St. Michael's College, Batticaloa",
+    "Type": "1AB",
+    "Students": 2595
+},
+{
+    "Zone": "Batticaloa",
+    "Division": "Manmunal North",
+    "School": "Shivananda National College, Batticaloa",
+    "Type": "1AB",
+    "Students": 1570
+},
+{
+    "Zone": "Batticaloa",
+    "Division": "Manmunal North",
+    "School": "Vincent Girls' High School, Batticaloa",
+    "Type": "1AB",
+    "Students": 2156
+},
+{
+    "Zone": "Batticaloa",
+    "Division": "Manmunal North",
+    "School": "St. Cecilia's Girls' College, Batticaloa",
+    "Type": "1AB",
+    "Students": 2132
+},
+{
+    "Zone": "Batticaloa Central",
+    "Division": "Eravur",
+    "School": "Alighar Central College, Eravur",
+    "Type": "1AB",
+    "Students": 1387
+},
+{
+    "Zone": "Batticaloa Central",
+    "Division": "Eravur",
+    "School": "Macan Markar National School, Eravur",
+    "Type": "1AB",
+    "Students": 1027
+},
+{
+    "Zone": "Batticaloa Central",
+    "Division": "Kattankudy",
+    "School": "Kattankudy Central College, Kattankudy",
+    "Type": "1AB",
+    "Students": 2156
+},
+{
+    "Zone": "Batticaloa Central",
+    "Division": "Kattankudy",
+    "School": "Meera Balika Maha Vidyalayam, Kattankudy",
+    "Type": "1AB",
+    "Students": 2043
+},
+{
+    "Zone": "Batticaloa Central",
+    "Division": "Koralaipattu West",
+    "School": "Oddamavady Central College, Oddamavady",
+    "Type": "1AB",
+    "Students": 1759
+},
+{
+    "Zone": "Batticaloa Central",
+    "Division": "Koralaipattu West",
+    "School": "An-noor Maha Vidyalaya, Valaichchenai",
+    "Type": "1AB",
+    "Students": 800
+},
+{
+    "Zone": "Kalkudah",
+    "Division": "Koralaipattu",
+    "School": "Valaichchenai Hindu College, Valaichchenai",
+    "Type": "1AB",
+    "Students": 1617
+},
+{
+    "Zone": "Padirippu",
+    "Division": "Munmunal South and Eruvilpattu",
+    "School": "Paddiruppu Madya Maha Vidyalayam, Padirippu",
+    "Type": "1AB",
+    "Students": 2285
+},
+{
+    "Zone": "Padirippu",
+    "Division": "Munmunal South and Eruvilpattu",
+    "School": "Kaluthavalai Maha Vidyalaya, Padirippu",
+    "Type": "1AB",
+    "Students": 1240
+},
+{
+    "Zone": "Batticaloa",
+    "Division": "Eravurpattu I",
+    "School": "Kalaimahal Maha Vidyalayam, Kuduiruppu",
+    "Type": "1AB",
+    "Students": 607
+},
+{
+    "Zone": "Batticaloa",
+    "Division": "Manmunal North",
+    "School": "Batticaloa Hindu College, Batticaloa",
+    "Type": "1AB",
+    "Students": 898
+},
+{
+    "Zone": "Batticaloa",
+    "Division": "Manmunal North",
+    "School": "Mahajana College, Batticaloa",
+    "Type": "1AB",
+    "Students": 1248
+},
+{
+    "Zone": "Batticaloa",
+    "Division": "Manmunal North",
+    "School": "Methodist Central College, Batticaloa",
+    "Type": "1AB",
+    "Students": 1592
+},
+{
+    "Zone": "Batticaloa",
+    "Division": "Manmunal North",
+    "School": "Vivekananda Girls Maha Vidyalayam, Batticaloa",
+    "Type": "1AB",
+    "Students": 1553
+},
+{
+    "Zone": "Batticaloa",
+    "Division": "Manmunalpattu",
+    "School": "Arayampathy Maha Vidyalayam, Arayampathy",
+    "Type": "1AB",
+    "Students": 483
+},
+{
+    "Zone": "Batticaloa Central",
+    "Division": "Eravur",
+    "School": "Rahmaniya Maha Vidyalaya, Eravur",
+    "Type": "1AB",
+    "Students": 1205
+},
+{
+    "Zone": "Batticaloa Central",
+    "Division": "Koralaipattu West",
+    "School": "Al Hidaya Maha Vidyalayam, Meeravodai",
+    "Type": "1AB",
+    "Students": 1037
+},
+{
+    "Zone": "Batticaloa Central",
+    "Division": "Koralaipattu West",
+    "School": "Fatima Balika Maha Vidyalaya, Oddamavadi",
+    "Type": "1AB",
+    "Students": 1509
+},
+{
+    "Zone": "Batticaloa West",
+    "Division": "Manmunal South West",
+    "School": "Ampilanturai Kalaimahal Maha Vidyalayam, Kokkadicholai",
+    "Type": "1AB",
+    "Students": 454
+},
+{
+    "Zone": "Batticaloa West",
+    "Division": "Manmunal South West",
+    "School": "Mutalaikkudah Maha Vidyalayam, Kokkadicholai",
+    "Type": "1AB",
+    "Students": 508
+},
+{
+    "Zone": "Batticaloa West",
+    "Division": "Manmunal West",
+    "School": "Kannakudah Maha Vidyalayam, Kannakudah",
+    "Type": "1AB",
+    "Students": 700
+},
+{
+    "Zone": "Batticaloa West",
+    "Division": "Manmunal West",
+    "School": "Namagal Maha Vidyalayam, Navatkadu",
+    "Type": "1AB",
+    "Students": 829
+},
+{
+    "Zone": "Kalkudah",
+    "Division": "Eravurpattu II",
+    "School": "Vantharumoolai Madhya Maha Vidyalayam, Sittandy",
+    "Type": "1AB",
+    "Students": 2071
+},
+{
+    "Zone": "Kalkudah",
+    "Division": "Eravurpattu II",
+    "School": "Vishnu Maha Vidyalayam, Vantharumoolai",
+    "Type": "1AB",
+    "Students": 1233
+},
+{
+    "Zone": "Kalkudah",
+    "Division": "Eravurpattu II",
+    "School": "Chenkalady Central College, Chenkalady",
+    "Type": "1AB",
+    "Students": 2169
+},
+{
+    "Zone": "Kalkudah",
+    "Division": "Koralaipattu",
+    "School": "Vigneswara College, Karuwakerny",
+    "Type": "1AB",
+    "Students": 457
+},
+{
+    "Zone": "Kalkudah",
+    "Division": "Koralaipattu",
+    "School": "Vipulananda College, Pethalai",
+    "Type": "1AB",
+    "Students": 765
+},
+{
+    "Zone": "Padirippu",
+    "Division": "Manmunal South and Eruvilpattu",
+    "School": "Kaddaikallar Maha Vidyalayam, Kallar",
+    "Type": "1AB",
+    "Students": 703
+},
+{
+    "Zone": "Padirippu",
+    "Division": "Manmunal South and Eruvilpattu",
+    "School": "Periyakallar Maha Vidyalayam, Kallar",
+    "Type": "1AB",
+    "Students": 535
+},
+{
+    "Zone": "Padirippu",
+    "Division": "Manmunal South and Eruvilpattu",
+    "School": "Thuraineelavanai Maha Vidyalayam, Thuraineelavanai",
+    "Type": "1AB",
+    "Students": 776
+},
+{
+    "School": "Good Shepherd College, Batticaloa"
+},
+{
+    "School": "Eastern International College, Batticaloa"
+},
+{
+    "School": "KEA International School, Batticaloa"
+},
+{
+    "School": "Unique International School, kattankudy"
+},
+{
+    "School": "Zahira Handicapped School, Kattankudy"
+}
+   ]

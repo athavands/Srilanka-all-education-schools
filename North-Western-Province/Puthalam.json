@@ -1,0 +1,856 @@
+[
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Ananda National College,Puttalam",
+    "Type": "1C",
+    "Students": 1000
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Zahira National College,Puttalam",
+    "Type": "1C",
+    "Students": 1723
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Al Aqsa National School,Kalpitiya",
+    "Type": "1AB",
+    "Students": 1772
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Ananda National College,Chilaw",
+    "Type": "1AB",
+    "Students": 3613
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Senanayake National College, Madampe",
+    "Type": "1AB",
+    "Students": 1721
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "Dhammissara National College,Nattandiya",
+    "Type": "1AB",
+    "Students": 3984
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennappuwa",
+    "School": "Joseph Vaz College,Wennappuwa",
+    "Type": "1AB",
+    "Students": 3762
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "President Science College,Puttalam",
+    "Type": "1AB",
+    "Students": 442
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Science High School,Puttalam",
+    "Type": "1AB",
+    "Students": 99
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "St. Andrew's College,Puttalam",
+    "Type": "1AB",
+    "Students": 1165
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Saliya Model School,Puttalam",
+    "Type": "1AB",
+    "Students": 923
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Bandaranayakapura Maha Vidyalaya,Wanathawilluwa",
+    "Type": "1AB",
+    "Students": 795
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Kadayamottai Muslim Central College,Madurankuliya",
+    "Type": "1AB",
+    "Students": 966
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Mundalama Sinhala Maha Vidyalaya,Mundalama",
+    "Type": "1AB",
+    "Students": 692
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "Anamaduwa Central College,Anamaduwa",
+    "Type": "1AB",
+    "Students": 2193
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "Sri Rathnapala Central College,Mahauswewa",
+    "Type": "1AB",
+    "Students": 987
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "Nawagaththegama Central College,Nawagaththegama",
+    "Type": "1AB",
+    "Students": 509
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Thigali Madhya Maha Vidyalaya,Ettalai",
+    "Type": "1AB",
+    "Students": 823
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Roman Catholic Sinhala Tamil Maha Vidyalaya,Mampuri",
+    "Type": "1AB",
+    "Students": 461
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Pallama",
+    "School": "Kiwulekale Maha Vidyalaya,Kottukachchiya",
+    "Type": "1AB",
+    "Students": 437
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Pallama",
+    "School": "Nandimitra Central College,Pallama",
+    "Type": "1AB",
+    "Students": 1516
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Pallama",
+    "School": "Anura Maha Vidyalaya,Wilpota",
+    "Type": "1AB",
+    "Students": 697
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Pallama",
+    "School": "Andigama Madhya Maha Vidyalaya,Andigama",
+    "Type": "1AB",
+    "Students": 655
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "St. Mary's College, Chilaw",
+    "Type": "1AB",
+    "Students": 1662
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Carmel Girls Central College,Chillaw",
+    "Type": "1AB",
+    "Students": 1825
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Nazria Central College,Chillaw",
+    "Type": "1AB",
+    "Students": 1046
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "St. Bernadett's College,Chillaw",
+    "Type": "1AB",
+    "Students": 344
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Madagama Abhaya Model School,Panirendawa",
+    "Type": "1AB",
+    "Students": 1494
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Arachchikattuwa",
+    "School": "Halambawatawana Maha Vidyalaya,Nalladarankattuwa",
+    "Type": "1AB",
+    "Students": 773
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "St. Xavier's College, Marawila",
+    "Type": "1AB",
+    "Students": 1114
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "Holy Family Balika Maha Vidyalaya,Marawila",
+    "Type": "1AB",
+    "Students": 1313
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "St. Sebastian's Central College, Katuneriya[2]",
+    "Type": "1AB",
+    "Students": 1603
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennappuwa",
+    "School": "Holy Family Girls School, Wennappuwa",
+    "Type": "1AB",
+    "Students": 2544
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennappuwa",
+    "School": "Sri Sanghabodhi Madhya Maha Vidyalaya,Katukenda",
+    "Type": "1AB",
+    "Students": 1202
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennappuwa",
+    "School": "Anuruddha Madhya Maha Vidyalaya,Lunuwila",
+    "Type": "1AB",
+    "Students": 954
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennappuwa",
+    "School": "Bhuddhist Girls College,Lunuwila",
+    "Type": "1AB",
+    "Students": 1774
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennappuwa",
+    "School": "Dankotuwa Balika Maha Vidyalaya,Dankotuwa",
+    "Type": "1AB",
+    "Students": 2181
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Vidyachakrawarthi Maha Vidyalaya,Puttalam",
+    "Type": "1C",
+    "Students": 412
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Fathima Balika Maha Vidyalaya,Puttalam",
+    "Type": "1C",
+    "Students": 1974
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Puttalam Hindu Central College,Puttalam",
+    "Type": "1C",
+    "Students": 641
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Thillayadi Muslim Maha Vidhyalaya,Puttalam",
+    "Type": "1C",
+    "Students": 1200
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "St. Mary's Tamil Maha Vidyalaya,Puttalam",
+    "Type": "1C",
+    "Students": 525
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Wattakandal Muslim Maha Vidyalaya,Puttalam",
+    "Type": "1C",
+    "Students": 624
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Manalkundru Muslim Maha Vidyalaya,Puttalam",
+    "Type": "1C",
+    "Students": 1168
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Veppamadu Maha Vidyalaya,Puttalam",
+    "Type": "1C",
+    "Students": 1200
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Thabbowa Maha Vidyalaya,Thabbowa",
+    "Type": "1C",
+    "Students": 360
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Galawewa Maha Vidyalaya,Kumbukela",
+    "Type": "1C",
+    "Students": 434
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Aluthgama Dutugemunu Maha Vidyalaya,Ihala Puliyankulama",
+    "Type": "1C",
+    "Students": 192
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Eluwankulama Maha Vidyalaya,Eluwankulama",
+    "Type": "1C",
+    "Students": 197
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Karaitivu Muslim Maha Vidyalaya,Karaitivu",
+    "Type": "1C",
+    "Students": 896
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam North",
+    "School": "Rizad Badutheen Maha Vidyalaya,Palavi",
+    "Type": "1C",
+    "Students": 1017
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Madurankuliya Model School,Madurankuliya",
+    "Type": "1C",
+    "Students": 911
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Viruthodai Muslim Maha Vidyalaya,Viruthodai",
+    "Type": "1C",
+    "Students": 658
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Kanamolai Muslim Maha Vidyalaya,Kanamolai",
+    "Type": "1C",
+    "Students": 835
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Konduthoduwawa Maha Vidyalaya,Madurankuliya",
+    "Type": "1C",
+    "Students": 767
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Kottantivu Muslim Maha Vidyalaya,Kottantivu",
+    "Type": "1C",
+    "Students": 426
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Al Minhaj Muslim Maha Vidyalaya,Kottantivu",
+    "Type": "1C",
+    "Students": 363
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Kandalaya Maha Vidyalaya,Kottantivu",
+    "Type": "1C",
+    "Students": 562
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Palavi Sinhala Maha Vidyalaya,Palavi",
+    "Type": "1C",
+    "Students": 811
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Omer Farook Maha Vidyalya,Battuluoya",
+    "Type": "1C",
+    "Students": 972
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Tarakuduwillu Muslim Maha Vidyalaya,Angunawila",
+    "Type": "1C",
+    "Students": 392
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Udappu Tamil Maha Vidyalaya,Udappu",
+    "Type": "1C",
+    "Students": 615
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Andimunai Tamil Maha Vidyalaya,Andimunai",
+    "Type": "1C",
+    "Students": 466
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Kattaikadu Roman Catholic Tamil Maha Vidyalaya,Kattaikadu",
+    "Type": "1C",
+    "Students": 321
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Erukkalampiddi Muslim Maha Vidyalaya,Nagavillu",
+    "Type": "1C",
+    "Students": 1467
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Puttalam South",
+    "School": "Hidayath Nagar Muslim Maha Vidyalaya,Madurankuliya",
+    "Type": "1C",
+    "Students": 391
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "Saariputhra Maha Vidyalaya,Palliyagama",
+    "Type": "1C",
+    "Students": 338
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "Inginimitiya Maha Vidyalaya,Inginimitiya",
+    "Type": "1C",
+    "Students": 401
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "Kalewewa Vijaya Maha Vidyalaya,Thammannawetiya",
+    "Type": "1C",
+    "Students": 463
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "Kottukachchiya Maha Vidyalaya,Kottukachchiya",
+    "Type": "1C",
+    "Students": 1096
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "U.B Jayasooriya Maha Vidyalaya,Siyambalagashena",
+    "Type": "1C",
+    "Students": 477
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "Mudalakkuliya Vijaya Maha Vidyalaya,Mudalakkuliya",
+    "Type": "1C",
+    "Students": 365
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Anamaduwa",
+    "School": "Sangattikulama Muslim Maha Vidyalaya,Sangattikulama",
+    "Type": "1C",
+    "Students": 173
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Nirmala Matha Sinhala Maha Vidyalaya,Kalpitiya",
+    "Type": "1C",
+    "Students": 1013
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Pallivasalturai Muslim Maha Vidyalaya,Kalpitiya",
+    "Type": "1C",
+    "Students": 768
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Kurinchipitiya Muslim Maha Vidyalaya,Kurinchipitiya",
+    "Type": "1C",
+    "Students": 235
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Kandankuli Maha Vidyalaya,Kandankuli",
+    "Type": "1C",
+    "Students": 580
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "St. Anna's Maha Vidyalaya,Thalawila",
+    "Type": "1C",
+    "Students": 901
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Alankuda Muslim Maha Vidyalaya,Ettalai",
+    "Type": "1C",
+    "Students": 1235
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Norochcholai Muslim Maha Vidyalaya,Norochcholai",
+    "Type": "1C",
+    "Students": 1122
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "St. Anthony's Maha Vidyalaya,Daluwa",
+    "Type": "1C",
+    "Students": 784
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Poolachchanai Muslim Maha Vidyalaya,Poolachchanai",
+    "Type": "1C",
+    "Students": 570
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "Ulukkappulam Muslim Maha Vidyalaya,Palavi",
+    "Type": "1C",
+    "Students": 1516
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Kalpitiya",
+    "School": "koiyawadi Muslim Maha Vidyalaya,Norochcholai",
+    "Type": "1C",
+    "Students": 437
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Pallama",
+    "School": "Watupola Maha Vidyalaya,Watupola",
+    "Type": "1C",
+    "Students": 412
+},
+{
+    "Zone": "Puttalam",
+    "Division": "Pallama",
+    "School": "Matwakkulam Muslim Maha Vidyalaya,Pallama",
+    "Type": "1C",
+    "Students": 898
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Wijaya Maha Vidyalaya,Chillaw",
+    "Type": "1C",
+    "Students": 912
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "St. Benadict Maha Vidyalaya,Kanjukkuliya",
+    "Type": "1C",
+    "Students": 772
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Sri Vadiv Ambigai Hindu College,Munneswaram",
+    "Type": "1C",
+    "Students": 239
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Ariyagama Siddhartha Maha Vidyalaya,Mugunuwatawana",
+    "Type": "1C",
+    "Students": 276
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Karukkuwa Sugathananda Maha Vidyalaya,Madampe",
+    "Type": "1C",
+    "Students": 1973
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Herath Gunarathna Maha Vidyalaya,Galmuruwa",
+    "Type": "1C",
+    "Students": 799
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Thimbirigaswela Maha Vidyalaya,Galmuruwa",
+    "Type": "1C",
+    "Students": 128
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "Al Misbah Muslim Maha Vidyalaya,Madampe",
+    "Type": "1C",
+    "Students": 581
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "G.C.C Corea Maha Vidyalaya,Chillaw",
+    "Type": "1C",
+    "Students": 366
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Chillaw",
+    "School": "C.W.W Kannangara Maha Vidyalaya,Mugunuwatawana",
+    "Type": "1C",
+    "Students": 380
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Arachchikattuwa",
+    "School": "Pankulawa Nawodya Maha Vidyalaya,Nalladarankattuwa",
+    "Type": "1C",
+    "Students": 470
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Arachchikattuwa",
+    "School": "Wijaya Katupotha Maha Vidyalaya,Chillaw",
+    "Type": "1C",
+    "Students": 653
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Arachchikattuwa",
+    "School": "Battuluoya Maha Vidyalaya,Battuluoya",
+    "Type": "1C",
+    "Students": 417
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Arachchikattuwa",
+    "School": "Karukkuliya Maha Vidyalaya,Rajakadaluwa",
+    "Type": "1C",
+    "Students": 197
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Arachchikattuwa",
+    "School": "Bangadeniya Maha Vidyalaya,Bangadeniya",
+    "Type": "1C",
+    "Students": 996
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "Sri Dharmarama Maha Vidyalaya,Mahawewa",
+    "Type": "1C",
+    "Students": 370
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "St. Anthony's Navodya Maha Vidyalaya,Thoduwawa",
+    "Type": "1C",
+    "Students": 1041
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "Lourdes College,Nattandiya",
+    "Type": "1C",
+    "Students": 1175
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "President College,Nattandiya",
+    "Type": "1C",
+    "Students": 1485
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "Al Hira Muslim Maha Vidyalaya,Ihala Kottaramulla",
+    "Type": "1C",
+    "Students": 841
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "Sumandhamma Maha Vidyalaya,Marawila",
+    "Type": "1C",
+    "Students": 338
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "Walahapitiya Maha Vidyalaya,Nattandiya",
+    "Type": "1C",
+    "Students": 428
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "Sri Gunarathana Maha Vidyalaya,Narawala",
+    "Type": "1C",
+    "Students": 255
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Nattandiya",
+    "School": "Sri Seelananda Maha Vidyalaya,Koswatta",
+    "Type": "1C",
+    "Students": 282
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennapuwa",
+    "School": "St. Rita's College,Taldeka",
+    "Type": "1C",
+    "Students": 642
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennapuwa",
+    "School": "Gonsalvez Maha Vidyalaya,Bolawatta",
+    "Type": "1C",
+    "Students": 472
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennapuwa",
+    "School": "St.Anna's Maha Vidyalaya,Boralessa",
+    "Type": "1C",
+    "Students": 541
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennapuwa",
+    "School": "Nainamaduwa Maha Vidyalaya,Nainamaduwa",
+    "Type": "1C",
+    "Students": 250
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennapuwa",
+    "School": "Wekada maha Vidyalaya,Yogiyana",
+    "Type": "1C",
+    "Students": 897
+},
+{
+    "Zone": "Chillaw",
+    "Division": "Wennapuwa",
+    "School": "Sri Jinarathana Maha Vidyalaya,Pothuwatawana",
+    "Type": "1C",
+    "Students": 677
+},
+{
+    "School": "Gonsalvez College,Waikkal"
+},
+{
+    "School": "Mercy Educational Complex,Madurankuliya"
+},
+{
+    "School": "St. John Paul II English Medium College,Wennapuwa"
+},
+{
+    "School": "Sussex College,Wennappuwa"
+},
+{
+    "School": "Cambridge International School, Chilaw"
+},
+{
+    "School": "Glasgow International School,Chilaw"
+},
+{
+    "School": "Ikra International School,Puttalam"
+},
+{
+    "School": "Ikra International School,Norochcholai"
+},
+{
+    "School": "Ikra International School,Kalpitiya"
+},
+{
+    "School": "Jennings International School,Nainamadama"
+},
+{
+    "School": "Kingswood British International College,Bangadeniya"
+},
+{
+    "School": "Royal British International School,Chillaw"
+},
+{
+    "School": "The Phoenix International School, Puttalam"
+},
+{
+    "School": "Mahawewa Sivaraja Special School,Mahawewa"
+}
+   ]
