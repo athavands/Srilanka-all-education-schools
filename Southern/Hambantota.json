@@ -1,0 +1,1197 @@
+[
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Tzu-Chi National School, Hambantota",
+    "Type": "1AB",
+    "Students": 1080
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "St. Mary's College, Hambantota",
+    "Type": "1AB",
+    "Students": 1373
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Zahira College, Hambantota",
+    "Type": "1AB",
+    "Students": 592
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Theraputta National College, Ambalantota",
+    "Type": "1AB",
+    "Students": 2652
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Vijayaba National School, Hungama",
+    "Type": "1AB",
+    "Students": 3349
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Suriyaweva National School, Suriyawewa",
+    "Type": "1AB",
+    "Students": 3614
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Debarawewa Central College, Tissamaharama",
+    "Type": "1AB",
+    "Students": 2848
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Tangalle Boys' School, Tangalle",
+    "Type": "1AB",
+    "Students": 981
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Tangalle Girls' School, Tangalle",
+    "Type": "1AB",
+    "Students": 2731
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapalessa",
+    "School": "Mahanaga National School, Angunukolapelessa",
+    "Type": "1AB",
+    "Students": 1581
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Ruhunu Vijayaba College, Beliaththa",
+    "Type": "1AB",
+    "Students": 2841
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Vijaya National School, Getamanna",
+    "Type": "1AB",
+    "Students": 469
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Walasmulla National School, Walasmulla",
+    "Type": "1AB",
+    "Students": 3906
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Rajapaksha Central College, Weeraketiya",
+    "Type": "1AB",
+    "Students": 4117
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Sri Lanka Singapore Friendship College, Weeraketiya",
+    "Type": "1AB",
+    "Students": 906
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Katuwana National School, Katuwana",
+    "Type": "1AB",
+    "Students": 1264
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Dharmapala Maha Vidyalaya, Watiya",
+    "Type": "1AB",
+    "Students": 1279
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Bolana Maha Vidyalaya, Bolana",
+    "Type": "1AB",
+    "Students": 882
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Lunugamwehera",
+    "School": "Lunugamwehera Maha Vidyalaya, Lunugamwehera",
+    "Type": "1AB",
+    "Students": 422
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Wiharagala Secondary School, Wiharagala",
+    "Type": "1AB",
+    "Students": 759
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Magama Maha Vidyalaya, Magama",
+    "Type": "1AB",
+    "Students": 382
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Royal College, Pannegamuwa",
+    "Type": "1AB",
+    "Students": 1042
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Tissamaharama Maha Vidyalaya, Tissamaharama",
+    "Type": "1AB",
+    "Students": 1381
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Ranna Maha Vidyalaya, Ranna",
+    "Type": "1AB",
+    "Students": 1690
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Gamini Maha Vidyalaya, Nakulugamuwa",
+    "Type": "1AB",
+    "Students": 695
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapallessa",
+    "School": "Udayala Maha Vidyalaya, Udayala",
+    "Type": "1AB",
+    "Students": 378
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapallessa",
+    "School": "Talawa Maha Vidyalaya, Kariyamaditta",
+    "Type": "1AB",
+    "Students": 592
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapallessa",
+    "School": "Dabarella Maha Vidyalaya, Kariyamaditta",
+    "Type": "1AB",
+    "Students": 544
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Beliatta Maha Vidyalaya, Beliatta",
+    "Type": "1AB",
+    "Students": 1244
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Nihiluwa Maha Vidyalaya, Nihiluwa",
+    "Type": "1AB",
+    "Students": 334
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Dammapala Balika Vidyalaya, Puwakdandawa",
+    "Type": "1AB",
+    "Students": 794
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Palle Julampitiya Maha Vidyalaya, Julampitiya",
+    "Type": "1AB",
+    "Students": 272
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "D.R Rajapaksha Maha Vidyalaya, Medamulana",
+    "Type": "1AB",
+    "Students": 821
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Modarawan Maha Vidyalaya, Modarawan",
+    "Type": "1AB",
+    "Students": 460
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Kanumuldeniya North Maha Vidyalaya, Walasmulla",
+    "Type": "1AB",
+    "Students": 763
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Dhammananda Maha Vidyalaya, Kirama",
+    "Type": "1AB",
+    "Students": 896
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Warapitiya Secondary School, Warapitiya",
+    "Type": "1AB",
+    "Students": 362
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Middeniya Maha Vidyalaya, Middeniya",
+    "Type": "1AB",
+    "Students": 1065
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Ritigahayaya Maha Vidyalaya, Ritigahayaya",
+    "Type": "1AB",
+    "Students": 329
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Bandagiriya Maha Vidyalaya, Bandagiriya",
+    "Type": "1C",
+    "Students": 852
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Dehigahalanda Maha Vidyalaya, Dehidahalanda",
+    "Type": "1C",
+    "Students": 974
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Mirijjawila Maha Vidyalaya, Mirijjawila",
+    "Type": "1C",
+    "Students": 473
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Udamalala Maha Vidyalaya, Udamalala",
+    "Type": "1C",
+    "Students": 335
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Mamadala Maha Vidyalaya, Mamadala",
+    "Type": "1C",
+    "Students": 1326
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Ambalantota Maha Vidyalaya, Ambalantota",
+    "Type": "1C",
+    "Students": 1530
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Dutugamaunu Maha Vidyalaya, Lunama",
+    "Type": "1C",
+    "Students": 422
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Welipatwila Maha Vidyalaya, Nonagama",
+    "Type": "1C",
+    "Students": 362
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Mulana Maha Vidyalaya, Hungama",
+    "Type": "1C",
+    "Students": 264
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Koggalla Maha Vidyalaya, Koggalla",
+    "Type": "1C",
+    "Students": 399
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Kuda Bolana Maha Vidyalaya, Bolana",
+    "Type": "1C",
+    "Students": 879
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Murawsihana Maha Vidyalaya, Barawakumura",
+    "Type": "1C",
+    "Students": 443
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Al Akber Muslim Maha Vidyalaya, Mali Colony",
+    "Type": "1C",
+    "Students": 457
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Lunugamwehera",
+    "School": "Samanpura Maha Vidyalaya, Weerawila",
+    "Type": "1C",
+    "Students": 404
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Lunugamwehera",
+    "School": "Beralihela Maha Vidyalaya, Beralihela",
+    "Type": "1C",
+    "Students": 174
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Meegahajanadura Maha Vidyalaya, Meegahajanadura",
+    "Type": "1C",
+    "Students": 748
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Dharmadutha Maha Vidyalaya, Andarawewa",
+    "Type": "1C",
+    "Students": 382
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Namadagaswewa Maha Vidyalaya, Namadagaswewa",
+    "Type": "1C",
+    "Students": 1149
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Weerayayagama Maha Vidyalaya, Weerayayagama",
+    "Type": "1C",
+    "Students": 620
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Wiharagala 550 Maha Vidyalaya, Wiharagala",
+    "Type": "1C",
+    "Students": 278
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Sri Devananda Maha Vidyalaya, Yodakandiya",
+    "Type": "1C",
+    "Students": 1295
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Mahasenpura Maha Vidyalaya, Mahasenpura",
+    "Type": "1C",
+    "Students": 872
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Kawantissapura Maha Vidyalaya, Kawantissapura",
+    "Type": "1C",
+    "Students": 239
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Medawelana Maha Vidyalaya, Madawelana",
+    "Type": "1C",
+    "Students": 374
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Vidyartha Maha Vidyalaya, Gonagamuwa",
+    "Type": "1C",
+    "Students": 264
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Kirinda Muslim Maha Vidyalaya, Kirinda",
+    "Type": "1C",
+    "Students": 508
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Kandurupokuna Maha Vidyalaya, Kandurupokuna",
+    "Type": "1C",
+    "Students": 66
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Gamunu Maha Vidyalaya, Netolpitiya",
+    "Type": "1C",
+    "Students": 1715
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Rahula Maha Vidyalaya, Tangalle",
+    "Type": "1C",
+    "Students": 215
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Talunna Maha Vidyalaya, Ranna",
+    "Type": "1C",
+    "Students": 281
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Vitarandeniya Maha Vidyalaya, Vitarandeniya",
+    "Type": "1C",
+    "Students": 305
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapalessa",
+    "School": "Kotawaya Maha Vidyalaya, Hakuruwela",
+    "Type": "1C",
+    "Students": 819
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapalessa",
+    "School": "Attayala Maha Vidyalaya, Medamulana",
+    "Type": "1C",
+    "Students": 288
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapalessa",
+    "School": "Debokkawa Maha Vidyalaya, Kariyamaditta",
+    "Type": "1C",
+    "Students": 523
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Ambala Maha Vidyalaya, Ambala",
+    "Type": "1C",
+    "Students": 95
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Palopota Maha Vidyalaya, Palopota",
+    "Type": "1C",
+    "Students": 56
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Kudaheella Maha Vidyalaya, Kudaheella",
+    "Type": "1C",
+    "Students": 244
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Galagama Maha Vidyalaya, Nakulugamuwa",
+    "Type": "1C",
+    "Students": 121
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Gatamanna South Maha Vidyalaya, Gatamanna",
+    "Type": "1C",
+    "Students": 409
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Aranwala Maha Vidyalaya, Aranwala",
+    "Type": "1C",
+    "Students": 157
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Kambussawela Maha Vidyalaya, Kambussawela",
+    "Type": "1C",
+    "Students": 103
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Kahawatta Maha Vidyalaya, Kahawatta",
+    "Type": "1C",
+    "Students": 802
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Pallattara Maha Vidyalaya, Pallattara",
+    "Type": "1C",
+    "Students": 72
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Ihala Beligalla Maha Vidyalaya, Beligalla",
+    "Type": "1C",
+    "Students": 526
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Omara Maha Vidyalaya, Omara",
+    "Type": "1C",
+    "Students": 139
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Mulgirigala Maha Vidylaya, Mulgirigama",
+    "Type": "1C",
+    "Students": 205
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Morayaya Maha Vidyalaya, Wekandawala",
+    "Type": "1C",
+    "Students": 300
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Meegasara Maha Vidyalaya, Julampitiya",
+    "Type": "1C",
+    "Students": 769
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Mandaduwa Maha Vidyalaya, Weeraketiya",
+    "Type": "1C",
+    "Students": 911
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Ittademaliya Maha Vidyalaya, Ittademaliya",
+    "Type": "1C",
+    "Students": 128
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Gonadeniya Maha Vidyalaya, Wakadawela",
+    "Type": "1C",
+    "Students": 462
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Wakadawala Janapada Maha Vidyalaya, Wakadawala",
+    "Type": "1C",
+    "Students": 531
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Murutalawa Maha Vidyalaya, Murutalawa",
+    "Type": "1C",
+    "Students": 509
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Okandayaya Maha Vidyalaya, Middeniya",
+    "Type": "1C",
+    "Students": 220
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Al Ameer Muslim Maha Vidyalaya, Yakgasmulla",
+    "Type": "1C",
+    "Students": 187
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Medangoda Maha Vidyalaya, Medangoda",
+    "Type": "1C",
+    "Students": 301
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Horewela Maha Vidyalaya, Horewela",
+    "Type": "1C",
+    "Students": 776
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Ambagahahena Maha Vidyalaya, Kirama",
+    "Type": "1C",
+    "Students": 467
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Walgammula Maha Vidyalaya, Kirama",
+    "Type": "1C",
+    "Students": 743
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Radaniara Maha Vidyalaya, Radaniara",
+    "Type": "1C",
+    "Students": 243
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Kekiriobada Maha Vidyalaya, Kirama",
+    "Type": "1C",
+    "Students": 228
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Handagala Maha Vidyalaya, Handagala",
+    "Type": "1C",
+    "Students": 357
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Egodabadda Maha Vidyalaya, Kirama",
+    "Type": "1C",
+    "Students": 111
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Horaunna Maha Vidyalaya, Horaunna",
+    "Type": "1C",
+    "Students": 364
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Siyarapitiya Maha Vidyalaya, Siyarapitiya",
+    "Type": "1C",
+    "Students": 321
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Bandagiriya Maha Vidyalaya, Bandagiriya",
+    "Type": "1C",
+    "Students": 852
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Dehigahalanda Maha Vidyalaya, Dehidahalanda",
+    "Type": "1C",
+    "Students": 974
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Mirijjawila Maha Vidyalaya, Mirijjawila",
+    "Type": "1C",
+    "Students": 473
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Hambantota",
+    "School": "Udamalala Maha Vidyalaya, Udamalala",
+    "Type": "1C",
+    "Students": 335
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Mamadala Maha Vidyalaya, Mamadala",
+    "Type": "1C",
+    "Students": 1326
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Ambalantota Maha Vidyalaya, Ambalantota",
+    "Type": "1C",
+    "Students": 1530
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Dutugamaunu Maha Vidyalaya, Lunama",
+    "Type": "1C",
+    "Students": 422
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Welipatwila Maha Vidyalaya, Nonagama",
+    "Type": "1C",
+    "Students": 362
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Mulana Maha Vidyalaya, Hungama",
+    "Type": "1C",
+    "Students": 264
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Koggalla Maha Vidyalaya, Koggalla",
+    "Type": "1C",
+    "Students": 399
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Kuda Bolana Maha Vidyalaya, Bolana",
+    "Type": "1C",
+    "Students": 879
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Murawsihana Maha Vidyalaya, Barawakumura",
+    "Type": "1C",
+    "Students": 443
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Ambalantota",
+    "School": "Al Akber Muslim Maha Vidyalaya, Mali Colony",
+    "Type": "1C",
+    "Students": 457
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Lunugamwehera",
+    "School": "Samanpura Maha Vidyalaya, Weerawila",
+    "Type": "1C",
+    "Students": 404
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Lunugamwehera",
+    "School": "Beralihela Maha Vidyalaya, Beralihela",
+    "Type": "1C",
+    "Students": 174
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Meegahajanadura Maha Vidyalaya, Meegahajanadura",
+    "Type": "1C",
+    "Students": 748
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Dharmadutha Maha Vidyalaya, Andarawewa",
+    "Type": "1C",
+    "Students": 382
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Namadagaswewa Maha Vidyalaya, Namadagaswewa",
+    "Type": "1C",
+    "Students": 1149
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Weerayayagama Maha Vidyalaya, Weerayayagama",
+    "Type": "1C",
+    "Students": 620
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Suriyawewa",
+    "School": "Wiharagala 550 Maha Vidyalaya, Wiharagala",
+    "Type": "1C",
+    "Students": 278
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Sri Devananda Maha Vidyalaya, Yodakandiya",
+    "Type": "1C",
+    "Students": 1295
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Mahasenpura Maha Vidyalaya, Mahasenpura",
+    "Type": "1C",
+    "Students": 872
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Kawantissapura Maha Vidyalaya, Kawantissapura",
+    "Type": "1C",
+    "Students": 239
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Medawelana Maha Vidyalaya, Madawelana",
+    "Type": "1C",
+    "Students": 374
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Vidyartha Maha Vidyalaya, Gonagamuwa",
+    "Type": "1C",
+    "Students": 264
+},
+{
+    "Zone": "Hambantota",
+    "Division": "Tissamaharama",
+    "School": "Kirinda Muslim Maha Vidyalaya, Kirinda",
+    "Type": "1C",
+    "Students": 508
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Kandurupokuna Maha Vidyalaya, Kandurupokuna",
+    "Type": "1C",
+    "Students": 66
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Gamunu Maha Vidyalaya, Netolpitiya",
+    "Type": "1C",
+    "Students": 1715
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Rahula Maha Vidyalaya, Tangalle",
+    "Type": "1C",
+    "Students": 215
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Talunna Maha Vidyalaya, Ranna",
+    "Type": "1C",
+    "Students": 281
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Tangalle",
+    "School": "Vitarandeniya Maha Vidyalaya, Vitarandeniya",
+    "Type": "1C",
+    "Students": 305
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapalessa",
+    "School": "Kotawaya Maha Vidyalaya, Hakuruwela",
+    "Type": "1C",
+    "Students": 819
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapalessa",
+    "School": "Attayala Maha Vidyalaya, Medamulana",
+    "Type": "1C",
+    "Students": 288
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Angunakolapalessa",
+    "School": "Debokkawa Maha Vidyalaya, Kariyamaditta",
+    "Type": "1C",
+    "Students": 523
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Ambala Maha Vidyalaya, Ambala",
+    "Type": "1C",
+    "Students": 95
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Palopota Maha Vidyalaya, Palopota",
+    "Type": "1C",
+    "Students": 56
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Kudaheella Maha Vidyalaya, Kudaheella",
+    "Type": "1C",
+    "Students": 244
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Galagama Maha Vidyalaya, Nakulugamuwa",
+    "Type": "1C",
+    "Students": 121
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Gatamanna South Maha Vidyalaya, Gatamanna",
+    "Type": "1C",
+    "Students": 409
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Aranwala Maha Vidyalaya, Aranwala",
+    "Type": "1C",
+    "Students": 157
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Kambussawela Maha Vidyalaya, Kambussawela",
+    "Type": "1C",
+    "Students": 103
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Kahawatta Maha Vidyalaya, Kahawatta",
+    "Type": "1C",
+    "Students": 802
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Pallattara Maha Vidyalaya, Pallattara",
+    "Type": "1C",
+    "Students": 72
+},
+{
+    "Zone": "Tangalle",
+    "Division": "Beliatta",
+    "School": "Ihala Beligalla Maha Vidyalaya, Beligalla",
+    "Type": "1C",
+    "Students": 526
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Omara Maha Vidyalaya, Omara",
+    "Type": "1C",
+    "Students": 139
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Mulgirigala Maha Vidylaya, Mulgirigama",
+    "Type": "1C",
+    "Students": 205
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Morayaya Maha Vidyalaya, Wekandawala",
+    "Type": "1C",
+    "Students": 300
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Meegasara Maha Vidyalaya, Julampitiya",
+    "Type": "1C",
+    "Students": 769
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Mandaduwa Maha Vidyalaya, Weeraketiya",
+    "Type": "1C",
+    "Students": 911
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Ittademaliya Maha Vidyalaya, Ittademaliya",
+    "Type": "1C",
+    "Students": 128
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Gonadeniya Maha Vidyalaya, Wakadawela",
+    "Type": "1C",
+    "Students": 462
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Wakadawala Janapada Maha Vidyalaya, Wakadawala",
+    "Type": "1C",
+    "Students": 531
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Murutalawa Maha Vidyalaya, Murutalawa",
+    "Type": "1C",
+    "Students": 509
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Okandayaya Maha Vidyalaya, Middeniya",
+    "Type": "1C",
+    "Students": 220
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Walasmulla",
+    "School": "Al Ameer Muslim Maha Vidyalaya, Yakgasmulla",
+    "Type": "1C",
+    "Students": 187
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Medangoda Maha Vidyalaya, Medangoda",
+    "Type": "1C",
+    "Students": 301
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Horewela Maha Vidyalaya, Horewela",
+    "Type": "1C",
+    "Students": 776
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Ambagahahena Maha Vidyalaya, Kirama",
+    "Type": "1C",
+    "Students": 467
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Walgammula Maha Vidyalaya, Kirama",
+    "Type": "1C",
+    "Students": 743
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Radaniara Maha Vidyalaya, Radaniara",
+    "Type": "1C",
+    "Students": 243
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Kekiriobada Maha Vidyalaya, Kirama",
+    "Type": "1C",
+    "Students": 228
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Handagala Maha Vidyalaya, Handagala",
+    "Type": "1C",
+    "Students": 357
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Egodabadda Maha Vidyalaya, Kirama",
+    "Type": "1C",
+    "Students": 111
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Horaunna Maha Vidyalaya, Horaunna",
+    "Type": "1C",
+    "Students": 364
+},
+{
+    "Zone": "Walasmulla",
+    "Division": "Katuwana",
+    "School": "Siyarapitiya Maha Vidyalaya, Siyarapitiya",
+    "Type": "1C",
+    "Students": 321
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Leeds International School, Tangalle"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Navajeewana Rehabilitation, Tangalle"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Deaf And Blind School, Tangalle"
+}
+]

@@ -1,0 +1,1161 @@
+[
+ {
+   "Zone": "Kegalle",
+   "Division": "Kegalle",
+   "School": "Kegalu Vidyalaya, Kegalle",
+   "Type": "1AB",
+   "Students": 3374,
+   "Teachers": 174
+ },
+ {
+   "Zone": "Kegalle",
+   "Division": "Kegalle",
+   "School": "Kegalu Balika Vidyalaya, Kegalle",
+   "Type": "1AB",
+   "Students": 3993,
+   "Teachers": 187
+ },
+ {
+   "Zone": "Kegalle",
+   "Division": "Kegalle",
+   "School": "St. Josephs' Balika Maha Vidyalaya, Kegalle",
+   "Type": "1AB",
+   "Students": 4820,
+   "Teachers": 205
+ },
+ {
+   "Zone": "Kegalle",
+   "Division": "Kegalle",
+   "School": "St. Mary's College, Kegalle",
+   "Type": "1AB",
+   "Students": 2892,
+   "Teachers": 151
+ },
+ {
+   "Zone": "Kegalle",
+   "Division": "Galigamuwa",
+   "School": "Pindeniya Central College,Pindeniya",
+   "Type": "1AB",
+   "Students": 867,
+   "Teachers": 74
+ },
+ {
+   "Zone": "Kegalle",
+   "Division": "Warakapola",
+   "School": "Dudley Senanayaka Central College, Tholangamuwa",
+   "Type": "1AB",
+   "Students": 3042,
+   "Teachers": 165
+ },
+ {
+   "Zone": "Dehiowita",
+   "Division": "Dehiowita",
+   "School": "Dehiowita National School, Dehiowita",
+   "Type": "1AB",
+   "Students": 1294,
+   "Teachers": 66
+ },
+ {
+   "Zone": "Dehiowita",
+   "Division": "Deraniyagala",
+   "School": "Siri Saman Central College, Deraniyagala",
+   "Type": "1AB",
+   "Students": 1603,
+   "Teachers": 79
+ },
+ {
+   "Zone": "Dehiowita",
+   "Division": "Ruwanwella",
+   "School": "Rajasinghe Central College, Ruwanwella",
+   "Type": "1AB",
+   "Students": 2516,
+   "Teachers": 118
+ },
+ {
+   "Zone": "Dehiowita",
+   "Division": "Yatiyantota",
+   "School": "Dr. N.M Perera Central College, Yatiyantota",
+   "Type": "1AB",
+   "Students": 1274,
+   "Teachers": 84
+ },
+ {
+   "Zone": "Mawanella",
+   "Division": "Mawanella",
+   "School": "Mayurapada Central College, Mawanella",
+   "Type": "1AB",
+   "Students": 3271,
+   "Teachers": 148
+ },
+ {
+   "Zone": "Mawanella",
+   "Division": "Mawanella",
+   "School": "Zahira College, Mawanella",
+   "Type": "1AB",
+   "Students": 3460,
+   "Teachers": 178
+ },
+ {
+   "Zone": "Mawanella",
+   "Division": "Aranayaka",
+   "School": "Rivisanda Central College,Ussapitiya",
+   "Type": "1AB",
+   "Students": 2155,
+   "Teachers": 105
+ },
+ {
+   "Zone": "Mawanella",
+   "Division": "Rambukkana",
+   "School": "Pinnawala Central College, Rambukkana",
+   "Type": "1AB",
+   "Students": 2496,
+   "Teachers": 113
+ },
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Swarna Jayanthi Maha Vidyalaya,Kegalle",
+    "Type": "1AB",
+    "Students": 2608,
+    "Teachers": 128
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Bandaranayake Maha Vidyalaya,Hettimulla",
+    "Type": "1AB",
+    "Students": 2140,
+    "Teachers": 116
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Mahanaga Maha Vidyalaya,Ranwala",
+    "Type": "1AB",
+    "Students": 1840,
+    "Teachers": 81
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Mabopitiya Maha Vidyalaya,Udugoda",
+    "Type": "1AB",
+    "Students": 296,
+    "Teachers": 29
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Dadigama",
+    "School": "Parakumba Maha Vidyalaya,Dadigama",
+    "Type": "1AB",
+    "Students": 1309,
+    "Teachers": 75
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Dadigama",
+    "School": "Bodhiraja Maha Vidyalaya,Beligala",
+    "Type": "1AB",
+    "Students": 306,
+    "Teachers": 35
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Dadigama",
+    "School": "Mahanaga Maha Vidyalaya,Kivuldeniya",
+    "Type": "1AB",
+    "Students": 303,
+    "Teachers": 27
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Galigamuwa",
+    "School": "Galigamuwa Madhya Maha Vidyalaya,Galigamuwa",
+    "Type": "1AB",
+    "Students": 927,
+    "Teachers": 63
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Galigamuwa",
+    "School": "Getiyamulla Maha Vidyalaya,Alawathura",
+    "Type": "1AB",
+    "Students": 566,
+    "Teachers": 37
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Galigamuwa",
+    "School": "Walagama Maha Vidyalaya,Dewalegama",
+    "Type": "1AB",
+    "Students": 538,
+    "Teachers": 48
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Dharmasiri Senanayaka Maha Vidyalaya,Thulhiriya",
+    "Type": "1AB",
+    "Students": 1125,
+    "Teachers": 62
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Alagama Madhya Maha Vidyalaya,Alagama",
+    "Type": "1AB",
+    "Students": 787,
+    "Teachers": 47
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Siriniwasa Maha Vidyalaya,Dorawaka",
+    "Type": "1AB",
+    "Students": 511,
+    "Teachers": 39
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Buddhist College,Thalduwa",
+    "Type": "1AB",
+    "Students": 1340,
+    "Teachers": 64
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Ranjan Wijayarathna Maha Vidyalaya,Panawala",
+    "Type": "1AB",
+    "Students": 261,
+    "Teachers": 34
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Deraniyagala",
+    "School": "Basnagala Maha Vidyalaya,Basnagala",
+    "Type": "1AB",
+    "Students": 305,
+    "Teachers": 32
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Kithulgala",
+    "School": "Kalyani Maha Vidyalaya,Kithulgala",
+    "Type": "1AB",
+    "Students": 522,
+    "Teachers": 36
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Ruwanwella",
+    "School": "Royal College,Ruwanwella",
+    "Type": "1AB",
+    "Students": 1295,
+    "Teachers": 67
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Ruwanwella",
+    "School": "Waharaka Maha Vidyalaya,Waharaka",
+    "Type": "1AB",
+    "Students": 649,
+    "Teachers": 47
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Ruwanwella",
+    "School": "Walagamba Maha Vidyalaya,Galapitamada",
+    "Type": "1AB",
+    "Students": 539,
+    "Teachers": 51
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Ruwanwella",
+    "School": "Amithirigala Maha Vidyalaya,Amithirigala",
+    "Type": "1AB",
+    "Students": 300,
+    "Teachers": 29
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Ruwanwella",
+    "School": "Sulaimaniya Muslim Central College,Kannattota",
+    "Type": "1AB",
+    "Students": 627,
+    "Teachers": 41
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Pannala Maha Vidyalaya,Ampagala",
+    "Type": "1AB",
+    "Students": 780,
+    "Teachers": 51
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Rathnavali Maha Vidyalaya,Mattamagoda",
+    "Type": "1AB",
+    "Students": 654,
+    "Teachers": 50
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Nagagiri Maha Vidyalaya,Hemmatagama",
+    "Type": "1AB",
+    "Students": 1143,
+    "Teachers": 60
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Baduriya Muslim Maha Vidyalaya,Mawanella",
+    "Type": "1AB",
+    "Students": 2676,
+    "Teachers": 120
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Al Azhar Muslim Central College,Hemmatagama",
+    "Type": "1AB",
+    "Students": 1374,
+    "Teachers": 70
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Aranayaka",
+    "School": "Rajagiri Maha Vidyalaya,Dippitiya",
+    "Type": "1AB",
+    "Students": 1063,
+    "Teachers": 60
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Aranayaka",
+    "School": "Uduwewala Maha Vidyalaya,Galatara",
+    "Type": "1AB",
+    "Students": 224,
+    "Teachers": 27
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Parakrama Maha Vidyalaya,Rambukkana",
+    "Type": "1AB",
+    "Students": 1110,
+    "Teachers": 66
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Ashoka Maha Vidyalaya,Kiriwalladeniya",
+    "Type": "1AB",
+    "Students": 618,
+    "Teachers": 57
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Baddewela Maha Vidyalaya,Makehelwala",
+    "Type": "1AB",
+    "Students": 554,
+    "Teachers": 36
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Jayapala Maha Vidyalaya,Molgoda",
+    "Type": "1AB",
+    "Students": 550,
+    "Teachers": 49
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Deliwala Maha vidyalaya,Deliwala",
+    "Type": "1AB",
+    "Students": 106,
+    "Teachers": 18
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Alapalawala Maha Vidyalaya,Watura",
+    "Type": "1C",
+    "Students": 221,
+    "Teachers": 26
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Ambanpitiya Maha Vidyalaya,Ambanpitiya",
+    "Type": "1C",
+    "Students": 46,
+    "Teachers": 11
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Bosella Maha Vidyalaya,Kegalle",
+    "Type": "1C",
+    "Students": 80,
+    "Teachers": 23
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Deewala Maha Vidyalaya,Pallegama",
+    "Type": "1C",
+    "Students": 299,
+    "Teachers": 29
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Kandurata Maha Vidyalaya,Gantuna",
+    "Type": "1C",
+    "Students": 211,
+    "Teachers": 25
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Hettimulla Nawa Maha Vidyalaya,Hettimulla",
+    "Type": "1C",
+    "Students": 1526,
+    "Teachers": 67
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Hungampola Maha Vidyalaya,Morontota",
+    "Type": "1C",
+    "Students": 238,
+    "Teachers": 28
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Meedeniya Maha Vidyalaya,Hettimulla",
+    "Type": "1C",
+    "Students": 76,
+    "Teachers": 19
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Moradana Maha Vidyalaya,Undugoda",
+    "Type": "1C",
+    "Students": 342,
+    "Teachers": 30
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Kegalle Muslim Maha Vidyalaya,Kegalle",
+    "Type": "1C",
+    "Students": 209,
+    "Teachers": 21
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "St. Mary's Tamil Maha Vidyalayam,Kegalle",
+    "Type": "1C",
+    "Students": 414,
+    "Teachers": 25
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Kegalle",
+    "School": "Undugoda Tamil Maha Vidyalayam,Undugoda",
+    "Type": "1C",
+    "Students": 152,
+    "Teachers": 18
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Dedigama",
+    "School": "Kahambiliyawala Maha Vidyalaya,Alawwa",
+    "Type": "1C",
+    "Students": 157,
+    "Teachers": 24
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Dedigama",
+    "School": "Lenagala Maha Vidyalaya,Weragala",
+    "Type": "1C",
+    "Students": 105,
+    "Teachers": 19
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Dedigama",
+    "School": "Senanayaka Maha Vidyalaya,Maha Pallegama",
+    "Type": "1C",
+    "Students": 534,
+    "Teachers": 29
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Galigamuwa",
+    "School": "Boyagama Maha Vidyalaya,Galigamuwa",
+    "Type": "1C",
+    "Students": 300,
+    "Teachers": 32
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Galigamuwa",
+    "School": "Hakahinna Maha Vidyalaya,Hakahinna",
+    "Type": "1C",
+    "Students": 199,
+    "Teachers": 25
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Galigamuwa",
+    "School": "Iddamalpana Maha Vidyalaya,Atala",
+    "Type": "1C",
+    "Students": 226,
+    "Teachers": 23
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Galigamuwa",
+    "School": "Rajasingha Maha Vidyalaya,Kanangamuwa",
+    "Type": "1C",
+    "Students": 257,
+    "Teachers": 25
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Galigamuwa",
+    "School": "Keerthiratna Maha Vidyalaya,Kobbewela",
+    "Type": "1C",
+    "Students": 519,
+    "Teachers": 35
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Galigamuwa",
+    "School": "Panakaduwa Maha Vidyalaya,Panakaduwa",
+    "Type": "1C",
+    "Students": 266,
+    "Teachers": 27
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Ambepussa Maha Vidyalaya,Warakapola",
+    "Type": "1C",
+    "Students": 815,
+    "Teachers": 55
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Ethanwala Maha Vidyalaya,Warakapola",
+    "Type": "1C",
+    "Students": 170,
+    "Teachers": 26
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Gamini Maha Vidyalaya,Dummaladeniya",
+    "Type": "1C",
+    "Students": 369,
+    "Teachers": 32
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Sri Pragngnananda Maha Vidyalaya,Danowita",
+    "Type": "1C",
+    "Students": 305,
+    "Teachers": 25
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Mainnoluwa Maha Vidyalaya,Warakapola",
+    "Type": "1C",
+    "Students": 1078,
+    "Teachers": 41
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Niwatuwa Maha Vidyalaya,Niwatuwa",
+    "Type": "1C",
+    "Students": 361,
+    "Teachers": 21
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Niyandurapola Maha Vidyalaya,Niyandurapola",
+    "Type": "1C",
+    "Students": 114,
+    "Teachers": 21
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Babul Hassan Muslim Maha Vidyalaya,Warakapola",
+    "Type": "1C",
+    "Students": 820,
+    "Teachers": 45
+},
+{
+    "Zone": "Kegalle",
+    "Division": "Warakapola",
+    "School": "Nangalla Muslim Maha Vidyalaya,Nangalla",
+    "Type": "1C",
+    "Students": 522,
+    "Teachers": 28
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Ambalapitiya Maha Vidyalaya,Godagampola",
+    "Type": "1C",
+    "Students": 90,
+    "Teachers": 18
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Mayadunna Maha Vidyalaya,Atulugama",
+    "Type": "1C",
+    "Students": 260,
+    "Teachers": 21
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Dudley Senanayaka Maha Vidyalaya,Napawala",
+    "Type": "1C",
+    "Students": 179,
+    "Teachers": 20
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Hinguralakanda Maha Vidyalaya,Hinguralakanda",
+    "Type": "1C",
+    "Students": 300,
+    "Teachers": 24
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Maniyangama Maha Vidyalaya,Ihala Maniyangama",
+    "Type": "1C",
+    "Students": 344,
+    "Teachers": 27
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Meegastenna Maha Vidyalaya,Meegastenna",
+    "Type": "1C",
+    "Students": 147,
+    "Teachers": 20
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Napawala Muslim Maha Vidyalaya,Napawala",
+    "Type": "1C",
+    "Students": 365,
+    "Teachers": 23
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Talduwa Muslim Maha Vidyalaya,Talduwa",
+    "Type": "1C",
+    "Students": 533,
+    "Teachers": 28
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Dehiowita Tamil Maha Vidyalayam,Dehiowita",
+    "Type": "1C",
+    "Students": 588,
+    "Teachers": 30
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Sapumalkanda Tamil Maha Vidyalayam,Sapumalkanda",
+    "Type": "1C",
+    "Students": 452,
+    "Teachers": 17
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Dehiowita",
+    "School": "Sri Vani Tamil Maha Vidyalayam,Parakaduwa",
+    "Type": "1C",
+    "Students": 291,
+    "Teachers": 14
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Deraniyagala",
+    "School": "Anhettigama Maha Vidyalaya,Anhettigama",
+    "Type": "1C",
+    "Students": 372,
+    "Teachers": 25
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Deraniyagala",
+    "School": "Kosgahakanda Maha Vidyalaya,Miyanwatta",
+    "Type": "1C",
+    "Students": 275,
+    "Teachers": 20
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Deraniyagala",
+    "School": "Potdenikanda Maha Vidyalaya,Maliboda",
+    "Type": "1C",
+    "Students": 234,
+    "Teachers": 21
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Deraniyagala",
+    "School": "Sri Kadiresan Tamil Maha Vidyalayam,Deraniyagala",
+    "Type": "1C",
+    "Students": 996,
+    "Teachers": 37
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Kitulgala",
+    "School": "Abahyaraja Maha Vidyalaya,Berannawa",
+    "Type": "1C",
+    "Students": 311,
+    "Teachers": 19
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Kitulgala",
+    "School": "Malapola Maha Vidyalaya,Malapola",
+    "Type": "1C",
+    "Students": 218,
+    "Teachers": 22
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Ruwanwella",
+    "School": "Batuwita Maha Vidyalaya,Batuwita",
+    "Type": "1C",
+    "Students": 226,
+    "Teachers": 26
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Ruwanwella",
+    "School": "Gonagala Maha Vidyalaya,Gonagala",
+    "Type": "1C",
+    "Students": 416,
+    "Teachers": 25
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Ruwanwella",
+    "School": "Sri Sena Maha Vidyalaya,Imbulana",
+    "Type": "1C",
+    "Students": 999,
+    "Teachers": 53
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Knewsmior Upper Maha Vidyalaya,Undugoda",
+    "Type": "1C",
+    "Students": 249,
+    "Teachers": 24
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Rangalla Maha Vidyalaya,Maha Rangalla",
+    "Type": "1C",
+    "Students": 233,
+    "Teachers": 33
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Siriwardhana Maha vidyalaya,Yatiyantota",
+    "Type": "1C",
+    "Students": 1503,
+    "Teachers": 60
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Sri Seelananda Maha Vidyalaya,Bulatkohupitiya",
+    "Type": "1C",
+    "Students": 1269,
+    "Teachers": 58
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Tunbage Maha Vidyalaya,Udapota",
+    "Type": "1C",
+    "Students": 268,
+    "Teachers": 27
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Sri Saddananda Maha Vidyalaya,Uduwa",
+    "Type": "1C",
+    "Students": 188,
+    "Teachers": 25
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Al Akeel Muslim Maha Vidyalaya,Kotiyakumbura",
+    "Type": "1C",
+    "Students": 607,
+    "Teachers": 30
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Garagoda Muslim Maha Vidyalaya,Garagoda",
+    "Type": "1C",
+    "Students": 394,
+    "Teachers": 24
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Sri Ganesha Tamil Maha Vidyalayam,Bulatkohupitiya",
+    "Type": "1C",
+    "Students": 439,
+    "Teachers": 20
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "St. Mary's Tamil Maha Vidyalayam,Yatiyantota",
+    "Type": "1C",
+    "Students": 943,
+    "Teachers": 36
+},
+{
+    "Zone": "Dehiowita",
+    "Division": "Yatiyantota",
+    "School": "Yatideriya Tamil Maha Vidyalayam,Undugoda",
+    "Type": "1C",
+    "Students": 179,
+    "Teachers": 16
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Ambulugala Maha Vidyalaya,Ambulugala",
+    "Type": "1C",
+    "Students": 469,
+    "Teachers": 31
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Balawatgama Maha Vidyalaya,Dewanagala",
+    "Type": "1C",
+    "Students": 847,
+    "Teachers": 42
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Beminiwatta Maha Vidyalaya,Mawanella",
+    "Type": "1C",
+    "Students": 810,
+    "Teachers": 55
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Daswatta Maha Vidyalaya,Daswatta",
+    "Type": "1C",
+    "Students": 171,
+    "Teachers": 25
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Ganetenna Maha Vidyalaya,Hingula",
+    "Type": "1C",
+    "Students": 658,
+    "Teachers": 51
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Manderigama Maha Vidyalaya,Hingula",
+    "Type": "1C",
+    "Students": 1169,
+    "Teachers": 56
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Randiwela Maha Vidyalaya,Randiwela",
+    "Type": "1C",
+    "Students": 271,
+    "Teachers": 32
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Vidyadeepa Maha Vidyalaya,Udattawa",
+    "Type": "1C",
+    "Students": 432,
+    "Teachers": 23
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Wagantale Maha Vidyalaya,Koondeniya",
+    "Type": "1C",
+    "Students": 332,
+    "Teachers": 29
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Devi Balika Maha Vidyalaya,Hemmatagama",
+    "Type": "1C",
+    "Students": 765,
+    "Teachers": 43
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Madeena Muslim Maha Vidyalaya,Hingula",
+    "Type": "1C",
+    "Students": 238,
+    "Teachers": 32
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Madulbowa Muslim Maha Vidyalaya,Hemmatagama",
+    "Type": "1C",
+    "Students": 500,
+    "Teachers": 33
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Mawanella",
+    "School": "Nooraniya Muslim Maha Vidyalaya,Uyanwatta",
+    "Type": "1C",
+    "Students": 793,
+    "Teachers": 61
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Aranayaka",
+    "School": "Ambakanda Maha Vidyalaya,Ambakanda",
+    "Type": "1C",
+    "Students": 182,
+    "Teachers": 19
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Aranayaka",
+    "School": "Hatgampola Maha Vidyalaya,Hatgampola",
+    "Type": "1C",
+    "Students": 269,
+    "Teachers": 23
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Aranayaka",
+    "School": "Kehelwatta Maha Vidyalaya,Kehelwatta",
+    "Type": "1C",
+    "Students": 411,
+    "Teachers": 25
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Aranayaka",
+    "School": "Manadee Maha Vidyalaya,Aranayaka",
+    "Type": "1C",
+    "Students": 198,
+    "Teachers": 22
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Aranayaka",
+    "School": "Ilangasooriya Maha Vidyalaya,Talgamuwa",
+    "Type": "1C",
+    "Students": 233,
+    "Teachers": 25
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Aranayaka",
+    "School": "Dippitiya Muslim Maha Vidyalaya,Dippitiya",
+    "Type": "1C",
+    "Students": 395,
+    "Teachers": 26
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Aranayaka",
+    "School": "Talgaspitiya Muslim Maha Vidyalaya,Talgaspitiya",
+    "Type": "1C",
+    "Students": 525,
+    "Teachers": 34
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Dunukewala Maha Vidyalaya,Hiriwadunna",
+    "Type": "1C",
+    "Students": 208,
+    "Teachers": 21
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Siri Sanghabo Maha Vidyalaya,Gabbala",
+    "Type": "1C",
+    "Students": 228,
+    "Teachers": 33
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Hewadiwela Maha Vidyalaya,Hewadiwela",
+    "Type": "1C",
+    "Students": 170,
+    "Teachers": 25
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Hiriwadunna Maha Vidyalaya,Hiriwadunna",
+    "Type": "1C",
+    "Students": 920,
+    "Teachers": 53
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Kiulpana Maha Vidyalaya,Molgoda",
+    "Type": "1C",
+    "Students": 124,
+    "Teachers": 19
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Muwapitiya Maha Vidyalaya,Muwapitiya",
+    "Type": "1C",
+    "Students": 423,
+    "Teachers": 28
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Parape Maha Vidyalaya,Parape",
+    "Type": "1C",
+    "Students": 340,
+    "Teachers": 24
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Pitiyegama Maha Vidyalaya,Pitiyegama",
+    "Type": "1C",
+    "Students": 195,
+    "Teachers": 23
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Udanwita Maha Vidyalaya,Udanwita",
+    "Type": "1C",
+    "Students": 90,
+    "Teachers": 20
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Walalgoda Maha Vidyalaya,Walalgoda",
+    "Type": "1C",
+    "Students": 218,
+    "Teachers": 23
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Dharul Uloom Muslim Maha Vidyalaya,Hurimaluwa",
+    "Type": "1C",
+    "Students": 535,
+    "Teachers": 37
+},
+{
+    "Zone": "Mawanella",
+    "Division": "Rambukkana",
+    "School": "Uduhuruwa Muslim Maha Vidyalaya,Pattampitiya",
+    "Type": "1C",
+    "Students": 106,
+    "Teachers": 20
+},
+{
+    "School": "Sussex College, Kegalle"
+},
+
+{
+    "School": "Good Hope International School, Mawanella"
+},
+{
+    "School": "Hilburn International School, Kegalle"
+},
+{
+    "School": "JMC College International, Alawatura"
+},
+{
+    "School": "Reliance International School, Kegalle"
+},
+{
+    "School": "Royal International School, Kegalle"
+},
+{
+    "School": "Royal International School, Warakapola"
+},
+{
+    "School": "Vertex International School, Kegalle"
+},
+{
+    "School": "Vertex International School, kotiyakumbura"
+},
+{
+    "School": "Cottagala Special School,Hemmatagama"
+}
+]

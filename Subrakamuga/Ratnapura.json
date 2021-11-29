@@ -1,0 +1,1192 @@
+[
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Ferguson High School, Ratnapura",
+    "Type": "1AB",
+    "Students": 4708,
+    "Teachers": 185
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "St. Aloysius College, Ratnapura",
+    "Type": "1AB",
+    "Students": 3172,
+    "Teachers": 146
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Sivali Central College, Hidellana",
+    "Type": "1AB",
+    "Students": 2480,
+    "Teachers": 152
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Convent of the Child Jesus, Ratnapura",
+    "Type": "1AB",
+    "Students": 1697,
+    "Teachers": 108
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Sumana Girl's College, Getangama",
+    "Type": "1AB",
+    "Students": 2850,
+    "Teachers": 130
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Eheliyagoda Central College, Eheliyagoda",
+    "Type": "1AB",
+    "Students": 3549,
+    "Teachers": 146
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Gankanda Central College, Pelmadulla",
+    "Type": "1AB",
+    "Students": 2409,
+    "Teachers": 113
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Ananda Maitreya Central College, Balangoda",
+    "Type": "1AB",
+    "Students": 3028,
+    "Teachers": 143
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Jeilani Muslim Central College, Dehigastalawa",
+    "Type": "1AB",
+    "Students": 844,
+    "Teachers": 42
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "President's College, Embilipitiya",
+    "Type": "1AB",
+    "Students": 5202,
+    "Teachers": 220
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Rahula National School, Godakawela",
+    "Type": "1AB",
+    "Students": 2205,
+    "Teachers": 97
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Kolonna",
+    "School": "Kolonna National School, Kolonna",
+    "Type": "1AB",
+    "Students": 790,
+    "Teachers": 49
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Karawita Central College, Uda Karawita",
+    "Type": "1AB",
+    "Students": 1367,
+    "Teachers": 70
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Kalawana",
+    "School": "Kalawana Central College, Kalawana",
+    "Type": "1AB",
+    "Students": 1748,
+    "Teachers": 102
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Prince College,Ratnapura",
+    "Type": "1AB",
+    "Students": 1555,
+    "Teachers": 70
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Siri Sumana Maha Vidyalaya,Mudduwa",
+    "Type": "1AB",
+    "Students": 713,
+    "Teachers": 48
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura II",
+    "School": "Malwala Maha Vidyalaya,Malwala",
+    "Type": "1AB",
+    "Students": 717,
+    "Teachers": 39
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Dharmapala Maha Vidyalaya,Eheliyagoda",
+    "Type": "1AB",
+    "Students": 2403,
+    "Teachers": 112
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Sri Mahinda Maha Vidyalaya,Erepola",
+    "Type": "1AB",
+    "Students": 475,
+    "Teachers": 37
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Sri Jinaratna Maha Vidyalaya,Karandana",
+    "Type": "1AB",
+    "Students": 443,
+    "Teachers": 19
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Kuruwita Madhya Maha Vidyalaya,Kuruwita",
+    "Type": "1AB",
+    "Students": 1727,
+    "Teachers": 81
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Kiriella Madhya Maha Vidyalaya,Kiriella",
+    "Type": "1AB",
+    "Students": 1305,
+    "Teachers": 65
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Pathberiya Narada Maha Vidyalaya,Parakaduwa",
+    "Type": "1AB",
+    "Students": 1078,
+    "Teachers": 56
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Eratna Maha vidyalaya,Eratna",
+    "Type": "1AB",
+    "Students": 431,
+    "Teachers": 35
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Ellawala Maha Vidyalaya,Ellawala",
+    "Type": "1AB",
+    "Students": 364,
+    "Teachers": 29
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Sri Rahula Maha Vidyalaya,Dodampe",
+    "Type": "1AB",
+    "Students": 327,
+    "Teachers": 34
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Pathagama Maha Vidyalaya,Pathagama",
+    "Type": "1AB",
+    "Students": 219,
+    "Teachers": 24
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Dharmaloka Maha Vidyalaya,Pelmadulla",
+    "Type": "1AB",
+    "Students": 2581,
+    "Teachers": 89
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Sri Buddha Jayanthi Madya Maha Vidyalaya,Thumbagoda",
+    "Type": "1AB",
+    "Students": 1889,
+    "Teachers": 90
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "St. Agnes Balika Maha Vidyalaya,Thumbagoda",
+    "Type": "1AB",
+    "Students": 1457,
+    "Teachers": 73
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Vidyaloka Maha Vidyalaya,Balangoda",
+    "Type": "1AB",
+    "Students": 1086,
+    "Teachers": 67
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Sri narada Maha Vidyalaya,Wikiliya",
+    "Type": "1AB",
+    "Students": 596,
+    "Teachers": 48
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Imbulpe",
+    "School": "Udagama Maha Vidyalaya,Pinnawala",
+    "Type": "1AB",
+    "Students": 1509,
+    "Teachers": 74
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Imbulpe",
+    "School": "Karagastalawa Maha Vidyalaya,Belihuloya",
+    "Type": "1AB",
+    "Students": 451,
+    "Teachers": 38
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Waligepola",
+    "School": "Vidyakara Maha Vidyalaya,Opanayaka",
+    "Type": "1AB",
+    "Students": 829,
+    "Teachers": 49
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Waligepola",
+    "School": "Sri Walagamba Maha Vidyalaya,Waligepola",
+    "Type": "1AB",
+    "Students": 526,
+    "Teachers": 38
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Embilipitiya Maha Vidyalaya,Embilipitiya",
+    "Type": "1AB",
+    "Students": 1764,
+    "Teachers": 90
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Chandrikawewa Jayanthi Maha Vidyalaya,Padalangala",
+    "Type": "1AB",
+    "Students": 1215,
+    "Teachers": 61
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Moraketiya Maha Vidyalaya,Moraketiya",
+    "Type": "1AB",
+    "Students": 1155,
+    "Teachers": 63
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Colambageara Maha Vidyalaya,Colambageara",
+    "Type": "1AB",
+    "Students": 998,
+    "Teachers": 56
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Udawalawa Maha Vidyalaya,Udawalawa",
+    "Type": "1AB",
+    "Students": 756,
+    "Teachers": 46
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Panamura Maha Vidyalaya,Panamura",
+    "Type": "1AB",
+    "Students": 499,
+    "Teachers": 30
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Kularathna Central College,Godakawela",
+    "Type": "1AB",
+    "Students": 1494,
+    "Teachers": 81
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Rathnaloka Maha Vidyalaya,Rakwana",
+    "Type": "1AB",
+    "Students": 797,
+    "Teachers": 50
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Kolonna",
+    "School": "Kella Maha Vidyalaya,Kolonna",
+    "Type": "1AB",
+    "Students": 666,
+    "Teachers": 36
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Kolonna",
+    "School": "Vijeriya Sumana Maha Vidyalaya,Rakwana",
+    "Type": "1AB",
+    "Students": 632,
+    "Teachers": 35
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Kolonna",
+    "School": "Dorapane Maha Vidyalaya,Omalpe",
+    "Type": "1AB",
+    "Students": 427,
+    "Teachers": 24
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Elapatha Maha Vidyalaya,Elapatha",
+    "Type": "1AB",
+    "Students": 982,
+    "Teachers": 59
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Sumana Maha Vidyalaya,Nivitigala",
+    "Type": "1AB",
+    "Students": 860,
+    "Teachers": 47
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Sri Ratnakara Maha Vidyalaya,Palawela",
+    "Type": "1AB",
+    "Students": 309,
+    "Teachers": 33
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Ayagama",
+    "School": "Sri Rahula Maha Vidyalaya,Ayagama",
+    "Type": "1AB",
+    "Students": 904,
+    "Teachers": 47
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Kahawatta",
+    "School": "Kahawatta Madhya Maha Vidyalaya,Kahawatta",
+    "Type": "1AB",
+    "Students": 1532,
+    "Teachers": 71
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Kalawana",
+    "School": "Gamini Madhya Maha Vidyalaya,Koswatta",
+    "Type": "1AB",
+    "Students": 1397,
+    "Teachers": 71
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Kalawana",
+    "School": "Jayanthi Madhya Maha Vidyalaya,Meepagama",
+    "Type": "1AB",
+    "Students": 637,
+    "Teachers": 38
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Kalawana",
+    "School": "Rambuka Maha Vidyalaya,Pothupitiya",
+    "Type": "1AB",
+    "Students": 517,
+    "Teachers": 30
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "St. Luke's College, Ratnapura",
+    "Type": "1C",
+    "Students": 1002,
+    "Teachers": 47
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Seevali Maha Vidyalaya,Ratnapura",
+    "Type": "1C",
+    "Students": 491,
+    "Teachers": 32
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Royal College,Ratnapura",
+    "Type": "1C",
+    "Students": 794,
+    "Teachers": 49
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Mihindu Maha Vidyalaya,Ratnapura",
+    "Type": "1C",
+    "Students": 1731,
+    "Teachers": 64
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Dharmapala College,Ratnapura",
+    "Type": "1C",
+    "Students": 1560,
+    "Teachers": 69
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Batugedara Maha Vidyalaya,Batugedara",
+    "Type": "1C",
+    "Students": 965,
+    "Teachers": 41
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Batuhena Maha Vidyalaya,Hidellana",
+    "Type": "1C",
+    "Students": 1440,
+    "Teachers": 58
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Buddhist College,Kahangama",
+    "Type": "1C",
+    "Students": 414,
+    "Teachers": 30
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Sumana Saman Maha Vidyalaya,Dewalegawa",
+    "Type": "1C",
+    "Students": 238,
+    "Teachers": 28
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Al Mackiya Muslim Maha Vidyalaya,Ratnapura",
+    "Type": "1C",
+    "Students": 792,
+    "Teachers": 32
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura I",
+    "School": "Ratnapura Tamil Maha Vidyalayam,Ratnapura",
+    "Type": "1C",
+    "Students": 604,
+    "Teachers": 22
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura II",
+    "School": "Vijayaba Maha Vidyalaya,Wewelwatta",
+    "Type": "1C",
+    "Students": 387,
+    "Teachers": 26
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura II",
+    "School": "Gallella Maha Vidyalaya,Gallella",
+    "Type": "1C",
+    "Students": 610,
+    "Teachers": 34
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura II",
+    "School": "Sri Pada Maha Vidyalaya,Sri Palabaddala",
+    "Type": "1C",
+    "Students": 870,
+    "Teachers": 37
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Ratnapura II",
+    "School": "Kalaimagal Tamil Maha Vidyalaya,Gallella",
+    "Type": "1C",
+    "Students": 875,
+    "Teachers": 27
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Anura Maha Vidyalaya,Gatatta",
+    "Type": "1C",
+    "Students": 1208,
+    "Teachers": 60
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Bopetta Maha Vidyalaya,Bopetta",
+    "Type": "1C",
+    "Students": 358,
+    "Teachers": 25
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Mitipola Maha Vidyalaya,Mitipola",
+    "Type": "1C",
+    "Students": 170,
+    "Teachers": 19
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Nugadanda Maha Vidyalaya,Nugadanda",
+    "Type": "1C",
+    "Students": 239,
+    "Teachers": 22
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Mihindu Maha Vidyalaya,Udamatta",
+    "Type": "1C",
+    "Students": 1277,
+    "Teachers": 20
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Siddhartha Maha Vidyalaya,Uduwaka",
+    "Type": "1C",
+    "Students": 120,
+    "Teachers": 20
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Eheliyagoda",
+    "School": "Al Aqsa Muslim Maha Vidyalaya,Eheliyagoda",
+    "Type": "1C",
+    "Students": 491,
+    "Teachers": 20
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Sri Wimalasara Maha Vidyalaya,Amuhenkanda",
+    "Type": "1C",
+    "Students": 997,
+    "Teachers": 56
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Pohorambawa Maha Vidyalaya,Pohorambawa",
+    "Type": "1C",
+    "Students": 451,
+    "Teachers": 28
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Pussella Maha Vidyalaya,Pussella",
+    "Type": "1C",
+    "Students": 675,
+    "Teachers": 37
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Kumama Maha Vidyalaya,Teppanawa",
+    "Type": "1C",
+    "Students": 1124,
+    "Teachers": 45
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "Zahira Muslim Maha Vidyalaya,Kuruwita",
+    "Type": "1C",
+    "Students": 219,
+    "Teachers": 18
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Kuruwita",
+    "School": "St. Jochim's Tamil Maha Vidyalayam,Hidellana",
+    "Type": "1C",
+    "Students": 395,
+    "Teachers": 23
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Bulugahatenna Maha Vidyalaya,Panagama",
+    "Type": "1C",
+    "Students": 382,
+    "Teachers": 24
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Dippitigala Maha Vidyalaya,Lellopitiya",
+    "Type": "1C",
+    "Students": 210,
+    "Teachers": 20
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Gonakumbura Maha Vidyalaya,Gonakumbura",
+    "Type": "1C",
+    "Students": 292,
+    "Teachers": 21
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Handurukanda Maha Vidyalaya,Handurukanda",
+    "Type": "1C",
+    "Students": 137,
+    "Teachers": 19
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Marapana Maha Vidyalaya,Marapana",
+    "Type": "1C",
+    "Students": 373,
+    "Teachers": 24
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Buddhist College,Patakada",
+    "Type": "1C",
+    "Students": 1498,
+    "Teachers": 63
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Sri Gnanananda Maha Vidyalaya,Kamarangapitiya",
+    "Type": "1C",
+    "Students": 204,
+    "Teachers": 25
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Sri Rahula Maha Vidyalaya,Lellopitiya",
+    "Type": "1C",
+    "Students": 456,
+    "Teachers": 34
+},
+{
+    "Zone": "Ratnapura",
+    "Division": "Pelmadulla",
+    "School": "Sri Krishna Tamil Maha Vidyalayam,Kahawatta",
+    "Type": "1C",
+    "Students": 1466,
+    "Teachers": 54
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Damahana Maha Vidyalaya,Damahana",
+    "Type": "1C",
+    "Students": 759,
+    "Teachers": 43
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Ellepola Maha Vidyalaya,Ellepola",
+    "Type": "1C",
+    "Students": 250,
+    "Teachers": 26
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Medabadda Maha Vidyalaya,Medabadda",
+    "Type": "1C",
+    "Students": 433,
+    "Teachers": 32
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Medakanda Maha Vidyalaya,Medakanda",
+    "Type": "1C",
+    "Students": 429,
+    "Teachers": 35
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Welipatayaya Maha Vidyalaya,Welipatayaya",
+    "Type": "1C",
+    "Students": 307,
+    "Teachers": 23
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "C.C Tamil Maha Vidyalayam,Balangoda",
+    "Type": "1C",
+    "Students": 1169,
+    "Teachers": 50
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Balangoda",
+    "School": "Kanaganayagam Tamil Maha Vidyalayam,Welipatayaya",
+    "Type": "1C",
+    "Students": 689,
+    "Teachers": 33
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Imbulpe",
+    "School": "Bandaranayaka Maha Vidyalaya,Morahela",
+    "Type": "1C",
+    "Students": 186,
+    "Teachers": 20
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Imbulpe",
+    "School": "Dhammaratana Maha Vidyalaya,Galagama",
+    "Type": "1C",
+    "Students": 302,
+    "Teachers": 30
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Imbulpe",
+    "School": "Ratmalawinna Maha Vidyalaya,Ratmalawinna",
+    "Type": "1C",
+    "Students": 1006,
+    "Teachers": 59
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Imbulpe",
+    "School": "Sri Shariputhra Maha Vidyalaya,Imbulpe",
+    "Type": "1C",
+    "Students": 543,
+    "Teachers": 47
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Imbulpe",
+    "School": "Hindu Tamil Maha Vidyalayam,Ellearawa",
+    "Type": "1C",
+    "Students": 658,
+    "Teachers": 36
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Imbulpe",
+    "School": "Pinnawala Tamil Maha Vidyalayam,Pinnawala",
+    "Type": "1C",
+    "Students": 385,
+    "Teachers": 26
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Weligepola",
+    "School": "Dharmaraja Maha Vidyalaya,Hunuwala",
+    "Type": "1C",
+    "Students": 1099,
+    "Teachers": 48
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Weligepola",
+    "School": "Hatangala Maha Vidyalaya,Hatangala",
+    "Type": "1C",
+    "Students": 190,
+    "Teachers": 20
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Weligepola",
+    "School": "Kongastenna Maha Vidyalaya,Kongastenna",
+    "Type": "1C",
+    "Students": 620,
+    "Teachers": 32
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Weligepola",
+    "School": "Pallekanda Maha Vidyalaya,Pallekanda",
+    "Type": "1C",
+    "Students": 131,
+    "Teachers": 21
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Weligepola",
+    "School": "Sri Wajirawansha Maha Vidyalaya,Ambewila",
+    "Type": "1C",
+    "Students": 808,
+    "Teachers": 43
+},
+{
+    "Zone": "Balangoda",
+    "Division": "Weligepola",
+    "School": "Udawela Maha Vidyalaya,Opanayaka",
+    "Type": "1C",
+    "Students": 236,
+    "Teachers": 20
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Halmillaketiya Maha Vidyalaya,Tunkama",
+    "Type": "1C",
+    "Students": 1054,
+    "Teachers": 54
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Janadura Maha Vidyalaya,Panmura",
+    "Type": "1C",
+    "Students": 726,
+    "Teachers": 36
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Mulendiyawela Maha Vidyalaya,Mulendiyawela",
+    "Type": "1C",
+    "Students": 586,
+    "Teachers": 31
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Pallebedda Maha Vidyalaya,Pallebedda",
+    "Type": "1C",
+    "Students": 1590,
+    "Teachers": 67
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Torakolayaya Maha Vidyalaya,Mulendiyawela",
+    "Type": "1C",
+    "Students": 424,
+    "Teachers": 31
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Embilipitiya",
+    "School": "Tunkama Maha Vidyalaya,Tunkama",
+    "Type": "1C",
+    "Students": 500,
+    "Teachers": 33
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Balawinna Maha Vidyalaya,Balawinna",
+    "Type": "1C",
+    "Students": 495,
+    "Teachers": 36
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Bibilegama Maha Vidyalaya,Hapugastenna",
+    "Type": "1C",
+    "Students": 558,
+    "Teachers": 28
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Demuwata Maha Vidyalaya,Demuwata",
+    "Type": "1C",
+    "Students": 700,
+    "Teachers": 34
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Maithreya Maha Vidyalaya,Hiramadagama",
+    "Type": "1C",
+    "Students": 431,
+    "Teachers": 28
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Vijaya Maha Vidyalaya,Atakalanpanna",
+    "Type": "1C",
+    "Students": 1042,
+    "Teachers": 55
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Dharmavijaya Maha Vidyalaya,Werahera",
+    "Type": "1C",
+    "Students": 186,
+    "Teachers": 18
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "Assalam Muslim Maha Vidyalaya,Rakwana",
+    "Type": "1C",
+    "Students": 797,
+    "Teachers": 37
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Godakawela",
+    "School": "St. John's Tamil Maha Vidyalayam,Rakwana",
+    "Type": "1C",
+    "Students": 939,
+    "Teachers": 45
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Kolonna",
+    "School": "Godawela Maha Vidyalaya,Godawela",
+    "Type": "1C",
+    "Students": 479,
+    "Teachers": 28
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Kolonna",
+    "School": "Kumburugamuwa Maha Vidyalaya,Hallwinna",
+    "Type": "1C",
+    "Students": 275,
+    "Teachers": 23
+},
+{
+    "Zone": "Embilipitiya",
+    "Division": "Kolonna",
+    "School": "Omalpe Maha Vidyalaya,Omalpe",
+    "Type": "1C",
+    "Students": 221,
+    "Teachers": 17
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Mahanama Maha Vidyalaya,Colambagama",
+    "Type": "1C",
+    "Students": 239,
+    "Teachers": 22
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Dela Maha Vidyalaya,Dela",
+    "Type": "1C",
+    "Students": 516,
+    "Teachers": 35
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Delwala Maha Vidyalaya,Delwala",
+    "Type": "1C",
+    "Students": 413,
+    "Teachers": 25
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Dimiyawa Maha Vidyalaya,Dambuluwana",
+    "Type": "1C",
+    "Students": 250,
+    "Teachers": 24
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Karannagoda Maha Vidyalaya,Karannagoda",
+    "Type": "1C",
+    "Students": 500,
+    "Teachers": 30
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Pebotuwa Maha Vidyalaya,Pebotuwa",
+    "Type": "1C",
+    "Students": 508,
+    "Teachers": 31
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Sri Rathanodaya Maha Vidyalaya,Rathna",
+    "Type": "1C",
+    "Students": 532,
+    "Teachers": 40
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Nivitigala",
+    "School": "Dela Tamil Maha Vidyalayam,Dela",
+    "Type": "1C",
+    "Students": 528,
+    "Teachers": 27
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Ayagama",
+    "School": "Dumbara Maha Vidyalaya,Minipura",
+    "Type": "1C",
+    "Students": 164,
+    "Teachers": 16
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Ayagama",
+    "School": "Dumbara Mahana Maha Vidyalaya,Dumbara Mahana",
+    "Type": "1C",
+    "Students": 93,
+    "Teachers": 13
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Ayagama",
+    "School": "Gawaragiriya Maha Vidyalaya,Gawaragiriya",
+    "Type": "1C",
+    "Students": 106,
+    "Teachers": 18
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Kahawatta",
+    "School": "Gabbela Maha Vidyalaya,Gabbela",
+    "Type": "1C",
+    "Students": 193,
+    "Teachers": 22
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Kahawatta",
+    "School": "Nawalakanda Maha Vidyalaya,Uda Houpe",
+    "Type": "1C",
+    "Students": 411,
+    "Teachers": 29
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Kahawatta",
+    "School": "Kalalella Maha Vidyalaya,Kalalella",
+    "Type": "1C",
+    "Students": 146,
+    "Teachers": 17
+},
+{
+    "Zone": "Nivitigala",
+    "Division": "Kahawatta",
+    "School": "Meenachchiyammal Tamil Maha Vidyalayam,Endana",
+    "Type": "1C",
+    "Students": 434,
+    "Teachers": 14
+},
+{
+    "Zone": "Niwitigala",
+    "Division": "Kalawana",
+    "School": "Potupitiya Maha Vidyalaya,Potupitiya",
+    "Type": "1C",
+    "Students": 555,
+    "Teachers": 24
+},
+{
+    "Zone": "Niwitigala",
+    "Division": "Kalawana",
+    "School": "Waddagala South Maha Vidyalaya,Waddagala",
+    "Type": "1C",
+    "Students": 338,
+    "Teachers": 24
+},
+{
+    "School": "Sussex College, Ratnapura"
+},
+{
+    "School": "Bodhiraja International School, Embilipitiya"
+},
+{
+    "School": "British International School, Ratnapura"
+},
+{
+    "School": "Hilburn International College, Balangoda"
+},
+{
+    "School": "JMC College International, Rathnapura"
+},
+{
+    "School": "Lyceum International School, Ratnapura"
+},
+{
+    "School": "Oxford International College, Balangoda"
+},
+{
+    "School": "Reliance International School, Ratnapura"
+},
+{
+    "School": "Universal International School, Balangoda"
+},
+{
+    "School": "Yasodara Deaf And Blind School,Miriswatta"
+}
+]

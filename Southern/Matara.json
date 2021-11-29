@@ -1,0 +1,854 @@
+[
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Rahula College, Matara",
+    "Type": "1AB",
+    "Students": 5842
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "St. Thomas' College, Matara",
+    "Type": "1AB",
+    "Students": 3344
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "St. Servatius' College, Matara",
+    "Type": "1AB",
+    "Students": 2392
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Sujatha Vidyalaya, Matara",
+    "Type": "1AB",
+    "Students": 5956
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "St. Thomas' Girls' High School, Matara",
+    "Type": "1AB",
+    "Students": 3271
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Matara Central College, Matara",
+    "Type": "1AB",
+    "Students": 3348
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Mahinda Rajapaksa College, Matara",
+    "Type": "1AB",
+    "Students": 1572
+},
+{
+    "Zone": "Matara",
+    "Division": "Devinuwara",
+    "School": "Devinuwara Central College, Devinuwara",
+    "Type": "1AB",
+    "Students": 651
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Vijitha Central College, Dickwella",
+    "Type": "1AB",
+    "Students": 2701
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Minhath National College, Dickwella",
+    "Type": "1C",
+    "Students": 601
+},
+{
+    "Zone": "Matara",
+    "Division": "Weligama",
+    "School": "Siddartha College, Weligama",
+    "Type": "1AB",
+    "Students": 1614
+},
+{
+    "Zone": "Matara",
+    "Division": "Weligama",
+    "School": "Sri Sumangala Balika Vidyalaya, Weligama",
+    "Type": "1AB",
+    "Students": 2156
+},
+{
+    "Zone": "Matara",
+    "Division": "Weligama",
+    "School": "Arafa National College, Weligama",
+    "Type": "1AB",
+    "Students": 1330
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Godapitiya Maha Vidyalaya, Akuressa",
+    "Type": "1AB",
+    "Students": 1739
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Malimbada",
+    "School": "Telijjawila Central College, Telijjawila",
+    "Type": "1AB",
+    "Students": 2403
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Kotapola",
+    "School": "Keerthi Abeywickrama National School, Morawaka",
+    "Type": "1AB",
+    "Students": 1773
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Kotapola",
+    "School": "Kotapola National School, Kotapola",
+    "Type": "1AB",
+    "Students": 1733
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Kotapola",
+    "School": "Deniyaya Central College, Deniyaya",
+    "Type": "1AB",
+    "Students": 2977
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Pasgoda",
+    "School": "Urubokka National School, Urubokka",
+    "Type": "1AB",
+    "Students": 2231
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Mulatiyana",
+    "School": "Deiyandara National College, Deiyandara",
+    "Type": "1AB",
+    "Students": 1832
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Kamburupitiya",
+    "School": "Narandeniya Central College, Narandeniya",
+    "Type": "1AB",
+    "Students": 2123
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Tihagoda",
+    "School": "Thihagoda Central College, Thihagoda",
+    "Type": "1AB",
+    "Students": 964
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Matara Janadhipathi Vidyalaya, Matara",
+    "Type": "1AB",
+    "Students": 1644
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Palatuwa Gunarathana Central College, Palatuwawa",
+    "Type": "1AB",
+    "Students": 1735
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Sariputra Secondary School, Pamburana",
+    "Type": "1AB",
+    "Students": 1384
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Mahana Maha Vidyalaya, Walgama",
+    "Type": "1AB",
+    "Students": 518
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Ilma College, Kotuwegoda",
+    "Type": "1AB",
+    "Students": 691
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Talpawila Madhya Maha Vidyalaya, Devinuwara",
+    "Type": "1AB",
+    "Students": 905
+},
+{
+    "Zone": "Matara",
+    "Division": "Devinuwara",
+    "School": "Talalla South Maha Vidyalaya, Kottagoda",
+    "Type": "1AB",
+    "Students": 369
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Sri Sumangala Maha Vidyalaya, Radampola",
+    "Type": "1AB",
+    "Students": 569
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Kumaratunga Munidasa Maha Vidyalaya, Dickwella",
+    "Type": "1AB",
+    "Students": 2186
+},
+{
+    "Zone": "Matara",
+    "Division": "Weligama",
+    "School": "Kamburugamuwa Maha Vidyalaya, Kamburugamuwa",
+    "Type": "1AB",
+    "Students": 622
+},
+{
+    "Zone": "Matara",
+    "Division": "Weligama",
+    "School": "Mirissa Madhya Maha Vidyalaya, Mirissa",
+    "Type": "1AB",
+    "Students": 817
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Maliduwa Maha Vidyalaya, Maliduwa",
+    "Type": "1AB",
+    "Students": 542
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Vidyaraja Maha Vidyalaya, Ahelape",
+    "Type": "1AB",
+    "Students": 579
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Maramba Maha Vidyalaya, Maramba",
+    "Type": "1AB",
+    "Students": 418
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Aturaliya Maha Vidyalaya, Aturaliya",
+    "Type": "1AB",
+    "Students": 345
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Welipitiya",
+    "School": "Sri Parakumba Central College, Kanaka Bazaar",
+    "Type": "1AB",
+    "Students": 526
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Welipitiya",
+    "School": "Denipitiya Maha Vidyalaya, Denipitiya",
+    "Type": "1AB",
+    "Students": 621
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Morawaka",
+    "School": "Pitabaeddara Maha Vidyalaya, Pitabeddara",
+    "Type": "1AB",
+    "Students": 1278
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Morawaka",
+    "School": "Alapaladeniya Secondary School, Alapaladeniya",
+    "Type": "1AB",
+    "Students": 692
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Mulatiyana",
+    "School": "Makandura Maha Vidyalaya, Makandura",
+    "Type": "1AB",
+    "Students": 1048
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Hakmana",
+    "School": "Methodist College, Hakmana",
+    "Type": "1AB",
+    "Students": 1334
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Hakmana",
+    "School": "Koongala Madhya Maha Vidyalaya, Koongala",
+    "Type": "1AB",
+    "Students": 739
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Hakmana",
+    "School": "Henry Ariyaratna Maha Vidyalaya, Hakmana",
+    "Type": "1AB",
+    "Students": 369
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Kamburupitiya",
+    "School": "Puhulwella Madhya Maha Vidyalaya, Puhulwella",
+    "Type": "1AB",
+    "Students": 1414
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Tihagoda",
+    "School": "Yatiyana Maha Vidyalaya, Yatiyana",
+    "Type": "1AB",
+    "Students": 964
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Attuduwa Maha Vidyalaya, Attuduwa",
+    "Type": "1C",
+    "Students": 148
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Dharmaraja Maha Vidyalaya, Hittatiya",
+    "Type": "1C",
+    "Students": 415
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Nadugala Maha Vidyalaya, Nadugala",
+    "Type": "1C",
+    "Students": 399
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Naimbala Bandattara Maha Vidyalaya, Tihagoda",
+    "Type": "1C",
+    "Students": 172
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Deeyagaha West Maha Vidyalaya, Navimana",
+    "Type": "1C",
+    "Students": 345
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Rohana Maha Vidyalaya, Medawatta",
+    "Type": "1C",
+    "Students": 653
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Mahamaya Balika Maha Vidyalaya, Kotuwegoda",
+    "Type": "1C",
+    "Students": 982
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Kokawela Maha Vidyalaya, Kokawela",
+    "Type": "1C",
+    "Students": 461
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Motagedara Bandaranayaka Maha Vidyalaya, Kekandura",
+    "Type": "1C",
+    "Students": 228
+},
+{
+    "Zone": "Matara",
+    "Division": "Matara",
+    "School": "Dharul Uloom Muslim Maha Vidyalaya, Matara",
+    "Type": "1C",
+    "Students": 239
+},
+{
+    "Zone": "Matara",
+    "Division": "Devinuwara",
+    "School": "Aparekka Maha Vidyalaya, Aparekka",
+    "Type": "1C",
+    "Students": 178
+},
+{
+    "Zone": "Matara",
+    "Division": "Devinuwara",
+    "School": "Gandara Maha Vidyalaya, Gandara",
+    "Type": "1C",
+    "Students": 483
+},
+{
+    "Zone": "Matara",
+    "Division": "Devinuwara",
+    "School": "Dharmavijaya Maha Vidyalaya, Talalla North",
+    "Type": "1C",
+    "Students": 1332
+},
+{
+    "Zone": "Matara",
+    "Division": "Devinuwara",
+    "School": "Al Azhar Muslim Maha Vidyalaya, Gandara",
+    "Type": "1C",
+    "Students": 131
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Godauda Navodya Maha Vidyalaya, Godauda",
+    "Type": "1C",
+    "Students": 831
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Belideniya Maha Vidyalaya, Belideniya",
+    "Type": "1C",
+    "Students": 312
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Murutagaspitiya Maha Vidyalaya, Urugamuwa",
+    "Type": "1C",
+    "Students": 282
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Dickwella North Maha Vidyalaya, Wewurukannala",
+    "Type": "1C",
+    "Students": 530
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Dematapitiya Maha Vidyalaya, Dematapitiya",
+    "Type": "1C",
+    "Students": 184
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Bambaranda Saddhammaraja Maha Vidyalaya, Ratmale",
+    "Type": "1C",
+    "Students": 404
+},
+{
+    "Zone": "Matara",
+    "Division": "Dickwella",
+    "School": "Batheegama Maha Vidyalaya, Batheegama",
+    "Type": "1C",
+    "Students": 273
+},
+{
+    "Zone": "Matara",
+    "Division": "Weligama",
+    "School": "Sri Vajiragana Maha Vidyalaya, Palena",
+    "Type": "1C",
+    "Students": 301
+},
+{
+    "Zone": "Matara",
+    "Division": "Weligama",
+    "School": "Polwatumodara Maha Vidyalaya, Mirissa",
+    "Type": "1C",
+    "Students": 610
+},
+{
+    "Zone": "Matara",
+    "Division": "Weligama",
+    "School": "Sri Rathanapala Maha Vidyalaya, Kotawila",
+    "Type": "1C",
+    "Students": 423
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Akuressa Maha Vidyalaya, Akuressa",
+    "Type": "1C",
+    "Students": 2332
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Sri Medhankara Maha Vidyalaya, Godapitiya",
+    "Type": "1C",
+    "Students": 387
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "J.R.S De Almeda Maha Vidyalaya, Urumutta",
+    "Type": "1C",
+    "Students": 514
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Wilpita Maha Vidyalaya, Wilpita",
+    "Type": "1C",
+    "Students": 911
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Sadath Muslim Maha Vidyalaya, Godapitiya",
+    "Type": "1C",
+    "Students": 450
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Akuressa",
+    "School": "Hulandawa Tamil Maha Vidyalayam, Pitabeddara",
+    "Type": "1C",
+    "Students": 321
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Malimbada",
+    "School": "Rajakeeya Maha Vidyalaya, Telijjawila",
+    "Type": "1C",
+    "Students": 2740
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Malimbada",
+    "School": "Horagoda Maha Vidyalaya, Telijjawila",
+    "Type": "1C",
+    "Students": 522
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Malimbada",
+    "School": "Dampalla Maha Vidyalaya, Telijjawila",
+    "Type": "1C",
+    "Students": 44
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Malimbada",
+    "School": "Sultangoda Maha Vidyalaya, Sultangoda",
+    "Type": "1C",
+    "Students": 74
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Malimbada",
+    "School": "Sri Sumedha Maha Vidyalaya, Malimbada",
+    "Type": "1C",
+    "Students": 999
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Malimbada",
+    "School": "Malimbada North Maha Vidyalaya, Malimbada",
+    "Type": "1C",
+    "Students": 148
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Welipitiya",
+    "School": "Halalla Maha Vidyalaya, Halalla",
+    "Type": "1C",
+    "Students": 858
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Welipitiya",
+    "School": "Jamburegoda Maha Vidyalaya, Jamburegoda",
+    "Type": "1C",
+    "Students": 239
+},
+{
+    "Zone": "Akuressa",
+    "Division": "Welipitiya",
+    "School": "Warakapitiya Maha Vidyalaya, Warakapitiya",
+    "Type": "1C",
+    "Students": 374
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Morawaka",
+    "School": "Dudley Senanayaka Maha Vidyalaya, Gehigaspaha",
+    "Type": "1C",
+    "Students": 1318
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Morawaka",
+    "School": "Siyambalagoda East Maha Vidyalaya, Siyambalagoda",
+    "Type": "1C",
+    "Students": 466
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Morawaka",
+    "School": "Darangala Maha Vidyalaya, Kirihalkele",
+    "Type": "1C",
+    "Students": 656
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Morawaka",
+    "School": "Kalubovitiyana Maha Vidyalaya, Kalubovitiyana",
+    "Type": "1C",
+    "Students": 929
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Morawaka",
+    "School": "Buddhist College, Weliwa",
+    "Type": "1C",
+    "Students": 447
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Kotapola",
+    "School": "M.D Yapa Maha Vidyalaya, Waralla",
+    "Type": "1C",
+    "Students": 603
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Kotapola",
+    "School": "Rajapaksha Maha Vidyalaya, Deniyaya",
+    "Type": "1C",
+    "Students": 994
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Kotapola",
+    "School": "Pallegama Maha Vidyalaya, Pallegama",
+    "Type": "1C",
+    "Students": 755
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Kotapola",
+    "School": "St. Mattew's Bilingual School, Deniyaya",
+    "Type": "1C",
+    "Students": 1362
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Kotapola",
+    "School": "Hanford Tamil Secondary School, Handford",
+    "Type": "1C",
+    "Students": 388
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Kotapola",
+    "School": "Beverey Tamil Maha Vidyalayam, Bevereygama",
+    "Type": "1C",
+    "Students": 450
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Pasgoda",
+    "School": "Ginnaliya Maha Vidyalaya, Urubokka",
+    "Type": "1C",
+    "Students": 523
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Pasgoda",
+    "School": "Beralapantara Secondary School, Beralapantara",
+    "Type": "1C",
+    "Students": 980
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Pasgoda",
+    "School": "Bengamuwa Maha Vidyalaya, Bengamuwa",
+    "Type": "1C",
+    "Students": 442
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Pasgoda",
+    "School": "Srimath Anagarika Dharmapala Maha Vidyalaya, Gomila",
+    "Type": "1C",
+    "Students": 485
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Pasgoda",
+    "School": "Vijayaba Maha Vidyalaya, Rotumba",
+    "Type": "1C",
+    "Students": 324
+},
+{
+    "Zone": "Morawaka",
+    "Division": "Pasgoda",
+    "School": "Pasgoda Maha Vidyalaya, Pasgoda",
+    "Type": "1C",
+    "Students": 641
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Mulatiyana",
+    "School": "Pallewela Maha Vidyalaya, Pallewela",
+    "Type": "1C",
+    "Students": 189
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Mulatiyana",
+    "School": "Vipulasara Maha Vidyalaya, Denagama",
+    "Type": "1C",
+    "Students": 462
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Mulatiyana",
+    "School": "Bamunugama Maha Vidyalaya, Bamunugama",
+    "Type": "1C",
+    "Students": 479
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Mulatiyana",
+    "School": "Ketiyape Maha Vidyalaya, Ketiyape",
+    "Type": "1C",
+    "Students": 233
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Hakmana",
+    "School": "Jayawardhana Maha Vidyalaya, Gangodagama",
+    "Type": "1C",
+    "Students": 298
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Hakmana",
+    "School": "Narawelpitiya South Maha Vidyalaya, Narawelpitiya",
+    "Type": "1C",
+    "Students": 848
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Hakmana",
+    "School": "Denagama Maha Vidyalaya, Denagama",
+    "Type": "1C",
+    "Students": 155
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Hakmana",
+    "School": "Badabadda Maha Vidyalaya, Badabadda",
+    "Type": "1C",
+    "Students": 49
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Hakmana",
+    "School": "Al Mina Muslim Maha Vidyalaya, Mieela",
+    "Type": "1C",
+    "Students": 206
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Kamburupitiya",
+    "School": "Uyangoda Maha Vidyalaya, akragoda",
+    "Type": "1C",
+    "Students": 295
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Kamburupitiya",
+    "School": "Ovitigamuwa Maha Vidyalaya, Ovitigamuwa",
+    "Type": "1C",
+    "Students": 569
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Kamburupitiya",
+    "School": "Ulalla Maha Vidyalaya, Ulalla",
+    "Type": "1C",
+    "Students": 365
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Kamburupitiya",
+    "School": "Hettiyawala East Maha Vidyalaya, Hettiyawala",
+    "Type": "1C",
+    "Students": 235
+},
+{
+    "Zone": "Mulatiyana-Hakmana",
+    "Division": "Tihagoda",
+    "School": "Kitalagama West Maha Vidyalaya, Kitalagama",
+    "Type": "1C",
+    "Students": 323
+},
+{
+    "School": "Asian Grammar School, Matara"
+},
+{
+    "School": "St. Mary's Convent, Matara"
+},
+{
+    "School": "Sussex College Matara"
+},
+{
+    "School": "Brilliant Stars International College, Matara"
+},
+{
+    "School": "Ikra International College, Weligama"
+},
+{
+    "School": "Jennath International School, Weligama"
+},
+{
+    "School": "Leeds international college, Matara"
+},
+{
+    "School": "Salahiya International School, Weligama"
+},
+{
+    "School": "Wisdom International School, Weligama"
+},
+{
+    "School": "Rohana Special School, Welegoda"
+}
+
+
+
+   ]

@@ -1,0 +1,1452 @@
+[
+ {
+   "Zone": "Colombo",
+   "Division": "Borella",
+   "School": "Royal College, Colombo 07",
+   "Type": "1AB",
+   "Students": 8384,
+   "Teachers": 445
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Borella",
+   "School": "Ananda College,Colombo 10",
+   "Type": "1AB",
+   "Students": 7520,
+   "Teachers": 367
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Borella",
+   "School": "Nalanda College, Colombo 10",
+   "Type": "1AB",
+   "Students": 4802,
+   "Teachers": 247
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Borella",
+   "School": "Thurstan College,Colombo 07",
+   "Type": "1AB",
+   "Students": 3257,
+   "Teachers": 186
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Borella",
+   "School": "D. S. Senanayake College,Colombo 07",
+   "Type": "1AB",
+   "Students": 6391,
+   "Teachers": 336
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Borella",
+   "School": "Ananda Balika Vidyalaya,Colombo 10",
+   "Type": "1AB",
+   "Students": 2254,
+   "Teachers": 145
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Borella",
+   "School": "Gothami Balika Vidyalaya,Colombo 10",
+   "Type": "1AB",
+   "Students": 3269,
+   "Teachers": 185
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo Central",
+   "School": "Kotahena Central College,Colombo 13",
+   "Type": "1AB",
+   "Students": 846,
+   "Teachers": 87
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo Central",
+   "School": "Hameed Al Husseinie College,Colombo 12",
+   "Type": "1AB",
+   "Students": 2098,
+   "Teachers": 176
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo Central",
+   "School": "Vivekananda College,Colombo 13",
+   "Type": "1AB",
+   "Students": 2246,
+   "Teachers": 159
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Isipathana College,Colombo 05",
+   "Type": "1AB",
+   "Students": 4665,
+   "Teachers": 289
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Mahanama College,Colombo 03",
+   "Type": "1AB",
+   "Students": 4397,
+   "Teachers": 207
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Lumbini College, Colombo 05",
+   "Type": "1AB",
+   "Students": 3532,
+   "Teachers": 184
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Visakha Vidyalaya,Colombo 05",
+   "Type": "1AB",
+   "Students": 5332,
+   "Teachers": 257
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Devi Balika Vidyalaya,Colombo 08",
+   "Type": "1AB",
+   "Students": 2991,
+   "Teachers": 170
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "St. Pauls Girls School Milagiriya,Colombo 4",
+   "Type": "1AB",
+   "Students": 3524,
+   "Teachers": 175
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Sirimavo Bandaranaike Vidyalaya,Colombo 07",
+   "Type": "1AB",
+   "Students": 3644,
+   "Teachers": 224
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Muslim Ladies College,Colombo 04",
+   "Type": "1AB",
+   "Students": 3402,
+   "Teachers": 194
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Ramanathan Hindu Ladies College,Colombo 04",
+   "Type": "1AB",
+   "Students": 1776,
+   "Teachers": 140
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Colombo Hindu College,Colombo 04",
+   "Type": "1AB",
+   "Students": 3267,
+   "Teachers": 167
+ },
+ {
+   "Zone": "Colombo",
+   "Division": "Colombo South",
+   "School": "Defence Services School, Colombo",
+   "Type": "2",
+   "Students": 2228,
+   "Teachers": 122
+ },
+ {
+   "Zone": "Sri Jayawardhenepura Kotte",
+   "Division": "Kaduwela",
+   "School": "Bomiriya National School,Bomiriya",
+   "Type": "1AB",
+   "Students": 3864,
+   "Teachers": 178
+ },
+ {
+   "Zone": "Sri Jayawardhenepura Kotte",
+   "Division": "Kaduwela",
+   "School": "Sri Subhuthi National School,Battaramulla",
+   "Type": "1AB",
+   "Students": 1125,
+   "Teachers": 100
+ },
+ {
+   "Zone": "Sri Jayawardhenepura Kotte",
+   "Division": "Kolonnawa",
+   "School": "Sri Rajasinghe Central College,Mulleriyawa",
+   "Type": "1AB",
+   "Students": 1255,
+   "Teachers": 101
+ },
+ {
+   "Zone": "Sri Jayawardhenepura Kotte",
+   "Division": "Kolonnawa",
+   "School": "Kolonnawa Balika Vidyalaya,Kolonnawa",
+   "Type": "1AB",
+   "Students": 2825,
+   "Teachers": 202
+ },
+ {
+   "Zone": "Sri Jayawardhenepura Kotte",
+   "Division": "Maharagama",
+   "School": "Dharmapala Vidyalaya,Pannipitiya",
+   "Type": "1AB",
+   "Students": 5348,
+   "Teachers": 286
+ },
+ {
+   "Zone": "Sri Jayawardhenepura Kotte",
+   "Division": "Nugegoda",
+   "School": "Ananda Sastralaya, Kotte",
+   "Type": "1AB",
+   "Students": 2455,
+   "Teachers": 159
+ },
+ {
+   "Zone": "Sri Jayawardhenepura Kotte",
+   "Division": "Nugegoda",
+   "School": "President's College, Sri Jayawardenapura Kotte",
+   "Type": "1AB",
+   "Students": 3310,
+   "Teachers": 227
+ },
+ {
+   "Zone": "Sri Jayawardhenepura Kotte",
+   "Division": "Nugegoda",
+   "School": "Anula Vidyalaya,Nugegoda",
+   "Type": "1AB",
+   "Students": 5196,
+   "Teachers": 258
+ },
+ {
+   "Zone": "Homagama",
+   "Division": "Hanwella",
+   "School": "Rajasinghe Central College,Hanwella",
+   "Type": "1AB",
+   "Students": 2778,
+   "Teachers": 313
+ },
+ {
+   "Zone": "Homagama",
+   "Division": "Hanwella",
+   "School": "Seethawaka National School,Avissawella",
+   "Type": "1AB",
+   "Students": 2542,
+   "Teachers": 169
+ },
+ {
+   "Zone": "Homagama",
+   "Division": "Homagama",
+   "School": "Mahinda Rajapakse National School,Homagama",
+   "Type": "1AB",
+   "Students": 4316,
+   "Teachers": 296
+ },
+ {
+   "Zone": "Homagama",
+   "Division": "Homagama",
+   "School": "Suneetha College,Vatareka",
+   "Type": "1C",
+   "Students": 49,
+   "Teachers": null
+ },
+ {
+   "Zone": "Piliyandala",
+   "Division": "Dehiwala",
+   "School": "St. John's College  Nugegoda",
+   "Type": "1AB",
+   "Students": 4107,
+   "Teachers": 186
+ },
+ {
+   "Zone": "Piliyandala",
+   "Division": "Dehiwala",
+   "School": "Presbyterian Girls' National School,Dehiwala",
+   "Type": "1AB",
+   "Students": 1964,
+   "Teachers": 113
+ },
+ {
+   "Zone": "Piliyandala",
+   "Division": "Kesbewa",
+   "School": "Piliyandala Central College,Piliyandala",
+   "Type": "1AB",
+   "Students": 3537,
+   "Teachers": 223
+ },
+ {
+   "Zone": "Piliyandala",
+   "Division": "Moratuwa",
+   "School": "Prince of Wales' College, Moratuwa",
+   "Type": "1AB",
+   "Students": 4322,
+   "Teachers": 206
+ },
+ {
+   "Zone": "Piliyandala",
+   "Division": "Moratuwa",
+   "School": "Princess of Wales' College, Moratuwa",
+   "Type": "1AB",
+   "Students": 3286,
+   "Teachers": 181
+ },
+{
+    "Zone": "Colombo",
+    "Division": "Borella",
+    "School": "All Saint's Balika Maha Vidyalaya,Colombo 10",
+    "Type": "1C",
+    "Students": 1057
+},
+{
+    "Zone": "Colombo",
+    "Division": "Borella",
+    "School": "Anuruddha Balika Maha Vidyalaya,Colombo 09",
+    "Type": "1C",
+    "Students": 987
+},
+{
+    "Zone": "Colombo",
+    "Division": "Borella",
+    "School": "Presbyterian Balika Maha Vidyalaya,Colombo 10",
+    "Type": "1C",
+    "Students": 905
+},
+{
+    "Zone": "Colombo",
+    "Division": "Borella",
+    "School": "Rathnawali Balika Maha Vidyalaya,Colombo 08",
+    "Type": "1C",
+    "Students": 1706
+},
+{
+    "Zone": "Colombo",
+    "Division": "Borella",
+    "School": "St. John's College, Colombo 09",
+    "Type": "1C",
+    "Students": 1081
+},
+{
+    "Zone": "Colombo",
+    "Division": "Borella",
+    "School": "St. Mathew's College,Colombo 09",
+    "Type": "1C",
+    "Students": 947
+},
+{
+    "Zone": "Colombo",
+    "Division": "Borella",
+    "School": "Susamayawardhene Maha Vidyalaya,Borella",
+    "Type": "1C",
+    "Students": 767
+},
+{
+    "Zone": "Colombo",
+    "Division": "Borella",
+    "School": "Vipulanathan Tamil Maha Vidyalaya,Colombo 09",
+    "Type": "1C",
+    "Students": 719
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Darussalam Maha Vidyalaya,Colombo 10",
+    "Type": "1C",
+    "Students": 1184
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Hemamali Balika Maha Vidyalaya,Colombo 10",
+    "Type": "1C",
+    "Students": 864
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Al Hidhaya Muslim Maha Vidyalaya,Colombo 10",
+    "Type": "1C",
+    "Students": 1168
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Al Naseer Muslim Maha Vidyalaya,Colombo 14",
+    "Type": "1C",
+    "Students": 838
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Clifton Balika Maha Vidyalaya,Colombo 09",
+    "Type": "1C",
+    "Students": 987
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Colombo Central Hindu Maha Vidyalaya,Colombo 13",
+    "Type": "1C",
+    "Students": 626
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Kanapathy Hindu Ladies College,Colombo 12",
+    "Type": "1C",
+    "Students": 959
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Mahabodhi Maha Vidyalaya,Colombo 10",
+    "Type": "1C",
+    "Students": 561
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Rajasinghe Maha Vidyalaya,Colombo 09",
+    "Type": "1C",
+    "Students": 621
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "St. Anne's Girls School,Colombo 13",
+    "Type": "1C",
+    "Students": 971
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "St. Anthoni Balika Maha Vidyalaya,Colombo 09",
+    "Type": "1C",
+    "Students": 820
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "St. Anthoni Balaka Maha Vidyalaya,Colombo 13",
+    "Type": "1C",
+    "Students": 1088
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "St. Joseph's Balika Maha Vidyalaya,Colombo 14",
+    "Type": "1C",
+    "Students": 1383
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "St. Joseph's Balaka Maha Vidyalaya,Colombo 14",
+    "Type": "1C",
+    "Students": 1025
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "T.B Jayah Zahira Maha Vidyalaya,Colombo 02",
+    "Type": "1C",
+    "Students": 680
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Wolvendhal Balika Maha Vidyalaya,Colombo 13",
+    "Type": "1C",
+    "Students": 1473
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo Central",
+    "School": "Al Hikma Muslim Maha Vidyalay,Colombo 12",
+    "Type": "1C",
+    "Students": 1321
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo North",
+    "School": "St. Lucia's College, Colombo 13",
+    "Type": "1C",
+    "Students": 773
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo North",
+    "School": "Mutwal Hindu College,Colombo 15",
+    "Type": "1C",
+    "Students": 1192
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo North",
+    "School": "Good Shepherd Convent, Colombo 13",
+    "Type": "1C",
+    "Students": 1062
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo North",
+    "School": "Hamza Muslim Maha Vidyalaya,Colombo 15",
+    "Type": "1C",
+    "Students": 545
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo North",
+    "School": "Mahawatta St. Anthoni Tamil Maha Vidyalaya,Colombo 14",
+    "Type": "1C",
+    "Students": 732
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo North",
+    "School": "Sir Razik Fareed Muslim Balika Maha Vidyalaya,Colombo 15",
+    "Type": "1C",
+    "Students": 994
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo North",
+    "School": "St. Anthoni Baliaka Maha Vidyalaya,Colombo 15",
+    "Type": "1C",
+    "Students": 864
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo North",
+    "School": "Modara Ananda Madhya Maha Vidyalaya,Colombo 15",
+    "Type": "1C",
+    "Students": 549
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo South",
+    "School": "Dudley Senanayake Maha Vidyalaya,Colombo 05",
+    "Type": "1C",
+    "Students": 620
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo South",
+    "School": "Ramakrishna Tamil Maha Vidyalaya,Colombo 06",
+    "Type": "1C",
+    "Students": 340
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo South",
+    "School": "St. Anthoni Balika Maha Vidyalaya,Colombo 03",
+    "Type": "1C",
+    "Students": 711
+},
+{
+    "Zone": "Colombo",
+    "Division": "Colombo South",
+    "School": "St. Mary's Balika Maha Vidyalaya,Colombo 03",
+    "Type": "1C",
+    "Students": 506
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Kaduwela",
+    "School": "Karathota Sri Somananda Maha Vidyalaya,Kaduwela",
+    "Type": "1C",
+    "Students": 662
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Kaduwela",
+    "School": "Sri Yasodara Maha Vidyalaya,Malambe",
+    "Type": "1C",
+    "Students": 591
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Kaduwela",
+    "School": "Vidyaraja Maha Vidyalaya,Hokandara",
+    "Type": "1C",
+    "Students": 685
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Kaduwela",
+    "School": "Vidyawardhana Maha Vidyalaya,Battaramulla",
+    "Type": "1C",
+    "Students": 349
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Kaduwela",
+    "School": "Kothalawala Maha Vidyalaya,Kaduwela",
+    "Type": "1C",
+    "Students": 893
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Kaduwela",
+    "School": "M.D.H Jayawardhana Maha Vidyalaya,Battaramulla",
+    "Type": "1C",
+    "Students": 592
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Kolonnawa",
+    "School": "Ambathale Samudradevi Balika Maha Vidyalaya,Mulleriayawa",
+    "Type": "1C",
+    "Students": 744
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Kolonnawa",
+    "School": "Sri Rahula Maha Vidyalaya,Mulleriyawa",
+    "Type": "1C",
+    "Students": 1761
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Kolonnawa",
+    "School": "Henry Olcott Maha Vidyalaya,Kolonnawa",
+    "Type": "1C",
+    "Students": 1067
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Maharagama",
+    "School": "Kottawa Ananda Maha Vidyalaya,Pannipitiya",
+    "Type": "1C",
+    "Students": 2263
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Maharagama",
+    "School": "Buwanekaba Maha Vidyalaya,Maharagama",
+    "Type": "1C",
+    "Students": 505
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Nugegoda",
+    "School": "St. Thomas' College, Kotte",
+    "Type": "1C",
+    "Students": 1299
+},
+{
+    "Zone": "Sri Jayawardhenepura Kotte",
+    "Division": "Nugegoda",
+    "School": "Hewavitharana Maha Vidyalaya,Rajagiriya",
+    "Type": "1C",
+    "Students": 778
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Dehiwala",
+    "School": "Dehiwala Tamil Maha Vidyalaya,Dehiwala",
+    "Type": "1C",
+    "Students": 282
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Dehiwala",
+    "School": "Nugegoda Tamil Maha Vidyalaya,Nugegoda",
+    "Type": "1C",
+    "Students": 249
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Dehiwala",
+    "School": "Kothalawalpura Maha Vidyalaya,Ratmalana",
+    "Type": "1C",
+    "Students": 750
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Dehiwala",
+    "School": "Shastrananda Maha Vidyalaya,Dehiwala",
+    "Type": "1C",
+    "Students": 670
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Dehiwala",
+    "School": "Buddhaghosha Maha Vidyalaya,Dehiwala",
+    "Type": "1C",
+    "Students": 355
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Dehiwala",
+    "School": "Kandawala Navodya Maha Vidyalaya,Ratmalana",
+    "Type": "1C",
+    "Students": 523
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "kesbewa",
+    "School": "Boralesgamuwa Maha Vidyalaya,Boralesgamuwa",
+    "Type": "1C",
+    "Students": 422
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "kesbewa",
+    "School": "Mampe Dharmaraja Maha Vidyalaya,Piliyandala",
+    "Type": "1C",
+    "Students": 1032
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "kesbewa",
+    "School": "Arawwala Vidyaloka Maha Vidyalaya,Pannipitiya",
+    "Type": "1C",
+    "Students": 1122
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "kesbewa",
+    "School": "East Arawwala Dharmaraja Maha Vidyalaya,Pannipitiya",
+    "Type": "1C",
+    "Students": 1109
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "kesbewa",
+    "School": "Sir John Kothalawala Maha Vidyalaya,Piliyandala",
+    "Type": "1C",
+    "Students": 2437
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "kesbewa",
+    "School": "Phillip Attygala Maha Vidyalaya,Madapatha",
+    "Type": "1C",
+    "Students": 696
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Moratuwa",
+    "School": "Arafath Muslim Maha Vidyalaya,Moratuwa",
+    "Type": "1C",
+    "Students": 222
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Moratuwa",
+    "School": "Methodist High School,Moratuwa",
+    "Type": "1C",
+    "Students": 1379
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Moratuwa",
+    "School": "De Soysa Navodya Maha Vidyalaya,Moratuwa",
+    "Type": "1C",
+    "Students": 1092
+},
+{
+    "Zone": "Piliyandala",
+    "Division": "Moratuwa",
+    "School": "Sri Sunandopananda Navodya Maha Vidyalaya,Moratuwa",
+    "Type": "1C",
+    "Students": 380
+},
+{
+    "Zone": "Homagama",
+    "Division": "Hanwella",
+    "School": "Mayadunna Maha Vidyalaya,Hanwella",
+    "Type": "1C",
+    "Students": 1740
+},
+{
+    "Zone": "Homagama",
+    "Division": "Hanwella",
+    "School": "St. Mary's College,Avissawella",
+    "Type": "1C",
+    "Students": 1296
+},
+{
+    "Zone": "Homagama",
+    "Division": "Hanwella",
+    "School": "St. John Bosco's College,Hanwella",
+    "Type": "1C",
+    "Students": 1421
+},
+{
+    "Zone": "Homagama",
+    "Division": "Hanwella",
+    "School": "Puwakpitiya Tamil Maha Vidyalaya,Puwakpitiya",
+    "Type": "1C",
+    "Students": 738
+},
+{
+    "Zone": "Homagama",
+    "Division": "Homagama",
+    "School": "Pitipana Maha Vidyalaya,Homagama",
+    "Type": "1C",
+    "Students": 304
+},
+{
+    "Zone": "Homagama",
+    "Division": "Homagama",
+    "School": "Mattegoda Vidyadeepa Maha Vidyalaya,Pannipitiya",
+    "Type": "1C",
+    "Students": 1645
+},
+{
+    "Zone": "Homagama",
+    "Division": "Homagama",
+    "School": "President's College,Homagama",
+    "Type": "1C",
+    "Students": 2558
+},
+{
+    "Zone": "Homagama",
+    "Division": "Homagama",
+    "School": "Sri Medhananda Maha Vidyalaya,Pannipitiya",
+    "Type": "1C",
+    "Students": 129
+},
+{
+    "Zone": "Homagama",
+    "Division": "Homagama",
+    "School": "Sri Parakrama Maha Vidyalaya,Homagama",
+    "Type": "1C",
+    "Students": 1662
+},
+{
+    "Zone": "Homagama",
+    "Division": "Padukka",
+    "School": "Waga Sri Rathanasara Maha Vidyalaya,Thummodara",
+    "Type": "1C",
+    "Students": 456
+},
+{
+    "Zone": "Homagama",
+    "Division": "Padukka",
+    "School": "Rajapola Maha Vidyalaya,Pinnawala",
+    "Type": "1C",
+    "Students": 521
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Al Iman School,Dehiwala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Al Iman School,Mount Lavinia"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Alexandra College,Maradana"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Bishop's College, Colombo 03"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Burhani Serandib School,Colombo 04"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Buddhist Ladies' College,Colombo 07"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Carey College, Colombo,Colombo 08"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Christ King College,Pannipitiya"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "C.M.S. Ladies' College, Colombo 03"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Convent of Our lady of Victories,Moratuwa"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Elizabeth Moir School,Colombo 05"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Good Shepherd Convent, Colombo 13"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Gateway College,Dehiwala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Gateway College Colombo"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Highlands College,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Hindu Ladies College,Colombo 06"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Holy Family Convent, Bambalapitiya"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Holy Family Convent, Dehiwela"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Kanza College,Colombo 10"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Kebel College,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Logos College,Colombo 06"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "LPF School,Ratmalana"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Louvre College, Pannipitiya"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Louvre College, Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Methodist College, Colombo"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Musaeus College, Colombo 7"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "NCEF Buddhist College,Mulleriyawa"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Overseas School of Colombo"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Princeway College, Avissawella"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Polymath College,Maharagama"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Spectrum College,Mount Lavinia"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St. Lawrence's Convent, Colombo 06"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St Benedict's College Colombo"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St. Michael's College, Homagama"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St. Michael's College, Meegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St Peter's College, Colombo 04"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St. Sebastian's College, Moratuwa"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St Bridget's Convent, Colombo 13"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "S. Thomas' College, Mount Lavinia"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "S. Thomas' Preparatory School, Kollupitiya"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Sujatha Vidyalaya, Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St. Joseph's College, Colombo 10"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St. Joseph's Boys' College, Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Sussex College,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St.Bridget Convent,Colombo 07"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Springfield College,Colombo 08"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Vidura College, Nawala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Wesley College, Colombo 09"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Zahira College, Colombo 10"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Al Manar International School,Colombo 09"
+},
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    "FIELD1": "",
+    "FIELD2": "Alethea International School,Dehiwala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Alexor International School,Colombo 10"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Amal International School,Colombo 06"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Apple International School,Colombo 09"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Apple International School,Colombo 13"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Apple International School,Colombo 15"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Atamie International School,Colombo 13"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Al Quds Arabic International school,Colombo 10"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Al Quds Arabic International school,Dehiwala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Asian Grammar International School,Gothatuwa"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Asian International School,Battaramulla"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Asian International School,Colombo 05"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "ACE Institute International School,Colombo 06"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Belvoir College International,Colombo 05"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Bond International School,Colombo 05"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Brightens International School,Colombo 09"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Buckingham International School,Colombo 15"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Brisbane Internatonal School,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "British School in Colombo 10"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Cambridge international school,Colombo 15"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Campbell International School,Colombo 10"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Campbell International School,Kotikawatta"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Colombo International School,Colombo 07"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Crescent Schools International,Colombo 9"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Crescent Schools International,Colombo 15"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Crescent Schools International,Wellampitiya"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Colombo South International College,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Dharul Hikma International School,Colombo 15"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Dhilshaath International College,Dematagoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "East Asian International College,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Eskola International School,Colombo 13"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "ESOL International School,Hanwella"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "ESOL International School,Kaduwela"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "ESOL International School,Maharagama"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "École Française Internationale de Colombo 05"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Global International School,Colombo 15"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Green Bridge International College,Kolonnawa"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Harcourts International School,Dehiwala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Hejaaz International School,Mount Lavinia[2]"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Horizon College International,Malabe"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Horizon College International,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Hilburn International School,Avissawella"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Ikra International School,Colombo 03"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Ikra International School,Kolonnawa"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Ilma International Girls' School,Colombo 05"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "I Gate International School,Thalawathugoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "J.M.C. International School,Colombo 02"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "J.M.C. International School,Colombo 05"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "J.M.C. International School,Colombo 09"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "J.M.C. International School,Kaduwela"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "J.M.C. International School,Maharagama"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "J.M.C. International School,Mulleriyawa"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Kingston College international,Wellawatta"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Kingston College international,Colombo 15"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Kingston College international,Mount lavinia"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Learnium International School,Rajagiriya"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Lakeland International American School,Ratmalana"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Lead the Way Girls' International,Dehiwala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Learning Excellence International College,Battaramulla"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Leeds International School,Piliyandala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Liberty International School,Colombo 07"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Liberty Intenational School,Ethul Kotte"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Lyceum International School,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Linfield Internanational School,Mortuwa"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Linfield Internanational School,Piliyandala[3]"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Linfield Internanational School,Pannipitiya"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Linfield Internanational School,Godagama"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Mukarramah International School,Colombo 09"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "M.D Gunasena International School,Colombo 12"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Minaret International Girl's School,Dehiwala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Mysticle Rose Institute International School,Ethulotte"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Negombo South International School,Negombo"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Negombo South International School, Piliyandala"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "OKI International School,Kaduwela"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "OKI International School,Kotikawatta"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Rawdha Aysha International School,Colombo 06"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Readway International College of Education,Dematagoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Rotary International School,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Rotary International School,Delkanda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Royal Institute International School,Nugegoda"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Royal Institute International School,Colombo 05"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Royal Institute International School,Maharagama"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Royal Institute International school,Colombo 06"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "School of Arts and Science,Colombo 07"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "St. Nicholas' International College,Battaramulla"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Stafford International School,Colombo 07"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Shaffield International School,Pitakotte"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "The Study International School,Colombo 07"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "The Study International School,Battaramulla"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Willesden College International,Battaramulla"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Wycherley International School,Colombo 07"
+},
+{
+    "FIELD1": "",
+    "FIELD2": "Winway International School,Battaramulla"
+}
+]
